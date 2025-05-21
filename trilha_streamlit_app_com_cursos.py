@@ -2,14 +2,14 @@ import streamlit as st
 import json
 
 st.set_page_config(layout="wide")
-st.title("🧭 Trilha de Estudos - Analista de Dados")
+st.title("🎲 Carreira de Analista de Dados")
 
 # CSS para estilização refinada
 st.markdown("""
 <style>
 /* Fonte maior para os nomes dos blocos */
-.streamlit-expanderHeader {
-    font-size: 18px !important;
+div[data-testid="stExpander"] div[data-testid="stMarkdownContainer"] {
+    font-size: 24px !important;
     font-weight: bold;
 }
 
@@ -71,30 +71,30 @@ with open("step_05_ementa_atualizada__Rodrigo.json", "r", encoding="utf-8") as f
 for etapa in trilha["ementa"]:
     st.header(f"{etapa['nivel']} - {etapa['subnivel']}")
     for bloco in etapa["blocos_tematicos"]:
-        with st.expander(bloco["nome"]):
-            st.markdown(f"### 📝 Descrição")
-            st.markdown(bloco["descricao"])
+        with st.expander(f"## 📦 {bloco["nome"]}"):
+            st.markdown(f"##### 📝 Descrição")
+            st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>{bloco["descricao"]}</p>", unsafe_allow_html=True)
 
-            st.markdown("### 🎯 Projetos")
+            st.markdown("##### 🎯 Projetos")
             for projeto in bloco.get("projetos", []):
-                st.markdown(f"- {projeto}")
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{projeto}</p>", unsafe_allow_html=True)
 
-            st.markdown("### 🧠 Hard Skills")
+            st.markdown("##### 🧠 Hard Skills")
             for skill in bloco.get("hard_skills", []):
-                st.markdown(f"- {skill}")
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{skill}</p>", unsafe_allow_html=True)
 
-            st.markdown("### 💬 Soft Skills")
+            st.markdown("##### 💬 Soft Skills")
             for skill in bloco.get("soft_skills", []):
-                st.markdown(f"- {skill}")
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{skill}</p>", unsafe_allow_html=True)
 
-            st.markdown("### 🛠 Ferramentas")
+            st.markdown("##### 🛠 Ferramentas")
             for ferramenta in bloco.get("ferramentas_principais", []):
-                st.markdown(f"- {ferramenta}")
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{ferramenta}</p>", unsafe_allow_html=True)
 
             # Cursos organizados por stack
             cursos = bloco.get("cursos", [])
             if cursos:
-                st.markdown("### 🎓 Cursos Associados por Stack")
+                st.markdown("##### 🎓 Cursos Associados por Stack")
                 cols = st.columns(len(cursos))
                 for col, stack_entry in zip(cols, cursos):
                     with col:
