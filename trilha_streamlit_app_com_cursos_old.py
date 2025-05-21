@@ -4,7 +4,7 @@ import json
 st.set_page_config(layout="wide")
 st.title("🧭 Trilha de Estudos - Analista de Dados")
 
-with open("step_05_ementa_atualizada__Rodrigo.json", "r", encoding="utf-8") as f:
+with open("step_04_ementa_atualizada__Rodrigo.json", "r", encoding="utf-8") as f:
     trilha = json.load(f)
 
 for etapa in trilha["ementa"]:
@@ -31,15 +31,11 @@ for etapa in trilha["ementa"]:
 
             cursos = bloco.get("cursos", [])
             if cursos:
-                st.markdown("**🎓 Cursos Associados por Stack:**")
-                cols = st.columns(len(cursos))
-                for col, stack_entry in zip(cols, cursos):
-                    with col:
-                        st.markdown(f"**{stack_entry['stack']}**")
-                        for curso in stack_entry.get("cursos", []):
-                            nome = curso.get("nome", "Curso sem nome")
-                            link = curso.get("link", "")
-                            if link:
-                                st.markdown(f"- [{nome}]({link})")
-                            else:
-                                st.markdown(f"- {nome}")
+                st.markdown("**🎓 Cursos Associados:**")
+                for curso in cursos:
+                    nome = curso.get("nome", "Curso sem nome")
+                    link = curso.get("link", "")
+                    if link:
+                        st.markdown(f"- [{nome}]({link})")
+                    else:
+                        st.markdown(f"- {nome}")
