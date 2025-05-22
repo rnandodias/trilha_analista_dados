@@ -40,17 +40,20 @@
                 {
                   "id": 2922,
                   "nome": "Python para Data Science: primeiros passos",
-                  "link": "https://cursos.alura.com.br/course/python-data-science-primeiros-passos"
+                  "link": "https://cursos.alura.com.br/course/python-data-science-primeiros-passos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2923,
                   "nome": "Python para Data Science: trabalhando com funções, estruturas de dados e exceções",
-                  "link": "https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes"
+                  "link": "https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4415,
                   "nome": "Praticando Python: estruturas de dados",
-                  "link": "https://cursos.alura.com.br/course/praticando-python-estruturas-dados"
+                  "link": "https://cursos.alura.com.br/course/praticando-python-estruturas-dados",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -85,12 +88,14 @@
                 {
                   "id": 3293,
                   "nome": "Introdução à SQL",
-                  "link": "https://cursos.alura.com.br/course/introducao-sql"
+                  "link": "https://cursos.alura.com.br/course/introducao-sql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2953,
                   "nome": "SQLite online: conhecendo instruções SQL",
-                  "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql"
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -100,7 +105,8 @@
                 {
                   "id": 3018,
                   "nome": "Microsoft SQL Server 2022: conhecendo SQL",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-conhecendo-sql"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-conhecendo-sql",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -138,7 +144,7 @@
                   "id": 1177,
                   "nome": "Estatística com Python: frequências e medidas",
                   "link": "https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas",
-                  "obs": "REGRAVAÇÃO"
+                  "status": "REGRAVAÇÃO"
                 }
               ]
             }
@@ -230,7 +236,7 @@
                   "id": 0,
                   "nome": "Trabalhando com Dados: O que faz um profissional da área de dados",
                   "link": "https://cursos.alura.com.br/",
-                  "obs": "NEW"
+                  "status": "NOVIDADE"
                 }
               ]
             }
@@ -266,127 +272,152 @@
                 {
                   "id": 3195,
                   "nome": "Excel: domine o editor de planilhas",
-                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas"
+                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4423,
                   "nome": "Praticando Excel: criando tabelas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4425,
                   "nome": "Praticando Excel: utilizando fórmulas matemáticas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4426,
                   "nome": "Praticando Excel: funções condicionais",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4427,
                   "nome": "Praticando Excel: validação de dados",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4428,
                   "nome": "Praticando Excel: construindo tabelas dinâmicas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3196,
                   "nome": "Funções com Excel: operações matemáticas e filtros",
-                  "link": "https://cursos.alura.com.br/course/funcoes-excel-operacoes-matematicas-filtros"
+                  "link": "https://cursos.alura.com.br/course/funcoes-excel-operacoes-matematicas-filtros",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3197,
                   "nome": "Recursos Visuais com Excel: explorando gráficos e formatos",
-                  "link": "https://cursos.alura.com.br/course/recursos-visuais-excel-graficos-formatos"
+                  "link": "https://cursos.alura.com.br/course/recursos-visuais-excel-graficos-formatos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3198,
                   "nome": "Excel: aprendendo lógica booleana e busca por valores",
-                  "link": "https://cursos.alura.com.br/course/excel-logica-booleana-busca-valores"
+                  "link": "https://cursos.alura.com.br/course/excel-logica-booleana-busca-valores",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3199,
                   "nome": "Excel: utilizando tabelas dinâmicas e gráficos dinâmicos",
-                  "link": "https://cursos.alura.com.br/course/excel-utilizando-tabelas-dinamicas-graficos-dinamicos"
+                  "link": "https://cursos.alura.com.br/course/excel-utilizando-tabelas-dinamicas-graficos-dinamicos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3200,
                   "nome": "Excel: automatizando tarefas com Macros",
-                  "link": "https://cursos.alura.com.br/course/excel-automatizando-tarefas-macros"
+                  "link": "https://cursos.alura.com.br/course/excel-automatizando-tarefas-macros",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3585,
                   "nome": "Excel Para Além das Fórmulas",
-                  "link": "https://cursos.alura.com.br/course/excel-alem-formulas"
+                  "link": "https://cursos.alura.com.br/course/excel-alem-formulas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1008,
                   "nome": "Excel: simulação e análise de cenários",
-                  "link": "https://cursos.alura.com.br/course/excel-simulacao-e-analise-de-cenarios"
+                  "link": "https://cursos.alura.com.br/course/excel-simulacao-e-analise-de-cenarios",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1225,
                   "nome": "Análise de dados: cálculos, padrões e estratégias com Excel",
-                  "link": "https://cursos.alura.com.br/course/analise-de-dados-excel"
+                  "link": "https://cursos.alura.com.br/course/analise-de-dados-excel",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2908,
                   "nome": "BI com Excel: criando bancos de dados com planilhas",
-                  "link": "https://cursos.alura.com.br/course/bi-excel-crie-bancos-dados-planilhas"
+                  "link": "https://cursos.alura.com.br/course/bi-excel-crie-bancos-dados-planilhas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2909,
                   "nome": "BI com Excel: criando um Dashboard sem complicação",
-                  "link": "https://cursos.alura.com.br/course/bi-excel-criando-dashboard-sem-complicacao"
+                  "link": "https://cursos.alura.com.br/course/bi-excel-criando-dashboard-sem-complicacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2910,
                   "nome": "BI com Excel: trabalhando com tabelas dinâmicas com Power Pivot",
-                  "link": "https://cursos.alura.com.br/course/bi-excel-tabelas-dinamicas-power-pivot"
+                  "link": "https://cursos.alura.com.br/course/bi-excel-tabelas-dinamicas-power-pivot",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2911,
                   "nome": "BI com Excel: criando Dashboard com Power Pivot",
-                  "link": "https://cursos.alura.com.br/course/bi-excel-dashboard-power-pivot"
+                  "link": "https://cursos.alura.com.br/course/bi-excel-dashboard-power-pivot",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2912,
                   "nome": "BI com Excel: conhecendo o Power Query",
-                  "link": "https://cursos.alura.com.br/course/bi-excel-power-query"
+                  "link": "https://cursos.alura.com.br/course/bi-excel-power-query",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2913,
                   "nome": "BI com Excel: dashboard com Power Query",
-                  "link": "https://cursos.alura.com.br/course/excel-dashboards-power-query"
+                  "link": "https://cursos.alura.com.br/course/excel-dashboards-power-query",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3719,
                   "nome": "Excel aplicado ao mercado financeiro: construindo dashboards e realizando consultas",
-                  "link": "https://cursos.alura.com.br/course/excel-aplicado-mercado-financeiro-dashboards-realizando-consultas"
+                  "link": "https://cursos.alura.com.br/course/excel-aplicado-mercado-financeiro-dashboards-realizando-consultas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4002,
                   "nome": "Análise financeira eficiente: automatize o Excel com Power Query e Power Pivot",
-                  "link": "https://cursos.alura.com.br/course/analise-financeira-eficiente-automatize-excel-power-query-power-pivot"
+                  "link": "https://cursos.alura.com.br/course/analise-financeira-eficiente-automatize-excel-power-query-power-pivot",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4247,
                   "nome": "Excel para RH: construindo seu primeiro relatório",
-                  "link": "https://cursos.alura.com.br/course/excel-rh-construindo-primeiro-relatorio"
+                  "link": "https://cursos.alura.com.br/course/excel-rh-construindo-primeiro-relatorio",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4248,
                   "nome": "Excel avançado para RH: funções, análises e dashboards estratégicos",
-                  "link": "https://cursos.alura.com.br/course/excel-avancado-rh-funcoes-analises-dashboards-estrategicos"
+                  "link": "https://cursos.alura.com.br/course/excel-avancado-rh-funcoes-analises-dashboards-estrategicos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4249,
                   "nome": "Excel estratégico para RH: automação, macros e planejamento avançado",
-                  "link": "https://cursos.alura.com.br/course/excel-estrategico-rh-automacao-macros-planejamento-avancado"
+                  "link": "https://cursos.alura.com.br/course/excel-estrategico-rh-automacao-macros-planejamento-avancado",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -396,47 +427,56 @@
                 {
                   "id": 3636,
                   "nome": "VBA: automatizando tarefas diárias sem ser Dev",
-                  "link": "https://cursos.alura.com.br/course/vba-automatizando-tarefas-diarias-sem-ser-dev"
+                  "link": "https://cursos.alura.com.br/course/vba-automatizando-tarefas-diarias-sem-ser-dev",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3637,
                   "nome": "VBA: manipulação e limpeza de dados",
-                  "link": "https://cursos.alura.com.br/course/vba-manipulacao-limpeza-dados"
+                  "link": "https://cursos.alura.com.br/course/vba-manipulacao-limpeza-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3690,
                   "nome": "VBA: fazendo um cadastro personalizado",
-                  "link": "https://cursos.alura.com.br/course/vba-fazendo-cadastro-personalizado"
+                  "link": "https://cursos.alura.com.br/course/vba-fazendo-cadastro-personalizado",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3691,
                   "nome": "VBA: automatizando a comparação entre planilhas e dados",
-                  "link": "https://cursos.alura.com.br/course/vba-automatizando-comparacao-planilhas-dados"
+                  "link": "https://cursos.alura.com.br/course/vba-automatizando-comparacao-planilhas-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3692,
                   "nome": "VBA : integrando Outlook com IA's",
-                  "link": "https://cursos.alura.com.br/course/vba-integrando-outlook-ias"
+                  "link": "https://cursos.alura.com.br/course/vba-integrando-outlook-ias",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3693,
                   "nome": "VBA: aplicando IA para automação e análise de dados",
-                  "link": "https://cursos.alura.com.br/course/vba-aplicando-ia-automacao-analise-dados"
+                  "link": "https://cursos.alura.com.br/course/vba-aplicando-ia-automacao-analise-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2092,
                   "nome": "Excel VBA: criando Formulários para facilitar a entrada de dados nas planilhas",
-                  "link": "https://cursos.alura.com.br/course/excel-vba-formularios-facilitar-entrada-dados-planilhas"
+                  "link": "https://cursos.alura.com.br/course/excel-vba-formularios-facilitar-entrada-dados-planilhas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2093,
                   "nome": "Excel VBA 3: criando conexão com o Outlook Application",
-                  "link": "https://cursos.alura.com.br/course/excel-vba-conexao-outlook-application"
+                  "link": "https://cursos.alura.com.br/course/excel-vba-conexao-outlook-application",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2120,
                   "nome": "Excel VBA 4: criando conexão com Access",
-                  "link": "https://cursos.alura.com.br/course/excel-vba-4-criando-conexao-access"
+                  "link": "https://cursos.alura.com.br/course/excel-vba-4-criando-conexao-access",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -446,22 +486,26 @@
                 {
                   "id": 1867,
                   "nome": "Data Analysis: Google Sheets",
-                  "link": "https://cursos.alura.com.br/course/data-analysis-introducao-google-sheets"
+                  "link": "https://cursos.alura.com.br/course/data-analysis-introducao-google-sheets",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2011,
                   "nome": "Data Analysis: previsões com Google Sheets",
-                  "link": "https://cursos.alura.com.br/course/data-analysis-previsoes-google-sheets"
+                  "link": "https://cursos.alura.com.br/course/data-analysis-previsoes-google-sheets",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2140,
                   "nome": "Data Analysis: estatística com Google Sheets",
-                  "link": "https://cursos.alura.com.br/course/data-analysis-estatistica-google-sheets"
+                  "link": "https://cursos.alura.com.br/course/data-analysis-estatistica-google-sheets",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4148,
                   "nome": "Automação e análise com Google Sheets: dados financeiros em tempo real",
-                  "link": "https://cursos.alura.com.br/course/automacao-analise-google-sheets-dados-financeiros-tempo-real"
+                  "link": "https://cursos.alura.com.br/course/automacao-analise-google-sheets-dados-financeiros-tempo-real",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -471,7 +515,8 @@
                 {
                   "id": 3056,
                   "nome": "Data Visualization: estilização de tabelas com Python",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-estilizacao-tabelas-python"
+                  "link": "https://cursos.alura.com.br/course/data-visualization-estilizacao-tabelas-python",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -481,7 +526,8 @@
                 {
                   "id": 4587,
                   "nome": "Praticando Power BI: transformando dados com Power Query",
-                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-transformando-dados-power-query"
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-transformando-dados-power-query",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -517,42 +563,50 @@
                 {
                   "id": 3679,
                   "nome": "MySQL: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/mysql-conhecendo-ferramenta"
+                  "link": "https://cursos.alura.com.br/course/mysql-conhecendo-ferramenta",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3048,
                   "nome": "SQL com MySQL: manipule e consulte dados",
-                  "link": "https://cursos.alura.com.br/course/sql-mysql-manipule-dados-com-sql"
+                  "link": "https://cursos.alura.com.br/course/sql-mysql-manipule-dados-com-sql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1222,
                   "nome": "Comandos DML: manipulação de dados com MySQL",
-                  "link": "https://cursos.alura.com.br/course/mysql-dml-manipulacao-de-dados"
+                  "link": "https://cursos.alura.com.br/course/mysql-dml-manipulacao-de-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3682,
                   "nome": "MySQL: aplicado para análise de dados",
-                  "link": "https://cursos.alura.com.br/course/mysql-aplicado-analise-dados"
+                  "link": "https://cursos.alura.com.br/course/mysql-aplicado-analise-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3779,
                   "nome": "MySQL Administrator: configurando e monitorando o servidor",
-                  "link": "https://cursos.alura.com.br/course/mysql-administrator-configurando-monitorando-servidor"
+                  "link": "https://cursos.alura.com.br/course/mysql-administrator-configurando-monitorando-servidor",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3813,
                   "nome": "MySQL Administrator: criando índices e manipulando dados",
-                  "link": "https://cursos.alura.com.br/course/mysql-administrator-criando-indices-manipulando-dados"
+                  "link": "https://cursos.alura.com.br/course/mysql-administrator-criando-indices-manipulando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3814,
                   "nome": "MySQL Administrator: gerenciando esquemas e usuários",
-                  "link": "https://cursos.alura.com.br/course/mysql-administrator-gerenciando-esquemas-usuarios"
+                  "link": "https://cursos.alura.com.br/course/mysql-administrator-gerenciando-esquemas-usuarios",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3815,
                   "nome": "MySQL Administrator: backups e replicação de banco de dados",
-                  "link": "https://cursos.alura.com.br/course/mysql-administrator-backups-replicacao-banco-dados"
+                  "link": "https://cursos.alura.com.br/course/mysql-administrator-backups-replicacao-banco-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -562,17 +616,20 @@
                 {
                   "id": 2579,
                   "nome": "SQL com Oracle Database: manipule e consulte dados",
-                  "link": "https://cursos.alura.com.br/course/introducao-sql-oracle-manipule-consulte-dados"
+                  "link": "https://cursos.alura.com.br/course/introducao-sql-oracle-manipule-consulte-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2581,
                   "nome": "Oracle Database: manipulando dados com comandos DML",
-                  "link": "https://cursos.alura.com.br/course/manipulacao-dados-oracle-dml"
+                  "link": "https://cursos.alura.com.br/course/manipulacao-dados-oracle-dml",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2580,
                   "nome": "Oracle Database: projeções, seleções, joins e views",
-                  "link": "https://cursos.alura.com.br/course/sql-oracle-projecoes-selecoes-joins-views"
+                  "link": "https://cursos.alura.com.br/course/sql-oracle-projecoes-selecoes-joins-views",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -582,12 +639,14 @@
                 {
                   "id": 2749,
                   "nome": "Microsoft SQL Server 2022: conhecendo o T-SQL",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-conhecendo-t-sql"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-conhecendo-t-sql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2748,
                   "nome": "Microsoft SQL Server 2022: manipulando dados",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-manipulando-dados"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-manipulando-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -597,27 +656,32 @@
                 {
                   "id": 1659,
                   "nome": "PostgreSQL",
-                  "link": "https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos"
+                  "link": "https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1887,
                   "nome": "PostgreSQL: comandos DML e DDL",
-                  "link": "https://cursos.alura.com.br/course/pgsql-comandos-dml-ddl"
+                  "link": "https://cursos.alura.com.br/course/pgsql-comandos-dml-ddl",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1878,
                   "nome": "PostgreSQL: Views, Sub-Consultas e Funções",
-                  "link": "https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes"
+                  "link": "https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1899,
                   "nome": "PostgreSQL: desenvolva com PL/pgSQL",
-                  "link": "https://cursos.alura.com.br/course/postgresql-procedures"
+                  "link": "https://cursos.alura.com.br/course/postgresql-procedures",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1900,
                   "nome": "PostgreSQL: Triggers, transações, erros e cursores",
-                  "link": "https://cursos.alura.com.br/course/postgresql-triggers-transacoes-erros-cursores"
+                  "link": "https://cursos.alura.com.br/course/postgresql-triggers-transacoes-erros-cursores",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -627,17 +691,20 @@
                 {
                   "id": 3395,
                   "nome": "SQLite Online: executando consultas SQL",
-                  "link": "https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql"
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3396,
                   "nome": "Realizando consultas com SQL: Joins, Views e transações",
-                  "link": "https://cursos.alura.com.br/course/realizando-consultas-sql-joins-views-transacoes"
+                  "link": "https://cursos.alura.com.br/course/realizando-consultas-sql-joins-views-transacoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3457,
                   "nome": "SQLite online: análise de dados com SQL",
-                  "link": "https://cursos.alura.com.br/course/sqlite-online-analise-dados-sql"
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-analise-dados-sql",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -647,37 +714,44 @@
                 {
                   "id": 4429,
                   "nome": "Praticando SQL: realizando consultas",
-                  "link": "https://cursos.alura.com.br/course/sql-realizando-consultas"
+                  "link": "https://cursos.alura.com.br/course/sql-realizando-consultas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4434,
                   "nome": "Praticando SQL: utilizando operadores lógicos",
-                  "link": "https://cursos.alura.com.br/course/sql-utilizando-operadores-logicos"
+                  "link": "https://cursos.alura.com.br/course/sql-utilizando-operadores-logicos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4435,
                   "nome": "Praticando SQL: entendendo funções de string",
-                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-string"
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-string",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4436,
                   "nome": "Praticando SQL: entendendo funções numéricas",
-                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-numericas"
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-numericas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4437,
                   "nome": "Praticando SQL: trabalhando com funções de Data",
-                  "link": "https://cursos.alura.com.br/course/sql-trabalhando-funcoes-data"
+                  "link": "https://cursos.alura.com.br/course/sql-trabalhando-funcoes-data",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4438,
                   "nome": "Praticando SQL: funções de agregação",
-                  "link": "https://cursos.alura.com.br/course/sql-funcoes-agregacao"
+                  "link": "https://cursos.alura.com.br/course/sql-funcoes-agregacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4440,
                   "nome": "Praticando SQL: combinando dados com JOINs",
-                  "link": "https://cursos.alura.com.br/course/sql-combinando-dados-joins"
+                  "link": "https://cursos.alura.com.br/course/sql-combinando-dados-joins",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -687,32 +761,38 @@
                 {
                   "id": 3141,
                   "nome": "Modelagem de banco de dados relacional: álgebra relacional",
-                  "link": "https://cursos.alura.com.br/course/modelagem-banco-dados-relacional-algebra-relacional"
+                  "link": "https://cursos.alura.com.br/course/modelagem-banco-dados-relacional-algebra-relacional",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3808,
                   "nome": "Modelagem de dados: identificando entidades, atributos, relacionamentos",
-                  "link": "https://cursos.alura.com.br/course/modelagem-dados-entidades-atributos-relacionamentos"
+                  "link": "https://cursos.alura.com.br/course/modelagem-dados-entidades-atributos-relacionamentos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3809,
                   "nome": "Modelagem de dados: desenvolvendo o modelo lógico",
-                  "link": "https://cursos.alura.com.br/course/modelagem-dados-desenvolvendo-modelo-logico"
+                  "link": "https://cursos.alura.com.br/course/modelagem-dados-desenvolvendo-modelo-logico",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3810,
                   "nome": "Modelagem de dados: aplicando a normalização",
-                  "link": "https://cursos.alura.com.br/course/modelagem-dados-aplicando-normalizacao"
+                  "link": "https://cursos.alura.com.br/course/modelagem-dados-aplicando-normalizacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3811,
                   "nome": "Modelagem de dados: construindo o modelo físico",
-                  "link": "https://cursos.alura.com.br/course/modelagem-dados-construindo-modelo-fisico"
+                  "link": "https://cursos.alura.com.br/course/modelagem-dados-construindo-modelo-fisico",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2462,
                   "nome": "Modelagem de banco de dados relacional: entendendo SQL",
-                  "link": "https://cursos.alura.com.br/course/modelagem-banco-dados-relacional-sql"
+                  "link": "https://cursos.alura.com.br/course/modelagem-banco-dados-relacional-sql",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -722,7 +802,8 @@
                 {
                   "id": 2788,
                   "nome": "Power BI: modelagem de dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados"
+                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -732,7 +813,8 @@
                 {
                   "id": 2412,
                   "nome": "Qlik Sense: conexões SQL",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-conexoes-sql"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-conexoes-sql",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -742,7 +824,8 @@
                 {
                   "id": 3206,
                   "nome": "Como coletar e manipular dados corretamente",
-                  "link": "https://cursos.alura.com.br/course/modulo-5-coletar-manipular-dados-corretamente"
+                  "link": "https://cursos.alura.com.br/course/modulo-5-coletar-manipular-dados-corretamente",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -779,12 +862,14 @@
                 {
                   "id": 2664,
                   "nome": "Looker Studio: criando o primeiro relatório",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-primeiro-relatorio"
+                  "link": "https://cursos.alura.com.br/course/looker-studio-primeiro-relatorio",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3038,
                   "nome": "Looker Studio: parâmetros e combinações de dados",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-parametros-combinacoes-dados"
+                  "link": "https://cursos.alura.com.br/course/looker-studio-parametros-combinacoes-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -794,47 +879,56 @@
                 {
                   "id": 3775,
                   "nome": "Power BI Desktop: construindo meu primeiro dashboard",
-                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard"
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2674,
                   "nome": "Power BI: Report Builder",
-                  "link": "https://cursos.alura.com.br/course/power-bi-report-builder"
+                  "link": "https://cursos.alura.com.br/course/power-bi-report-builder",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2784,
                   "nome": "Power BI: conhecendo o serviço",
-                  "link": "https://cursos.alura.com.br/course/power-bi-conhecendo-servico"
+                  "link": "https://cursos.alura.com.br/course/power-bi-conhecendo-servico",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2930,
                   "nome": "Power BI: explorando recursos visuais",
-                  "link": "https://cursos.alura.com.br/course/power-bi-recursos-visuais"
+                  "link": "https://cursos.alura.com.br/course/power-bi-recursos-visuais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2951,
                   "nome": "Power BI: aplicando a RLS",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-rls"
+                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-rls",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2955,
                   "nome": "Dashboard com Power BI: visualizando dados",
-                  "link": "https://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados"
+                  "link": "https://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3777,
                   "nome": "Power BI: construindo cálculos com Dax",
-                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax"
+                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3778,
                   "nome": "Power BI: visualizando e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados"
+                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4589,
                   "nome": "Praticando Power BI: criando visualizações estratégicas para responder perguntas de negócio",
-                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-visualizacoes-estrategicas-responder-perguntas-negocio"
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-visualizacoes-estrategicas-responder-perguntas-negocio",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -844,42 +938,50 @@
                 {
                   "id": 3054,
                   "nome": "Streamlit: construindo um dashboard interativo",
-                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo"
+                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3055,
                   "nome": "Data Visualization: criando gráficos com bibliotecas Python",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python"
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3057,
                   "nome": "Data Visualization: gráficos de comparação e distribuição",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao"
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3059,
                   "nome": "Python e Power BI: analisando dados do mercado financeiro",
-                  "link": "https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro"
+                  "link": "https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1447,
                   "nome": "Data Visualization: criação de gráficos com o Matplotlib",
-                  "link": "https://cursos.alura.com.br/course/customizacao-matplot"
+                  "link": "https://cursos.alura.com.br/course/customizacao-matplot",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3137,
                   "nome": "Data Visualization: gráficos de composição e relacionamento",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento"
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4420,
                   "nome": "Praticando gráficos: criando gráficos de comparação",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-comparacao"
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-comparacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4422,
                   "nome": "Praticando gráficos: criando gráficos customizados",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-customizados"
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-customizados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -889,17 +991,20 @@
                 {
                   "id": 4003,
                   "nome": "Dashboards financeiros: da consolidação à visualização estratégica",
-                  "link": "https://cursos.alura.com.br/course/dashboards-financeiros-consolidacao-visualizacao-estrategica"
+                  "link": "https://cursos.alura.com.br/course/dashboards-financeiros-consolidacao-visualizacao-estrategica",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4009,
                   "nome": "Data Storytelling: criando narrativas com Excel",
-                  "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel"
+                  "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4424,
                   "nome": "Praticando Excel: construindo gráficos",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-graficos"
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-graficos",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -909,7 +1014,8 @@
                 {
                   "id": 3819,
                   "nome": "R para Data Science: aplicando Data Visualization com ggplot2",
-                  "link": "https://cursos.alura.com.br/course/r-data-science-aplicando-data-visualization-ggplot2"
+                  "link": "https://cursos.alura.com.br/course/r-data-science-aplicando-data-visualization-ggplot2",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -919,7 +1025,8 @@
                 {
                   "id": 2234,
                   "nome": "Dashboard com Tableau: conceitos essenciais",
-                  "link": "https://cursos.alura.com.br/course/tableau-conceitos-essenciais"
+                  "link": "https://cursos.alura.com.br/course/tableau-conceitos-essenciais",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -929,7 +1036,8 @@
                 {
                   "id": 2327,
                   "nome": "Data Visualization: técnicas de visualização com Google Sheets",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets"
+                  "link": "https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -939,17 +1047,20 @@
                 {
                   "id": 2363,
                   "nome": "Qlik Sense: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-conhecendo-ferramenta"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-conhecendo-ferramenta",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2365,
                   "nome": "Qlik Sense: analisando dados",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-analisando-dados"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-analisando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2413,
                   "nome": "Qlik Sense: histórias e gráficos",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-historias-graficos"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-historias-graficos",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -959,7 +1070,8 @@
                 {
                   "id": 2387,
                   "nome": "Oracle Analytics: visualizando dados",
-                  "link": "https://cursos.alura.com.br/course/oracle-analytics-visualizando-dados"
+                  "link": "https://cursos.alura.com.br/course/oracle-analytics-visualizando-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -969,12 +1081,14 @@
                 {
                   "id": 2544,
                   "nome": "MicroStrategy Workstation: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-ferramenta"
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-ferramenta",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2569,
                   "nome": "MicroStrategy Workstation: elaborando uma apresentação",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-elaborando-apresentacao"
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-elaborando-apresentacao",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1013,7 +1127,8 @@
                 {
                   "id": 3370,
                   "nome": "Identificando vieses e armadilhas em análises",
-                  "link": "https://cursos.alura.com.br/course/identificando-vieses-armadilhas-analises"
+                  "link": "https://cursos.alura.com.br/course/identificando-vieses-armadilhas-analises",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1023,7 +1138,8 @@
                 {
                   "id": 4155,
                   "nome": "Power Automate: solucionando problemas do RH com automação de tarefas",
-                  "link": "https://cursos.alura.com.br/course/power-automate-solucionando-problemas-rh-automacao-tarefas"
+                  "link": "https://cursos.alura.com.br/course/power-automate-solucionando-problemas-rh-automacao-tarefas",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1072,42 +1188,50 @@
                 {
                   "id": 1109,
                   "nome": "Data Science: analise e visualização de dados",
-                  "link": "https://cursos.alura.com.br/course/data-science-primeiros-passos"
+                  "link": "https://cursos.alura.com.br/course/data-science-primeiros-passos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2924,
                   "nome": "NumPy: análise numérica eficiente com Python",
-                  "link": "https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons"
+                  "link": "https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2925,
                   "nome": "Pandas: conhecendo a biblioteca",
-                  "link": "https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca"
+                  "link": "https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2926,
                   "nome": "Pandas I/O: trabalhando com diferentes formatos de arquivos",
-                  "link": "https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos"
+                  "link": "https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2927,
                   "nome": "Pandas: selecionando e agrupando dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados"
+                  "link": "https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4418,
                   "nome": "Praticando Pandas: realizando operações",
-                  "link": "https://cursos.alura.com.br/course/praticando-python-realizando-operacoes"
+                  "link": "https://cursos.alura.com.br/course/praticando-python-realizando-operacoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4474,
                   "nome": "Praticando Pandas: criando tabulações com pivot_table",
-                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-pivot-table"
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-pivot-table",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3058,
                   "nome": "Python: análise de dados com SQL",
-                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql"
+                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1117,27 +1241,32 @@
                 {
                   "id": 3683,
                   "nome": "R para Data Science: conhecendo a linguagem",
-                  "link": "https://cursos.alura.com.br/course/r-data-science-conhecendo-linguagem"
+                  "link": "https://cursos.alura.com.br/course/r-data-science-conhecendo-linguagem",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3684,
                   "nome": "R: utilizando e manipulando estruturas para análises de dados",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-manipulando-estruturas-analises-dados"
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-manipulando-estruturas-analises-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3816,
                   "nome": "R: utilizando o Tidyverse para diferentes formatos de dados",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-diferentes-formatos-dados"
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-diferentes-formatos-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3817,
                   "nome": "R: utilizando o Tidyverse e transformando dados com dplyr",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-transformando-dados-dplyr"
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-transformando-dados-dplyr",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1764,
                   "nome": "Programação em R: desenvolva dashboards online com Shiny",
-                  "link": "https://cursos.alura.com.br/course/programacao-r-dashboard-online-shiny"
+                  "link": "https://cursos.alura.com.br/course/programacao-r-dashboard-online-shiny",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1147,7 +1276,8 @@
                 {
                   "id": 2672,
                   "nome": "Power BI: mergulhando na linguagem M",
-                  "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m"
+                  "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1184,12 +1314,14 @@
                 {
                   "id": 4194,
                   "nome": "Estatística com R: resumindo e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/estatistica-r-resumindo-analisando-dados"
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-resumindo-analisando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3818,
                   "nome": "R: aplicando a análise descritiva com R",
-                  "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r"
+                  "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1200,17 +1332,19 @@
                   "id": 4217,
                   "nome": "Estatística com Python: resumindo e analisando dados",
                   "link": "https://cursos.alura.com.br/course/estatistica-python-resumindo-analisando-dados",
-                  "obs": "Regravar"
+                  "status": "REGRAVAÇÃO"
                 },
                 {
                   "id": 1703,
                   "nome": "Data Science: análises para saúde e medicina",
-                  "link": "https://cursos.alura.com.br/course/data-science-saude-e-medicina"
+                  "link": "https://cursos.alura.com.br/course/data-science-saude-e-medicina",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4475,
                   "nome": "Praticando gráficos: distribuição com Seaborn",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-distribuicao"
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-distribuicao",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1220,7 +1354,8 @@
                 {
                   "id": 4588,
                   "nome": "Praticando Power BI: criando métricas com DAX",
-                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-metricas-dax"
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-metricas-dax",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1259,27 +1394,32 @@
                 {
                   "id": 2929,
                   "nome": "Pandas: limpeza e tratamento de dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados"
+                  "link": "https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2928,
                   "nome": "Pandas: transformação e manipulação de dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados"
+                  "link": "https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4419,
                   "nome": "Praticando Pandas: trabalhando com dados nulos",
-                  "link": "https://cursos.alura.com.br/course/python-trabalhando-dados-nulos"
+                  "link": "https://cursos.alura.com.br/course/python-trabalhando-dados-nulos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4416,
                   "nome": "Praticando Pandas: normalizando arquivos JSON",
-                  "link": "https://cursos.alura.com.br/course/python-normalizando-arquivos-json"
+                  "link": "https://cursos.alura.com.br/course/python-normalizando-arquivos-json",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4417,
                   "nome": "Praticando Pandas: criando tabulações com groupby",
-                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-groupby"
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-groupby",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1289,7 +1429,8 @@
                 {
                   "id": 2364,
                   "nome": "Qlik Sense: manipulando dados",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-manipulando-dados"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-manipulando-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1299,7 +1440,8 @@
                 {
                   "id": 2568,
                   "nome": "MicroStrategy Workstation: transformações e métricas",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-transformacoes-metricas"
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-transformacoes-metricas",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1346,52 +1488,62 @@
                 {
                   "id": 1178,
                   "nome": "Estatística com Python: probabilidade e amostragem",
-                  "link": "https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem"
+                  "link": "https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1229,
                   "nome": "Estatística com Python: testes de hipóteses",
-                  "link": "https://cursos.alura.com.br/course/estatistica-testes-hipotestes"
+                  "link": "https://cursos.alura.com.br/course/estatistica-testes-hipotestes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1273,
                   "nome": "Estatística com Python: Correlação e Regressão",
-                  "link": "https://cursos.alura.com.br/course/estatistica-correlacao-regressao"
+                  "link": "https://cursos.alura.com.br/course/estatistica-correlacao-regressao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1112,
                   "nome": "Data Science: testes estatísticos com Python",
-                  "link": "https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python"
+                  "link": "https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1118,
                   "nome": "Regressão Linear: técnicas avançadas de modelagem",
-                  "link": "https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel"
+                  "link": "https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1119,
                   "nome": "Data Science: análise de series temporais",
-                  "link": "https://cursos.alura.com.br/course/data-science-series-temporais"
+                  "link": "https://cursos.alura.com.br/course/data-science-series-temporais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3676,
                   "nome": "Data Science: testando hipóteses",
-                  "link": "https://cursos.alura.com.br/course/data-science-testando-hipoteses"
+                  "link": "https://cursos.alura.com.br/course/data-science-testando-hipoteses",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3677,
                   "nome": "Data Science: testando relações com Regressão Linear",
-                  "link": "https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear"
+                  "link": "https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3766,
                   "nome": "Data Science: transformando variáveis para uma Regressão Linear",
-                  "link": "https://cursos.alura.com.br/course/data-science-transformando-variaveis-regressao-linear"
+                  "link": "https://cursos.alura.com.br/course/data-science-transformando-variaveis-regressao-linear",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 860,
                   "nome": "Regressão linear: testando relações e prevendo resultados",
-                  "link": "https://cursos.alura.com.br/course/data-science-modelo-regressao-linear"
+                  "link": "https://cursos.alura.com.br/course/data-science-modelo-regressao-linear",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1401,22 +1553,26 @@
                 {
                   "id": 4195,
                   "nome": "Estatística com R: aplicando a probabilidade e a amostragem dos dados",
-                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-probabilidade-amostragem-dados"
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-probabilidade-amostragem-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4196,
                   "nome": "Estatística com R: aplicando testes de hipóteses",
-                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-testes-hipoteses"
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-testes-hipoteses",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4197,
                   "nome": "Estatísticas com R: correlação e regressão",
-                  "link": "https://cursos.alura.com.br/course/estatisticas-r-correlacao-regressao"
+                  "link": "https://cursos.alura.com.br/course/estatisticas-r-correlacao-regressao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4198,
                   "nome": "Estatísticas com R: testando modelos de regressão",
-                  "link": "https://cursos.alura.com.br/course/estatisticas-r-testando-modelos-regressao"
+                  "link": "https://cursos.alura.com.br/course/estatisticas-r-testando-modelos-regressao",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1453,7 +1609,8 @@
                 {
                   "id": 3053,
                   "nome": "Python e APIs: conhecendo a biblioteca Requests",
-                  "link": "https://cursos.alura.com.br/course/python-apis-conhecendo-biblioteca-requests"
+                  "link": "https://cursos.alura.com.br/course/python-apis-conhecendo-biblioteca-requests",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1463,7 +1620,8 @@
                 {
                   "id": 2389,
                   "nome": "Oracle ADS: análise de dados na nuvem",
-                  "link": "https://cursos.alura.com.br/course/oracle-ads-analise-dados-nuvem"
+                  "link": "https://cursos.alura.com.br/course/oracle-ads-analise-dados-nuvem",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1498,22 +1656,26 @@
                 {
                   "id": 3685,
                   "nome": "Google BigQuery: navegando na nuvem",
-                  "link": "https://cursos.alura.com.br/course/google-big-query-navegando-nuvem"
+                  "link": "https://cursos.alura.com.br/course/google-big-query-navegando-nuvem",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3688,
                   "nome": "Google BigQuery: manipulação de dados",
-                  "link": "https://cursos.alura.com.br/course/google-bigquery-manipulacao-dados"
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-manipulacao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3686,
                   "nome": "Google BigQuery: dominando Strings e Data",
-                  "link": "https://cursos.alura.com.br/course/google-bigquery-dominando-strings-data"
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-dominando-strings-data",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3687,
                   "nome": "Google BigQuery: dominando funções lógicas e numéricas",
-                  "link": "https://cursos.alura.com.br/course/google-bigquery-funcoes-logicas-numericas"
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-funcoes-logicas-numericas",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1554,7 +1716,8 @@
                 {
                   "id": 4712,
                   "nome": "Challenge Telecom X: análise de evasão de clientes",
-                  "link": "https://cursos.alura.com.br/course/challenge-telecom-x-analise-evasao-clientes"
+                  "link": "https://cursos.alura.com.br/course/challenge-telecom-x-analise-evasao-clientes",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1600,12 +1763,14 @@
                 {
                   "id": 3010,
                   "nome": "Modelagem do Data Warehouse: atributos, hierarquia e indicadores",
-                  "link": "https://cursos.alura.com.br/course/modelagem-data-warehouse-atributos-hierarquia-indicadores"
+                  "link": "https://cursos.alura.com.br/course/modelagem-data-warehouse-atributos-hierarquia-indicadores",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3011,
                   "nome": "SQL Server: construção do Data Warehouse",
-                  "link": "https://cursos.alura.com.br/course/sql-server-construcao-data-warehouse"
+                  "link": "https://cursos.alura.com.br/course/sql-server-construcao-data-warehouse",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1615,7 +1780,8 @@
                 {
                   "id": 3776,
                   "nome": "Power BI Desktop: realizando ETL no Power Query",
-                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query"
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1625,7 +1791,8 @@
                 {
                   "id": 1954,
                   "nome": "Apache Beam: Data Pipeline com Python",
-                  "link": "https://cursos.alura.com.br/course/apache-beam-data-pipeline-python"
+                  "link": "https://cursos.alura.com.br/course/apache-beam-data-pipeline-python",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1635,7 +1802,8 @@
                 {
                   "id": 2463,
                   "nome": "Aprofundando no Airflow: Executor Kubernetes",
-                  "link": "https://cursos.alura.com.br/course/aprofundando-airflow-executor-kubernetes"
+                  "link": "https://cursos.alura.com.br/course/aprofundando-airflow-executor-kubernetes",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1670,17 +1838,20 @@
                 {
                   "id": 1221,
                   "nome": "Consultas SQL: avançando no SQL com MySQL",
-                  "link": "https://cursos.alura.com.br/course/mysql-consultas-sql"
+                  "link": "https://cursos.alura.com.br/course/mysql-consultas-sql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3680,
                   "nome": "MySQL: executando Procedures",
-                  "link": "https://cursos.alura.com.br/course/banco-dados-mysql-executando-procedures"
+                  "link": "https://cursos.alura.com.br/course/banco-dados-mysql-executando-procedures",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3681,
                   "nome": "MySQL: trabalhando com funções",
-                  "link": "https://cursos.alura.com.br/course/mysql-trabalhando-funcoes"
+                  "link": "https://cursos.alura.com.br/course/mysql-trabalhando-funcoes",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1690,37 +1861,44 @@
                 {
                   "id": 2582,
                   "nome": "Oracle PL/SQL: procedures, funções e exceções",
-                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-procedures-funcoes-excecoes"
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-procedures-funcoes-excecoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2583,
                   "nome": "Oracle PL/SQL: dominando packages",
-                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-dominando-packages"
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-dominando-packages",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2607,
                   "nome": "Oracle PL/SQL: cursor e exceções",
-                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-cursor-excecoes"
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-cursor-excecoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2584,
                   "nome": "Administração do Oracle Database: criação e gerenciamento do banco",
-                  "link": "https://cursos.alura.com.br/course/administracao-oracle-database-gerenciamento-banco"
+                  "link": "https://cursos.alura.com.br/course/administracao-oracle-database-gerenciamento-banco",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2585,
                   "nome": "Administração do Oracle Database: segurança e otimização do banco",
-                  "link": "https://cursos.alura.com.br/course/administracao-oracle-database-seguranca-otimizacao"
+                  "link": "https://cursos.alura.com.br/course/administracao-oracle-database-seguranca-otimizacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2586,
                   "nome": "Desempenho do Oracle Database: análise do ambiente",
-                  "link": "https://cursos.alura.com.br/course/desempenho-oracle-database-analise-ambiente"
+                  "link": "https://cursos.alura.com.br/course/desempenho-oracle-database-analise-ambiente",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2587,
                   "nome": "Desempenho do Oracle Database: otimização de consultas",
-                  "link": "https://cursos.alura.com.br/course/desempenho-oracle-database-otimizacao-consultas"
+                  "link": "https://cursos.alura.com.br/course/desempenho-oracle-database-otimizacao-consultas",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1730,22 +1908,26 @@
                 {
                   "id": 2747,
                   "nome": "Microsoft SQL Server 2022: consultas avançadas",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-consultas-avancadas"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-consultas-avancadas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2891,
                   "nome": "Microsoft SQL Server 2022: aprofundando em procedures e funções",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-procedures-funcoes"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-procedures-funcoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2918,
                   "nome": "Microsoft SQL Server 2022: performance",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-performance"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-performance",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3123,
                   "nome": "Microsoft SQL Server 2022: administrando o banco de dados",
-                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-administrando-banco-dados"
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-administrando-banco-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1755,27 +1937,32 @@
                 {
                   "id": 4010,
                   "nome": "PostgreSQL: administração e monitoramento",
-                  "link": "https://cursos.alura.com.br/course/postgresql-administracao-monitoramento"
+                  "link": "https://cursos.alura.com.br/course/postgresql-administracao-monitoramento",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4011,
                   "nome": "Administração com PostgreSQL: backup e recuperação",
-                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-backup-recuperacao"
+                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-backup-recuperacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4012,
                   "nome": "Administração com PostgreSQL: desempenho e otimização",
-                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-desempenho-otimizacao"
+                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-desempenho-otimizacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4013,
                   "nome": "Administração com PostgreSQL: replicação e alta disponibilidade",
-                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-replicacao-alta-disponibilidade"
+                  "link": "https://cursos.alura.com.br/course/administracao-postgresql-replicacao-alta-disponibilidade",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1930,
                   "nome": "PostgreSQL: administração e otimização do banco",
-                  "link": "https://cursos.alura.com.br/course/postgresql-administracao-otimizacao"
+                  "link": "https://cursos.alura.com.br/course/postgresql-administracao-otimizacao",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1785,7 +1972,8 @@
                 {
                   "id": 3728,
                   "nome": "Google Big Query: consultas avançadas",
-                  "link": "https://cursos.alura.com.br/course/google-big-query-consultas-avancadas"
+                  "link": "https://cursos.alura.com.br/course/google-big-query-consultas-avancadas",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1795,12 +1983,14 @@
                 {
                   "id": 4439,
                   "nome": "Praticando SQL: entendendo subconsultas",
-                  "link": "https://cursos.alura.com.br/course/sql-entendendo-subconsultas"
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-subconsultas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4441,
                   "nome": "Praticando SQL: Common Table Expressions",
-                  "link": "https://cursos.alura.com.br/course/sql-common-table-expressions"
+                  "link": "https://cursos.alura.com.br/course/sql-common-table-expressions",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1810,7 +2000,8 @@
                 {
                   "id": 2411,
                   "nome": "Qlik Sense: expressões avançadas",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-expressoes-avancadas"
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-expressoes-avancadas",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1847,7 +2038,8 @@
                 {
                   "id": 3675,
                   "nome": "Data Science: explorando e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/data-science-explorando-analisando-dados"
+                  "link": "https://cursos.alura.com.br/course/data-science-explorando-analisando-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1857,17 +2049,20 @@
                 {
                   "id": 4402,
                   "nome": "Polars: analisando dados de forma eficiente",
-                  "link": "https://cursos.alura.com.br/course/polars-analisando-dados-forma-eficiente"
+                  "link": "https://cursos.alura.com.br/course/polars-analisando-dados-forma-eficiente",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4403,
                   "nome": "Polars: manipulando tabelas",
-                  "link": "https://cursos.alura.com.br/course/polars-manipulando-tabelas"
+                  "link": "https://cursos.alura.com.br/course/polars-manipulando-tabelas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4406,
                   "nome": "Polars: explorando polars com Rust",
-                  "link": "https://cursos.alura.com.br/course/polars-explorando-polars-rust"
+                  "link": "https://cursos.alura.com.br/course/polars-explorando-polars-rust",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1877,7 +2072,8 @@
                 {
                   "id": 2235,
                   "nome": "Tableau: preparação e transformação de dados",
-                  "link": "https://cursos.alura.com.br/course/tableau-preparacao-transformacao-dados"
+                  "link": "https://cursos.alura.com.br/course/tableau-preparacao-transformacao-dados",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1916,7 +2112,8 @@
                 {
                   "id": 2606,
                   "nome": "Aprofundando no Airflow: Executores Local e Celery",
-                  "link": "https://cursos.alura.com.br/course/aprofundando-airflow-executores-local-celery"
+                  "link": "https://cursos.alura.com.br/course/aprofundando-airflow-executores-local-celery",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1926,7 +2123,8 @@
                 {
                   "id": 3062,
                   "nome": "Pipeline de dados: combinando Python e orientação a objeto",
-                  "link": "https://cursos.alura.com.br/course/pipeline-dados-combinando-python-orientacao-objeto"
+                  "link": "https://cursos.alura.com.br/course/pipeline-dados-combinando-python-orientacao-objeto",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -1974,12 +2172,14 @@
                 {
                   "id": 2651,
                   "nome": "Databricks: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/databricks-conhecendo-ferramenta"
+                  "link": "https://cursos.alura.com.br/course/databricks-conhecendo-ferramenta",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2657,
                   "nome": "Databricks: análise de dados",
-                  "link": "https://cursos.alura.com.br/course/databricks-analise-dados"
+                  "link": "https://cursos.alura.com.br/course/databricks-analise-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -1989,7 +2189,8 @@
                 {
                   "id": 2273,
                   "nome": "Spark: apresentando a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/spark-apresentando-ferramenta"
+                  "link": "https://cursos.alura.com.br/course/spark-apresentando-ferramenta",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2026,17 +2227,20 @@
                 {
                   "id": 2652,
                   "nome": "Databricks: trabalhando com diversos formatos e tipos de arquivos",
-                  "link": "https://cursos.alura.com.br/course/databricks-formatos-tipos-arquivos"
+                  "link": "https://cursos.alura.com.br/course/databricks-formatos-tipos-arquivos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2655,
                   "nome": "Databricks e Data Factory: criando e orquestrando pipelines na nuvem",
-                  "link": "https://cursos.alura.com.br/course/databricks-data-factory-pipelines-nuvem"
+                  "link": "https://cursos.alura.com.br/course/databricks-data-factory-pipelines-nuvem",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2656,
                   "nome": "Databricks: construindo pipelines de dados com Airflow e Azure Databricks",
-                  "link": "https://cursos.alura.com.br/course/databricks-pipelines-dados-airflow-azure-databricks"
+                  "link": "https://cursos.alura.com.br/course/databricks-pipelines-dados-airflow-azure-databricks",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2046,7 +2250,8 @@
                 {
                   "id": 2689,
                   "nome": "Apache Airflow: transformação de dados com Spark",
-                  "link": "https://cursos.alura.com.br/course/apache-airflow-transformacao-dados-spark"
+                  "link": "https://cursos.alura.com.br/course/apache-airflow-transformacao-dados-spark",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2056,22 +2261,26 @@
                 {
                   "id": 3012,
                   "nome": "Data Lake e Integration Services: construindo e carregando as dimensões",
-                  "link": "https://cursos.alura.com.br/course/data-lake-integration-services-construindo-carregando-dimensoes"
+                  "link": "https://cursos.alura.com.br/course/data-lake-integration-services-construindo-carregando-dimensoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3013,
                   "nome": "Data Lake e Integration Services: construindo e carregando o tempo e as fatos",
-                  "link": "https://cursos.alura.com.br/course/data-lake-integration-services-construindo-carregando-tempo-fatos"
+                  "link": "https://cursos.alura.com.br/course/data-lake-integration-services-construindo-carregando-tempo-fatos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3014,
                   "nome": "Data Warehouse e Integration Services: carregando dados dimensionais",
-                  "link": "https://cursos.alura.com.br/course/data-warehouse-integration-services-dados-dimensionais"
+                  "link": "https://cursos.alura.com.br/course/data-warehouse-integration-services-dados-dimensionais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3015,
                   "nome": "Data Warehouse e Integration Services: carregando fatos e dimensão tempo",
-                  "link": "https://cursos.alura.com.br/course/data-warehouse-integration-services-carregando-fatos-dimensao-tempo"
+                  "link": "https://cursos.alura.com.br/course/data-warehouse-integration-services-carregando-fatos-dimensao-tempo",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2081,12 +2290,14 @@
                 {
                   "id": 1313,
                   "nome": "Data Analytics: Machine Learning com Google Cloud Platform",
-                  "link": "https://cursos.alura.com.br/course/data-analytics-google-cloud"
+                  "link": "https://cursos.alura.com.br/course/data-analytics-google-cloud",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2115,
                   "nome": "Acesso ao Big Query: manipulação programático linguagens",
-                  "link": "https://cursos.alura.com.br/course/big-query-manipulacao-programatico-linguagens"
+                  "link": "https://cursos.alura.com.br/course/big-query-manipulacao-programatico-linguagens",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2096,42 +2307,50 @@
                 {
                   "id": 3447,
                   "nome": "AWS Data Lake: criando uma pipeline para ingestão de dados",
-                  "link": "https://cursos.alura.com.br/course/aws-data-lake-criando-pipeline-ingestao-dados"
+                  "link": "https://cursos.alura.com.br/course/aws-data-lake-criando-pipeline-ingestao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3448,
                   "nome": "AWS Data Lake: processando dados com AWS Glue",
-                  "link": "https://cursos.alura.com.br/course/aws-data-lake-dados-aws-glue"
+                  "link": "https://cursos.alura.com.br/course/aws-data-lake-dados-aws-glue",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3449,
                   "nome": "AWS Data Lake: processando dados com AWS EMR",
-                  "link": "https://cursos.alura.com.br/course/aws-data-lake-processando-dados-aws-emr"
+                  "link": "https://cursos.alura.com.br/course/aws-data-lake-processando-dados-aws-emr",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4014,
                   "nome": "Engenharia de Analytics: analisando dados com Amazon Athena e AWS Glue",
-                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-dados-amazon-athena-aws-glue"
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-dados-amazon-athena-aws-glue",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4024,
                   "nome": "Engenharia de Analytics: implementando um pipeline ETL com AWS Glue",
-                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-pipeline-etl-aws-glue"
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-pipeline-etl-aws-glue",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4025,
                   "nome": "Engenharia de Analytics: construindo uma pipeline automatizada",
-                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-construindo-pipeline-automatizada"
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-construindo-pipeline-automatizada",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4407,
                   "nome": "Amazon Redshift: ingestão de dados",
-                  "link": "https://cursos.alura.com.br/course/amazon-redshift-ingestao-dados"
+                  "link": "https://cursos.alura.com.br/course/amazon-redshift-ingestao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1815,
                   "nome": "Engenharia de Dados: organizando dados na AWS",
-                  "link": "https://cursos.alura.com.br/course/engenharia-dados-organizando-dados-aws"
+                  "link": "https://cursos.alura.com.br/course/engenharia-dados-organizando-dados-aws",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2141,7 +2360,8 @@
                 {
                   "id": 2464,
                   "nome": "Azure Data Lake: criando um pipeline de ingestão de dados",
-                  "link": "https://cursos.alura.com.br/course/azure-data-lake-pipeline-ingestao-dados"
+                  "link": "https://cursos.alura.com.br/course/azure-data-lake-pipeline-ingestao-dados",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2181,37 +2401,44 @@
                 {
                   "id": 807,
                   "nome": "Report Analysis com Power BI: gerando relatórios empresariais",
-                  "link": "https://cursos.alura.com.br/course/business-intelligence-power-bi"
+                  "link": "https://cursos.alura.com.br/course/business-intelligence-power-bi",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2673,
                   "nome": "Power BI: DAX contextos e iteração",
-                  "link": "https://cursos.alura.com.br/course/power-bi-dax-contextos-iteracao"
+                  "link": "https://cursos.alura.com.br/course/power-bi-dax-contextos-iteracao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2816,
                   "nome": "Power BI: aplicando DAX ao negócio",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio"
+                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3139,
                   "nome": "Power BI: aprofundando na linguagem DAX",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax"
+                  "link": "https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2952,
                   "nome": "Power BI: criando visuais customizados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-criando-visuais-customizados"
+                  "link": "https://cursos.alura.com.br/course/power-bi-criando-visuais-customizados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3540,
                   "nome": "Power BI: análises avançadas",
-                  "link": "https://cursos.alura.com.br/course/power-bi-analises-avancadas"
+                  "link": "https://cursos.alura.com.br/course/power-bi-analises-avancadas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3262,
                   "nome": "Dashboards e Power BI: usando modelos OLAP multidimensionais",
-                  "link": "https://cursos.alura.com.br/course/dashboards-power-bi-modelos-olap-multidimensionais"
+                  "link": "https://cursos.alura.com.br/course/dashboards-power-bi-modelos-olap-multidimensionais",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2221,12 +2448,14 @@
                 {
                   "id": 2791,
                   "nome": "Looker Studio: visualização de dados",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-visualizacao-dados"
+                  "link": "https://cursos.alura.com.br/course/looker-studio-visualizacao-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2921,
                   "nome": "Looker Studio: trabalhando com funções e filtros",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-funcoes-filtros"
+                  "link": "https://cursos.alura.com.br/course/looker-studio-funcoes-filtros",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2236,32 +2465,38 @@
                 {
                   "id": 2236,
                   "nome": "Tableau: funções e cálculos LoD",
-                  "link": "https://cursos.alura.com.br/course/tableau-funcoes-calculos-lod"
+                  "link": "https://cursos.alura.com.br/course/tableau-funcoes-calculos-lod",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2237,
                   "nome": "Tableau: gráficos simples e avançados",
-                  "link": "https://cursos.alura.com.br/course/tableau-graficos-simples-avancados"
+                  "link": "https://cursos.alura.com.br/course/tableau-graficos-simples-avancados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2269,
                   "nome": "Tableau: como trabalhar com mapas",
-                  "link": "https://cursos.alura.com.br/course/tableau-como-trabalhar-mapas"
+                  "link": "https://cursos.alura.com.br/course/tableau-como-trabalhar-mapas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2270,
                   "nome": "Tableau: construindo dashboards e histórias",
-                  "link": "https://cursos.alura.com.br/course/tableau-construindo-dashboards-historias"
+                  "link": "https://cursos.alura.com.br/course/tableau-construindo-dashboards-historias",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2335,
                   "nome": "Tableau: executando um projeto de BI",
-                  "link": "https://cursos.alura.com.br/course/tableau-executando-projeto-bi"
+                  "link": "https://cursos.alura.com.br/course/tableau-executando-projeto-bi",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3980,
                   "nome": "Data Storytelling: investigando e apresentando dados com Tableau",
-                  "link": "https://cursos.alura.com.br/course/data-storytelling-investigando-apresentando-dados-tableau"
+                  "link": "https://cursos.alura.com.br/course/data-storytelling-investigando-apresentando-dados-tableau",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2271,17 +2506,20 @@
                 {
                   "id": 4411,
                   "nome": "Amazon Quicksight: meu primeiro dashboard",
-                  "link": "https://cursos.alura.com.br/course/amazon-quicksight-primeiro-dashboard"
+                  "link": "https://cursos.alura.com.br/course/amazon-quicksight-primeiro-dashboard",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4129,
                   "nome": "Engenharia de Analytics: apresentando resultados com QuickSight",
-                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-apresentando-resultados-quicksight"
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-apresentando-resultados-quicksight",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3450,
                   "nome": "AWS Data Lake: análise de dados com Athena e Quicksight",
-                  "link": "https://cursos.alura.com.br/course/aws-data-lake-analise-dados-athena-quicksight"
+                  "link": "https://cursos.alura.com.br/course/aws-data-lake-analise-dados-athena-quicksight",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2291,7 +2529,8 @@
                 {
                   "id": 3694,
                   "nome": "Dash: construindo dashboards para modelos de Machine Learning",
-                  "link": "https://cursos.alura.com.br/course/dash-dashboards-modelos-machine-learning"
+                  "link": "https://cursos.alura.com.br/course/dash-dashboards-modelos-machine-learning",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2301,7 +2540,8 @@
                 {
                   "id": 4421,
                   "nome": "Praticando gráficos: composição e relacionamento com Matplotlib e Plotly",
-                  "link": "https://cursos.alura.com.br/course/python-graficos-composicao-relacionamento"
+                  "link": "https://cursos.alura.com.br/course/python-graficos-composicao-relacionamento",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2311,12 +2551,14 @@
                 {
                   "id": 3016,
                   "nome": "Data Mart e Analysis Services: construindo um modelo OLAP multidimensional",
-                  "link": "https://cursos.alura.com.br/course/data-mart-analysis-services-modelo-olap-multidimensional"
+                  "link": "https://cursos.alura.com.br/course/data-mart-analysis-services-modelo-olap-multidimensional",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3261,
                   "nome": "Data Mart e Analysis Services: trabalhando com KPIs",
-                  "link": "https://cursos.alura.com.br/course/data-mart-analysis-services-trabalhando-kpis"
+                  "link": "https://cursos.alura.com.br/course/data-mart-analysis-services-trabalhando-kpis",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2326,17 +2568,20 @@
                 {
                   "id": 3193,
                   "nome": "Aprofundando em Métricas",
-                  "link": "https://cursos.alura.com.br/course/modulo-1-aprofundando-metricas"
+                  "link": "https://cursos.alura.com.br/course/modulo-1-aprofundando-metricas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3194,
                   "nome": "Métricas no dia a dia de Produto",
-                  "link": "https://cursos.alura.com.br/course/modulo-2-metricas-dia-dia-produto"
+                  "link": "https://cursos.alura.com.br/course/modulo-2-metricas-dia-dia-produto",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3201,
                   "nome": "Visualização de dados e alinhamento com stakeholders",
-                  "link": "https://cursos.alura.com.br/course/modulo-3-visualizacao-dados-alinhamento-stakeholders"
+                  "link": "https://cursos.alura.com.br/course/modulo-3-visualizacao-dados-alinhamento-stakeholders",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2373,282 +2618,338 @@
                 {
                   "id": 1057,
                   "nome": "Machine Learning: validação de modelos",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-validando-modelos"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-validando-modelos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1080,
                   "nome": "Machine Learning parte 1: otimização de modelos através de hiperparâmetros",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-otimizacao-de-modelos-atraves-de-hiperparametros"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-otimizacao-de-modelos-atraves-de-hiperparametros",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1103,
                   "nome": "Machine Learning parte 2: otimização com exploração aleatória",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-otimizacao-com-exploracao-aleatoria"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-otimizacao-com-exploracao-aleatoria",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1128,
                   "nome": "Machine Learning: intro a sistemas de recomendação em Python",
-                  "link": "https://cursos.alura.com.br/course/introducao-a-sistemas-de-recomendacao-com-python"
+                  "link": "https://cursos.alura.com.br/course/introducao-a-sistemas-de-recomendacao-com-python",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1160,
                   "nome": "Data Analytics: Machine Learning no Marketing Digital",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-marketing-digital"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-marketing-digital",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1210,
                   "nome": "Machine Learning: lidando com dados de muitas dimensões",
-                  "link": "https://cursos.alura.com.br/course/reducao-dimensionalidade"
+                  "link": "https://cursos.alura.com.br/course/reducao-dimensionalidade",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2570,
                   "nome": "Regressão com Sklearn: desenvolvimento, previsão e otimização",
-                  "link": "https://cursos.alura.com.br/course/regressao-sklearn-desenvolvimento-previsao-otimizacao"
+                  "link": "https://cursos.alura.com.br/course/regressao-sklearn-desenvolvimento-previsao-otimizacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2604,
                   "nome": "Clustering aplicado: recomendando músicas com K-Means",
-                  "link": "https://cursos.alura.com.br/course/clustering-aplicado-recomendando-musicas-k-means"
+                  "link": "https://cursos.alura.com.br/course/clustering-aplicado-recomendando-musicas-k-means",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2605,
                   "nome": "Análise de componentes principais: elaboração de rankings com o PCA",
-                  "link": "https://cursos.alura.com.br/course/analise-componentes-elaboracao-rankings-pca"
+                  "link": "https://cursos.alura.com.br/course/analise-componentes-elaboracao-rankings-pca",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2654,
                   "nome": "Databricks: criando um sistema de recomendação",
-                  "link": "https://cursos.alura.com.br/course/databricks-criando-sistema-recomendacao"
+                  "link": "https://cursos.alura.com.br/course/databricks-criando-sistema-recomendacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3064,
                   "nome": "Classificação: construindo modelos semi-supervisionados",
-                  "link": "https://cursos.alura.com.br/course/classificacao-construindo-modelos-semi-supervisionados"
+                  "link": "https://cursos.alura.com.br/course/classificacao-construindo-modelos-semi-supervisionados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3067,
                   "nome": "Classificação: aprendendo a classificar dados com Machine Learning",
-                  "link": "https://cursos.alura.com.br/course/classificacao-aprendendo-classificar-dados-machine-learning"
+                  "link": "https://cursos.alura.com.br/course/classificacao-aprendendo-classificar-dados-machine-learning",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3068,
                   "nome": "Classificação: resolvendo problemas multiclasse",
-                  "link": "https://cursos.alura.com.br/course/classificacao-resolvendo-problemas-multiclasse"
+                  "link": "https://cursos.alura.com.br/course/classificacao-resolvendo-problemas-multiclasse",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3069,
                   "nome": "Classificação: validação de modelos e métricas de avaliação",
-                  "link": "https://cursos.alura.com.br/course/classificacao-validacao-modelos-metricas-avaliacao"
+                  "link": "https://cursos.alura.com.br/course/classificacao-validacao-modelos-metricas-avaliacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3070,
                   "nome": "Classificação: otimizando modelos de machine learning",
-                  "link": "https://cursos.alura.com.br/course/classificacao-otimizando-modelos-machine-learning"
+                  "link": "https://cursos.alura.com.br/course/classificacao-otimizando-modelos-machine-learning",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3071,
                   "nome": "Classificação: selecionando features",
-                  "link": "https://cursos.alura.com.br/course/classificacao-selecionando-features"
+                  "link": "https://cursos.alura.com.br/course/classificacao-selecionando-features",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3072,
                   "nome": "Classificação: melhorando o desempenho com XGBoost",
-                  "link": "https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost"
+                  "link": "https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1364,
                   "nome": "Análise e Classificação de Faces: visão Computacional com OpenCV",
-                  "link": "https://cursos.alura.com.br/course/analise-classificacao-faces-visao-computacional-opencv"
+                  "link": "https://cursos.alura.com.br/course/analise-classificacao-faces-visao-computacional-opencv",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1382,
                   "nome": "Classificação multilabel de textos: múltiplos contextos em NLP",
-                  "link": "https://cursos.alura.com.br/course/classificacao-multilabel-nlp"
+                  "link": "https://cursos.alura.com.br/course/classificacao-multilabel-nlp",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1384,
                   "nome": "Clustering: extraindo padrões de dados",
-                  "link": "https://cursos.alura.com.br/course/cluster-analysis"
+                  "link": "https://cursos.alura.com.br/course/cluster-analysis",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1414,
                   "nome": "Redes Neurais: Deep Learning com PyTorch",
-                  "link": "https://cursos.alura.com.br/course/pln-deep-learning"
+                  "link": "https://cursos.alura.com.br/course/pln-deep-learning",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1431,
                   "nome": "Reconhecimento de imagens: Twitter e Computer Vision API",
-                  "link": "https://cursos.alura.com.br/course/reconhecimento-imagens"
+                  "link": "https://cursos.alura.com.br/course/reconhecimento-imagens",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1563,
                   "nome": "Treinando uma Rede Neural: Deep Learning com PyTorch",
-                  "link": "https://cursos.alura.com.br/course/treinando-rede-neural-pytorch"
+                  "link": "https://cursos.alura.com.br/course/treinando-rede-neural-pytorch",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3140,
                   "nome": "Pesquisa operacional: entendendo as bases dos métodos de otimização",
-                  "link": "https://cursos.alura.com.br/course/pesquisa-operacional-bases-metodos-otimizacao"
+                  "link": "https://cursos.alura.com.br/course/pesquisa-operacional-bases-metodos-otimizacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3202,
                   "nome": "Experimentações e ferramentas de teste",
-                  "link": "https://cursos.alura.com.br/course/modulo-4-experimentacoes-ferramentas-teste"
+                  "link": "https://cursos.alura.com.br/course/modulo-4-experimentacoes-ferramentas-teste",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3264,
                   "nome": "Classificação: combinando classificadores para a melhoria de performance",
-                  "link": "https://cursos.alura.com.br/course/classificacao-combinando-classificadores-melhoria-performance"
+                  "link": "https://cursos.alura.com.br/course/classificacao-combinando-classificadores-melhoria-performance",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3369,
                   "nome": "Experimentação com Teste a/b",
-                  "link": "https://cursos.alura.com.br/course/experimentacao-teste-a-b"
+                  "link": "https://cursos.alura.com.br/course/experimentacao-teste-a-b",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3415,
                   "nome": "IA aumentada: prevendo atrasos de voos",
-                  "link": "https://cursos.alura.com.br/course/ia-aumentada-prevendo-atrasos-voos"
+                  "link": "https://cursos.alura.com.br/course/ia-aumentada-prevendo-atrasos-voos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3436,
                   "nome": "Otimização: implementando a programação linear",
-                  "link": "https://cursos.alura.com.br/course/otimizacao-implementando-programacao-linear"
+                  "link": "https://cursos.alura.com.br/course/otimizacao-implementando-programacao-linear",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3437,
                   "nome": "Otimização: encontrando soluções inteiras em programação linear",
-                  "link": "https://cursos.alura.com.br/course/otimizacao-solucoes-inteiras-programacao-linear"
+                  "link": "https://cursos.alura.com.br/course/otimizacao-solucoes-inteiras-programacao-linear",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3438,
                   "nome": "Otimização: aplicando programação não linear",
-                  "link": "https://cursos.alura.com.br/course/otimizacao-programacao-nao-linear"
+                  "link": "https://cursos.alura.com.br/course/otimizacao-programacao-nao-linear",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3439,
                   "nome": "Otimização: aplicando a programação por restrições",
-                  "link": "https://cursos.alura.com.br/course/otimizacao-aplicando-programacao-restricoes"
+                  "link": "https://cursos.alura.com.br/course/otimizacao-aplicando-programacao-restricoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3458,
                   "nome": "IA aumentada: entendendo e praticando otimização com OR-Tools",
-                  "link": "https://cursos.alura.com.br/course/ia-aumentada-entendendo-praticando-otimizacao-or-tools"
+                  "link": "https://cursos.alura.com.br/course/ia-aumentada-entendendo-praticando-otimizacao-or-tools",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3678,
                   "nome": "Data Science: analisando e prevendo séries temporais",
-                  "link": "https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais"
+                  "link": "https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3764,
                   "nome": "Clusterização: lidando com dados sem rótulo",
-                  "link": "https://cursos.alura.com.br/course/clusterizacao-lidando-dados-sem-rotulo"
+                  "link": "https://cursos.alura.com.br/course/clusterizacao-lidando-dados-sem-rotulo",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3767,
                   "nome": "Regressão: construindo Árvores de Regressão",
-                  "link": "https://cursos.alura.com.br/course/regressao-construindo-arvores-regressao"
+                  "link": "https://cursos.alura.com.br/course/regressao-construindo-arvores-regressao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3768,
                   "nome": "Regressão: aprimorando os resultados com XGBoost",
-                  "link": "https://cursos.alura.com.br/course/regressao-aprimorando-resultados-xgboost"
+                  "link": "https://cursos.alura.com.br/course/regressao-aprimorando-resultados-xgboost",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3769,
                   "nome": "Séries temporais: detectando anomalias e realizando previsões",
-                  "link": "https://cursos.alura.com.br/course/series-temporais-detectando-anomalias-realizando-previsoes"
+                  "link": "https://cursos.alura.com.br/course/series-temporais-detectando-anomalias-realizando-previsoes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3770,
                   "nome": "Regressão: prevendo séries temporais com Prophet",
-                  "link": "https://cursos.alura.com.br/course/regressao-prevendo-series-temporais-prophet"
+                  "link": "https://cursos.alura.com.br/course/regressao-prevendo-series-temporais-prophet",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3771,
                   "nome": "Regressão: realizando previsão de séries temporais com statsmodels",
-                  "link": "https://cursos.alura.com.br/course/regressao-realizando-previsao-series-temporais-statsmodels"
+                  "link": "https://cursos.alura.com.br/course/regressao-realizando-previsao-series-temporais-statsmodels",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3971,
                   "nome": "Machine Learning: classificação com SKLearn",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-classificacao-sklearn"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-classificacao-sklearn",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 4149,
                   "nome": "Big Query ML: trabalhando com modelos de classificação",
-                  "link": "https://cursos.alura.com.br/course/big-query-ml-trabalhando-modelos-classificacao"
+                  "link": "https://cursos.alura.com.br/course/big-query-ml-trabalhando-modelos-classificacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 982,
                   "nome": "Deep Learning parte 1: Keras",
-                  "link": "https://cursos.alura.com.br/course/deep-learning-introducao-com-keras"
+                  "link": "https://cursos.alura.com.br/course/deep-learning-introducao-com-keras",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1667,
                   "nome": "Clusterização de dados: segmentação de clientes",
-                  "link": "https://cursos.alura.com.br/course/clusterizacao-dados-segmentacao-clientes"
+                  "link": "https://cursos.alura.com.br/course/clusterizacao-dados-segmentacao-clientes",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1734,
                   "nome": "Redes Neurais Convolucionais: Deep Learning com PyTorch",
-                  "link": "https://cursos.alura.com.br/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch"
+                  "link": "https://cursos.alura.com.br/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1799,
                   "nome": "Árvores de Decisão: aprofundando em modelos de Machine Learning",
-                  "link": "https://cursos.alura.com.br/course/arvores-decisao-aprofundando-modelos-machine-learning"
+                  "link": "https://cursos.alura.com.br/course/arvores-decisao-aprofundando-modelos-machine-learning",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1810,
                   "nome": "Deep Learning: previsão com Keras",
-                  "link": "https://cursos.alura.com.br/course/deep-learning-previsao-keras"
+                  "link": "https://cursos.alura.com.br/course/deep-learning-previsao-keras",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1892,
                   "nome": "Redes Neurais Recorrentes: Deep Learning com Pytorch",
-                  "link": "https://cursos.alura.com.br/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch"
+                  "link": "https://cursos.alura.com.br/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2124,
                   "nome": "Machine Learning: Credit Scoring",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-credit-scoring"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-credit-scoring",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2182,
                   "nome": "Aprendizado não supervisionado: primeiras técnicas e métodos",
-                  "link": "https://cursos.alura.com.br/course/aprendizado-nao-supervisionado-tecnicas-metodos"
+                  "link": "https://cursos.alura.com.br/course/aprendizado-nao-supervisionado-tecnicas-metodos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2276,
                   "nome": "Spark: criando modelos de classificação",
-                  "link": "https://cursos.alura.com.br/course/spark-modelos-classificacao"
+                  "link": "https://cursos.alura.com.br/course/spark-modelos-classificacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2277,
                   "nome": "Spark: trabalhando com regressão",
-                  "link": "https://cursos.alura.com.br/course/spark-trabalhando-regressao"
+                  "link": "https://cursos.alura.com.br/course/spark-trabalhando-regressao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2278,
                   "nome": "Spark: sistema de recomendação",
-                  "link": "https://cursos.alura.com.br/course/spark-sistema-recomendacao"
+                  "link": "https://cursos.alura.com.br/course/spark-sistema-recomendacao",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2398,
                   "nome": "Machine Learning com Oracle ADS: produtividade na criação de modelos",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-oracle-ads-criacao-modelos"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-oracle-ads-criacao-modelos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2422,
                   "nome": "Machine Learning: classificação por trás dos panos",
-                  "link": "https://cursos.alura.com.br/course/machine-learning-classificacao-tras-panos"
+                  "link": "https://cursos.alura.com.br/course/machine-learning-classificacao-tras-panos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2423,
                   "nome": "Modelos preditivos em dados: detecção de fraude",
-                  "link": "https://cursos.alura.com.br/course/modelos-preditivos-dados-deteccao-fraude"
+                  "link": "https://cursos.alura.com.br/course/modelos-preditivos-dados-deteccao-fraude",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2694,32 +2995,38 @@
                 {
                   "id": 2675,
                   "nome": "MongoDB: conhecendo um banco de dados NoSQL",
-                  "link": "https://cursos.alura.com.br/course/mongodb-banco-dados-nosql"
+                  "link": "https://cursos.alura.com.br/course/mongodb-banco-dados-nosql",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2790,
                   "nome": "MongoDB: modelagem de dados",
-                  "link": "https://cursos.alura.com.br/course/mongodb-modelagem-de-dados"
+                  "link": "https://cursos.alura.com.br/course/mongodb-modelagem-de-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2710,
                   "nome": "MongoDB: validando dados",
-                  "link": "https://cursos.alura.com.br/course/mongodb-validando-dados"
+                  "link": "https://cursos.alura.com.br/course/mongodb-validando-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2941,
                   "nome": "MongoDB: realizando consultas",
-                  "link": "https://cursos.alura.com.br/course/mongodb-realizando-consultas"
+                  "link": "https://cursos.alura.com.br/course/mongodb-realizando-consultas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2942,
                   "nome": "MongoDB: segurança e disponibilidade dos dados",
-                  "link": "https://cursos.alura.com.br/course/mongodb-seguranca-disponibilidade-dados"
+                  "link": "https://cursos.alura.com.br/course/mongodb-seguranca-disponibilidade-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2943,
                   "nome": "MongoDB: trabalhando com armazenamento, backups e otimização de consulta",
-                  "link": "https://cursos.alura.com.br/course/mongodb-armazenamento-backups-otimizacao-consulta"
+                  "link": "https://cursos.alura.com.br/course/mongodb-armazenamento-backups-otimizacao-consulta",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2729,7 +3036,8 @@
                 {
                   "id": 3063,
                   "nome": "Pipeline de dados: integrando Python com MongoDB e MySQL",
-                  "link": "https://cursos.alura.com.br/course/pipeline-dados-integrando-python-mongodb-mysql"
+                  "link": "https://cursos.alura.com.br/course/pipeline-dados-integrando-python-mongodb-mysql",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2764,32 +3072,38 @@
                 {
                   "id": 3713,
                   "nome": "Governança de dados: explorando os conceitos fundamentais",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-explorando-conceitos-fundamentais"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-explorando-conceitos-fundamentais",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3714,
                   "nome": "Governança de dados: conhecendo o ciclo de vida dos dados",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-conhecendo-ciclo-vida-dados"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-conhecendo-ciclo-vida-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3715,
                   "nome": "Governança de dados: garantindo a qualidade de dados com a biblioteca Pydeequ",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-qualidade-dados-biblioteca-pydeequ"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-qualidade-dados-biblioteca-pydeequ",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3716,
                   "nome": "Governança de dados: usando metadados para compreender dados",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-usando-metadados-compreender-dados"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-usando-metadados-compreender-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3717,
                   "nome": "Governança de dados: mapeando a origem e o destino com linhagem de dados",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-mapeando-origem-destino-linhagem-dados"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-mapeando-origem-destino-linhagem-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3718,
                   "nome": "Governança de dados: garantindo privacidade e proteção de dados para um futuro seguro",
-                  "link": "https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro"
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -2924,12 +3238,14 @@
                 {
                   "id": 2665,
                   "nome": "Apache Airflow: orquestrando seu primeiro pipeline de dados",
-                  "link": "https://cursos.alura.com.br/course/apache-airflow-primeiro-pipeline-dados"
+                  "link": "https://cursos.alura.com.br/course/apache-airflow-primeiro-pipeline-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2688,
                   "nome": "Apache Airflow: extração de dados",
-                  "link": "https://cursos.alura.com.br/course/apache-airflow-extracao-dados"
+                  "link": "https://cursos.alura.com.br/course/apache-airflow-extracao-dados",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2939,12 +3255,14 @@
                 {
                   "id": 1576,
                   "nome": "MLOps: Machine Learning e APIs",
-                  "link": "https://cursos.alura.com.br/course/mlops-machine-learning-e-apis"
+                  "link": "https://cursos.alura.com.br/course/mlops-machine-learning-e-apis",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1814,
                   "nome": "MLOps: deploy de modelos",
-                  "link": "https://cursos.alura.com.br/course/mlops-deploy-modelos"
+                  "link": "https://cursos.alura.com.br/course/mlops-deploy-modelos",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2954,12 +3272,14 @@
                 {
                   "id": 2945,
                   "nome": "CD4ML: Entrega Contínua para Machine Learning",
-                  "link": "https://cursos.alura.com.br/course/cd4ml-entrega-continua-machine-learning"
+                  "link": "https://cursos.alura.com.br/course/cd4ml-entrega-continua-machine-learning",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2958,
                   "nome": "Continuous Delivery for Machine Learning: completando o Pipeline",
-                  "link": "https://cursos.alura.com.br/course/continuous-delivery-machine-learning-pipeline-completo"
+                  "link": "https://cursos.alura.com.br/course/continuous-delivery-machine-learning-pipeline-completo",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -2969,7 +3289,8 @@
                 {
                   "id": 2104,
                   "nome": "MLflow: gestão do ciclo de vidas de modelos de ML",
-                  "link": "https://cursos.alura.com.br/course/mlflow-gestao-ciclo-vidas-modelos-ml"
+                  "link": "https://cursos.alura.com.br/course/mlflow-gestao-ciclo-vidas-modelos-ml",
+                  "status": "ATIVO"
                 }
               ]
             }
@@ -3065,42 +3386,50 @@
                 {
                   "id": 1321,
                   "nome": "NLP: regex e modelos de linguagem",
-                  "link": "https://cursos.alura.com.br/course/nlp-modelos-linguagem"
+                  "link": "https://cursos.alura.com.br/course/nlp-modelos-linguagem",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1581,
                   "nome": "Corretor Ortográfico em Python: aplicando técnicas de NLP",
-                  "link": "https://cursos.alura.com.br/course/nlp-corretor-ortografico"
+                  "link": "https://cursos.alura.com.br/course/nlp-corretor-ortografico",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1638,
                   "nome": "Word2Vec: interpretação da linguagem humana com Word embedding",
-                  "link": "https://cursos.alura.com.br/course/introducao-word-embedding"
+                  "link": "https://cursos.alura.com.br/course/introducao-word-embedding",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 1745,
                   "nome": "Word2Vec: treinamento de Word Embedding",
-                  "link": "https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding"
+                  "link": "https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3765,
                   "nome": "NLP: aplicando processamento de linguagem natural para análise de sentimentos",
-                  "link": "https://cursos.alura.com.br/course/nlp-aplicando-processamento-linguagem-natural-analise-sentimentos"
+                  "link": "https://cursos.alura.com.br/course/nlp-aplicando-processamento-linguagem-natural-analise-sentimentos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3972,
                   "nome": "NLP: buscando entidades em documentos",
-                  "link": "https://cursos.alura.com.br/course/nlp-buscando-entidades-documentos"
+                  "link": "https://cursos.alura.com.br/course/nlp-buscando-entidades-documentos",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3973,
                   "nome": "NLP: trabalhando com similaridade de sentenças",
-                  "link": "https://cursos.alura.com.br/course/nlp-trabalhando-similaridade-sentencas"
+                  "link": "https://cursos.alura.com.br/course/nlp-trabalhando-similaridade-sentencas",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 3974,
                   "nome": "NLP: explorando LLM para aplicações de chatbot",
-                  "link": "https://cursos.alura.com.br/course/nlp-explorando-llm-aplicacoes-chatbot"
+                  "link": "https://cursos.alura.com.br/course/nlp-explorando-llm-aplicacoes-chatbot",
+                  "status": "ATIVO"
                 }
               ]
             },
@@ -3110,12 +3439,14 @@
                 {
                   "id": 2499,
                   "nome": "Data Mesh: uma abordagem distribuída para dados",
-                  "link": "https://cursos.alura.com.br/course/data-mesh-abordagem-distribuida-dados"
+                  "link": "https://cursos.alura.com.br/course/data-mesh-abordagem-distribuida-dados",
+                  "status": "ATIVO"
                 },
                 {
                   "id": 2500,
                   "nome": "Data Mesh: dados como produtos",
-                  "link": "https://cursos.alura.com.br/course/data-mesh-dados-produtos"
+                  "link": "https://cursos.alura.com.br/course/data-mesh-dados-produtos",
+                  "status": "ATIVO"
                 }
               ]
             }

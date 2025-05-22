@@ -26,7 +26,7 @@ h6 {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin-bottom: 2px;
+  margin: 0 auto 8px auto;     /* centraliza e dá espaçamento vertical */
   padding: 12px;
   border-radius: 8px;
   border: 2px solid var(--primary-color);
@@ -34,8 +34,10 @@ h6 {
   transition: background 0.3s ease, transform 0.2s ease;
   text-decoration: none;
   color: inherit;
-  height: 160px;
+  height: 120px;
   justify-content: center;
+  width: 100%;
+  max-width: 220px;            /* aqui está o limite */
 }
 .card-link:hover {
   background-color: var(--primary-color);
@@ -51,8 +53,6 @@ h6 {
   font-weight: bold;
   line-height: 1.3;
 }
-
-/* Nome da stack centralizado */
 .stack-title {
   text-align: center;
   font-weight: bold;
@@ -64,34 +64,33 @@ h6 {
 """, unsafe_allow_html=True)
 
 # JSON da trilha
-with open("step_05_ementa_atualizada__Rodrigo.json", "r", encoding="utf-8") as f:
+with open("step_05_ementa_atualizada__Rodrigo_status.json", "r", encoding="utf-8") as f:
     trilha = json.load(f)
 
 # Exibição
 for etapa in trilha["ementa"]:
     st.header(f"{etapa['nivel']} - {etapa['subnivel']}")
     for bloco in etapa["blocos_tematicos"]:
-        with st.expander(f"## 📦 {bloco["nome"]}"):
-            st.markdown(f"##### 📝 Descrição")
-            st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>{bloco["descricao"]}</p>", unsafe_allow_html=True)
+        with st.expander(f"## 📦 {bloco['nome']}"):
+            st.markdown("##### 📝 Descrição")
+            st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>{bloco['descricao']}</p>", unsafe_allow_html=True)
 
             st.markdown("##### 🎯 Projetos")
             for projeto in bloco.get("projetos", []):
-                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{projeto}</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹 {projeto}</p>", unsafe_allow_html=True)
 
             st.markdown("##### 🧠 Hard Skills")
             for skill in bloco.get("hard_skills", []):
-                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{skill}</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹 {skill}</p>", unsafe_allow_html=True)
 
             st.markdown("##### 💬 Soft Skills")
             for skill in bloco.get("soft_skills", []):
-                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{skill}</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹 {skill}</p>", unsafe_allow_html=True)
 
             st.markdown("##### 🛠 Ferramentas")
             for ferramenta in bloco.get("ferramentas_principais", []):
-                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹{ferramenta}</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='margin-left: 32px; font-size: 16px;'>🔹 {ferramenta}</p>", unsafe_allow_html=True)
 
-            # Cursos organizados por stack
             cursos = bloco.get("cursos", [])
             if cursos:
                 st.markdown("##### 🎓 Cursos Associados por Stack")
@@ -102,13 +101,25 @@ for etapa in trilha["ementa"]:
                         for curso in stack_entry.get("cursos", []):
                             nome = curso.get("nome", "Curso sem nome")
                             link = curso.get("link", "")
+                            status = curso.get("status", "").strip().upper()
+                            badge_html = ""
+                            if status == "NOVIDADE":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: green; color: white; border-radius: 4px; font-size: 10px;'>NOVIDADE</div>"
+                            elif status == "REGRAVAÇÃO":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: red; color: white; border-radius: 4px; font-size: 10px;'>REGRAVAÇÃO</div>"
+                            elif status == "ATIVO":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: blue; color: white; border-radius: 4px; font-size: 10px;'>ATIVO</div>"
+
                             if link:
                                 slug = link.rstrip("/").split("/")[-1]
-                                img_url = f"https://www.alura.com.br/assets/api/cursos/{slug}.svg"
+                                if status == "NOVIDADE":
+                                    img_url = f"https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg"
+                                else:
+                                    img_url = f"https://www.alura.com.br/assets/api/cursos/{slug}.svg"
                                 st.markdown(f"""
 <a href="{link}" target="_blank" class="card-link">
   <img src="{img_url}" width="40">
-  <div class="card-text">{nome}</div>
+  <div class="card-text">{nome}{badge_html}</div>
 </a>
 """, unsafe_allow_html=True)
                             else:
