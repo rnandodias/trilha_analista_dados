@@ -104,9 +104,13 @@ for etapa in trilha["ementa"]:
                             status = curso.get("status", "").strip().upper()
                             badge_html = ""
                             if status == "NOVIDADE":
-                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: green; color: white; border-radius: 4px; font-size: 10px;'>NOVIDADE</div>"
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: yellow; color: black; border-radius: 4px; font-size: 10px;'>NOVIDADE</div>"
                             elif status == "REGRAVAÇÃO":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: red; color: white; border-radius: 4px; font-size: 10px;'>REGRAVAÇÃO</div>"
+                            elif status == "CARREIRA":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: green; color: white; border-radius: 4px; font-size: 10px;'>CARREIRA</div>"
+                            elif status == "COMPLEMENTO":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: orange; color: white; border-radius: 4px; font-size: 10px;'>COMPLEMENTO</div>"
                             elif status == "ATIVO":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: blue; color: white; border-radius: 4px; font-size: 10px;'>ATIVO</div>"
 

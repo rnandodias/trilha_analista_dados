@@ -41,19 +41,19 @@
                   "id": 2922,
                   "nome": "Python para Data Science: primeiros passos",
                   "link": "https://cursos.alura.com.br/course/python-data-science-primeiros-passos",
-                  "status": "ATIVO"
+                  "status": "CARREIRA"
                 },
                 {
                   "id": 2923,
                   "nome": "Python para Data Science: trabalhando com funções, estruturas de dados e exceções",
                   "link": "https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes",
-                  "status": "ATIVO"
+                  "status": "CARREIRA"
                 },
                 {
                   "id": 4415,
                   "nome": "Praticando Python: estruturas de dados",
                   "link": "https://cursos.alura.com.br/course/praticando-python-estruturas-dados",
-                  "status": "ATIVO"
+                  "status": "CARREIRA"
                 }
               ]
             }
@@ -86,16 +86,10 @@
               "stack": "SQLite",
               "cursos": [
                 {
-                  "id": 3293,
-                  "nome": "Introdução à SQL",
-                  "link": "https://cursos.alura.com.br/course/introducao-sql",
-                  "status": "ATIVO"
-                },
-                {
                   "id": 2953,
                   "nome": "SQLite online: conhecendo instruções SQL",
                   "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql",
-                  "status": "ATIVO"
+                  "status": "CARREIRA"
                 }
               ]
             },
@@ -106,7 +100,7 @@
                   "id": 3018,
                   "nome": "Microsoft SQL Server 2022: conhecendo SQL",
                   "link": "https://cursos.alura.com.br/course/microsoft-sql-server-conhecendo-sql",
-                  "status": "ATIVO"
+                  "status": "COMPLEMENTO"
                 }
               ]
             }
@@ -171,29 +165,19 @@
             "AWS",
             "Azure",
             "Google Cloud"
-          ]
-        },
-        {
-          "nome": "Interpretação de Dados e Pensamento Analítico",
-          "descricao": "Desenvolve a capacidade de extrair sentido a partir de dados, compreendendo tabelas, gráficos e resumos estatísticos. Estimula o pensamento analítico e crítico ao associar dados com seu contexto, identificar padrões e levantar hipóteses com base em evidências. O objetivo é tornar o analista capaz de tirar conclusões fundamentadas a partir de dados brutos, mesmo antes de modelos complexos.",
-          "projetos": [
-            "Leitura e interpretação de tabelas e gráficos",
-            "Análise exploratória com geração de hipóteses"
           ],
-          "hard_skills": [
-            "Leitura e interpretação de gráficos e tabelas estatísticas",
-            "Identificação de padrões e tendências em dados reais",
-            "Formulação de hipóteses com base em dados quantitativos"
-          ],
-          "soft_skills": [
-            "Pensamento analítico orientado à resolução de problemas",
-            "Pensamento crítico aplicado à validação de hipóteses",
-            "Clareza na comunicação de insights extraídos dos dados"
-          ],
-          "ferramentas_principais": [
-            "Python",
-            "Excel",
-            "Ferramentas de IA"
+          "cursos": [
+            {
+              "stack": "Computação em Nuvem",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Computação em Nuvem: Conhecendo os fundamentos básicos",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -208,33 +192,53 @@
       ],
       "blocos_tematicos": [
         {
-          "nome": "Introdução à Análise de Dados",
-          "descricao": "Apresenta os fundamentos iniciais da análise de dados, com foco em tipos de dados, estruturas básicas e principais etapas do processo analítico. O conteúdo é voltado para iniciantes e tem como objetivo desenvolver uma visão geral das ferramentas mais acessíveis, incentivando o pensamento analítico e a curiosidade na exploração de dados.",
+          "nome": "Fundamentos e Pensamento Analítico em Análise de Dados",
+          "descricao": "Apresenta os fundamentos iniciais da análise de dados, incluindo tipos de dados, estruturas básicas e principais etapas do processo analítico. Desenvolve a capacidade de interpretar tabelas, gráficos e resumos estatísticos, estimulando o pensamento analítico e crítico. O objetivo é tornar o aluno capaz de explorar, organizar e extrair conclusões fundamentadas a partir de dados reais, incentivando a curiosidade e o uso das principais ferramentas do mercado.",
           "projetos": [
             "Exploração de Bases de Dados Públicas",
-            "Análise Exploratória Básica com Excel"
+            "Análise Exploratória Básica com Excel",
+            "Leitura e interpretação de tabelas e gráficos",
+            "Análise exploratória com geração de hipóteses"
           ],
           "hard_skills": [
             "Identificação de tipos de dados e estrutura básica de tabelas",
+            "Leitura e interpretação de gráficos e tabelas estatísticas",
             "Aplicação de operações simples de análise com Excel",
-            "Organização e categorização de fontes de dados"
+            "Identificação de padrões e tendências em dados reais",
+            "Formulação de hipóteses com base em dados quantitativos"
           ],
           "soft_skills": [
             "Curiosidade para explorar dados de diferentes origens",
             "Aprendizado contínuo e interesse por novas ferramentas",
-            "Proatividade na investigação de informações e perguntas relevantes"
+            "Pensamento analítico orientado à resolução de problemas",
+            "Pensamento crítico aplicado à validação de hipóteses"
           ],
           "ferramentas_principais": [
             "Excel",
-            "ChatGPT"
+            "GitHub", 
+            "Google Drive", 
+            "Notion",
+            "Ferramentas de IA"
           ],
           "cursos": [
             {
-              "stack": "Python",
+              "stack": "Análise de Dados",
               "cursos": [
                 {
                   "id": 0,
                   "nome": "Trabalhando com Dados: O que faz um profissional da área de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                },
+                {
+                  "id": 0,
+                  "nome": "Trabalhando com Dados: Pensamento Analítico em Dados Reais",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                },
+                {
+                  "id": 0,
+                  "nome": "Portfólio em Dados: Primeiros Passos e Documentação de Projetos",
                   "link": "https://cursos.alura.com.br/",
                   "status": "NOVIDADE"
                 }
@@ -243,7 +247,529 @@
           ]
         },
         {
-          "nome": "Manipulação de Dados em Planilhas",
+          "nome": "Manipulação de Dados em Planilhas - Parte I",
+          "descricao": "Ensina o uso de planilhas como Excel e Google Sheets para organizar, tratar e analisar dados de forma prática. O conteúdo aborda fórmulas e funções comuns como PROCV/PROCX, SOMASE, SE, entre outras. Também inclui técnicas de limpeza de dados, como remoção de duplicatas e preenchimento de valores ausentes, além da criação de gráficos e dashboards simples diretamente na planilha.",
+          "projetos": [
+            "Análise de vendas com filtros e tabelas dinâmicas",
+            "Limpeza de uma base de dados de clientes em planilha",
+            "Dashboard simples de indicadores em excel ou sheets"
+          ],
+          "hard_skills": [
+            "Uso avançado de fórmulas e funções em planilhas (PROCV/PROCX, SOMASE, SE)",
+            "Limpeza e organização de dados em Excel ou Google Sheets",
+            "Criação de gráficos e dashboards simples em planilhas"
+          ],
+          "soft_skills": [
+            "Resolução prática de problemas com ferramentas acessíveis",
+            "Curiosidade para explorar recursos avançados de planilhas",
+            "Precisão e atenção aos detalhes na manipulação de dados"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Google Sheets",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "Microsoft Excel",
+              "cursos": [
+                {
+                  "id": 3195,
+                  "nome": "Excel: domine o editor de planilhas",
+                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3196,
+                  "nome": "Funções com Excel: operações matemáticas e filtros",
+                  "link": "https://cursos.alura.com.br/course/funcoes-excel-operacoes-matematicas-filtros",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3197,
+                  "nome": "Recursos Visuais com Excel: explorando gráficos e formatos",
+                  "link": "https://cursos.alura.com.br/course/recursos-visuais-excel-graficos-formatos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3198,
+                  "nome": "Excel: aprendendo lógica booleana e busca por valores",
+                  "link": "https://cursos.alura.com.br/course/excel-logica-booleana-busca-valores",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3199,
+                  "nome": "Excel: utilizando tabelas dinâmicas e gráficos dinâmicos",
+                  "link": "https://cursos.alura.com.br/course/excel-utilizando-tabelas-dinamicas-graficos-dinamicos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3200,
+                  "nome": "Excel: automatizando tarefas com Macros",
+                  "link": "https://cursos.alura.com.br/course/excel-automatizando-tarefas-macros",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Excel",
+              "cursos": [
+                {
+                  "id": 4423,
+                  "nome": "Praticando Excel: criando tabelas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4424,
+                  "nome": "Praticando Excel: construindo gráficos",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-graficos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4425,
+                  "nome": "Praticando Excel: utilizando fórmulas matemáticas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4426,
+                  "nome": "Praticando Excel: funções condicionais",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4427,
+                  "nome": "Praticando Excel: validação de dados",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4428,
+                  "nome": "Praticando Excel: construindo tabelas dinâmicas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trabalhando com SQL e Bancos de Dados Relacionais - Parte I",
+          "descricao": "Introduz o conceito de banco de dados relacional e linguagem SQL. Cobre criação de consultas simples: SELECT, filtros (WHERE), ordenação (ORDER BY), limites (LIMIT), e agregações básicas (GROUP BY com funções SUM, AVG, COUNT). Também apresenta conceitos de chave primária/estrangeira e, de forma introdutória, junção de tabelas (JOIN) para combinar dados de duas tabelas simples.",
+          "projetos": [
+            "Consultas simples em base de funcionários",
+            "Relatórios simples com SQL em banco MySQL"
+          ],
+          "hard_skills": [
+            "Consultas SQL básicas (SELECT, WHERE, ORDER BY, LIMIT)",
+            "Uso de agregações com GROUP BY (SUM, COUNT, AVG)",
+            "Compreensão de chaves primárias e estrangeiras",
+            "Junção de tabelas simples com JOIN"
+          ],
+          "soft_skills": [
+            "Pensamento crítico para formular consultas relevantes",
+            "Autonomia na navegação e exploração de bancos relacionais",
+            "Capacidade de transformar perguntas em instruções de extração de dados"
+          ],
+          "ferramentas_principais": [
+            "SQLite",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "SQLite",
+              "cursos": [
+                {
+                  "id": 3395,
+                  "nome": "SQLite Online: executando consultas SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3396,
+                  "nome": "Realizando consultas com SQL: Joins, Views e transações",
+                  "link": "https://cursos.alura.com.br/course/realizando-consultas-sql-joins-views-transacoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3457,
+                  "nome": "SQLite online: análise de dados com SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-analise-dados-sql",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando SQL",
+              "cursos": [
+                {
+                  "id": 4429,
+                  "nome": "Praticando SQL: realizando consultas",
+                  "link": "https://cursos.alura.com.br/course/sql-realizando-consultas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4434,
+                  "nome": "Praticando SQL: utilizando operadores lógicos",
+                  "link": "https://cursos.alura.com.br/course/sql-utilizando-operadores-logicos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4435,
+                  "nome": "Praticando SQL: entendendo funções de string",
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-string",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4436,
+                  "nome": "Praticando SQL: entendendo funções numéricas",
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-numericas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4437,
+                  "nome": "Praticando SQL: trabalhando com funções de Data",
+                  "link": "https://cursos.alura.com.br/course/sql-trabalhando-funcoes-data",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4438,
+                  "nome": "Praticando SQL: funções de agregação",
+                  "link": "https://cursos.alura.com.br/course/sql-funcoes-agregacao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4440,
+                  "nome": "Praticando SQL: combinando dados com JOINs",
+                  "link": "https://cursos.alura.com.br/course/sql-combinando-dados-joins",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Visualização de Dados e Dashboards",
+          "descricao": "Apresenta os princípios fundamentais de design para visualização eficaz de dados, incluindo escolha adequada de gráficos, uso consciente de cores e clareza na comunicação visual. Introduz ferramentas de Business Intelligence com foco principal em Microsoft Power BI, e também menciona Tableau e Google Data Studio como alternativas. Ensina a importar dados, criar visualizações interativas e montar um dashboard simples. Também aborda a criação de medidas básicas (soma, média) dentro das ferramentas e noções de compartilhamento de relatórios online.",
+          "projetos": [
+            "Dashboard inicial de vendas no Power BI",
+            "Relatório interativo de indicadores de RH"
+          ],
+          "hard_skills": [
+            "Criação de visualizações e dashboards interativos em ferramentas de BI",
+            "Aplicação de boas práticas de design para comunicação visual com dados",
+            "Criação de medidas simples (soma, média) dentro da ferramenta"
+          ],
+          "soft_skills": [
+            "Comunicação efetiva de informações por meio de gráficos e painéis",
+            "Storytelling com dados para públicos técnicos e não técnicos",
+            "Sensibilidade visual para destacar o que realmente importa"
+          ],
+          "ferramentas_principais": [
+            "Power BI",
+            "Power Query",
+            "Tableau",
+            "Google Data Studio",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "Looker Studio",
+              "cursos": [
+                {
+                  "id": 2664,
+                  "nome": "Looker Studio: criando o primeiro relatório",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-primeiro-relatorio",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3038,
+                  "nome": "Looker Studio: parâmetros e combinações de dados",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-parametros-combinacoes-dados",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 3775,
+                  "nome": "Power BI Desktop: construindo meu primeiro dashboard",
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2674,
+                  "nome": "Power BI: Report Builder",
+                  "link": "https://cursos.alura.com.br/course/power-bi-report-builder",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2784,
+                  "nome": "Power BI: conhecendo o serviço",
+                  "link": "https://cursos.alura.com.br/course/power-bi-conhecendo-servico",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2930,
+                  "nome": "Power BI: explorando recursos visuais",
+                  "link": "https://cursos.alura.com.br/course/power-bi-recursos-visuais",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2951,
+                  "nome": "Power BI: aplicando a RLS",
+                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-rls",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2955,
+                  "nome": "Dashboard com Power BI: visualizando dados",
+                  "link": "https://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3777,
+                  "nome": "Power BI: construindo cálculos com Dax",
+                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3778,
+                  "nome": "Power BI: visualizando e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4589,
+                  "nome": "Praticando Power BI: criando visualizações estratégicas para responder perguntas de negócio",
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-visualizacoes-estrategicas-responder-perguntas-negocio",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3054,
+                  "nome": "Streamlit: construindo um dashboard interativo",
+                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3055,
+                  "nome": "Data Visualization: criando gráficos com bibliotecas Python",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3057,
+                  "nome": "Data Visualization: gráficos de comparação e distribuição",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3059,
+                  "nome": "Python e Power BI: analisando dados do mercado financeiro",
+                  "link": "https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 1447,
+                  "nome": "Data Visualization: criação de gráficos com o Matplotlib",
+                  "link": "https://cursos.alura.com.br/course/customizacao-matplot",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3137,
+                  "nome": "Data Visualization: gráficos de composição e relacionamento",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4420,
+                  "nome": "Praticando gráficos: criando gráficos de comparação",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-comparacao",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4422,
+                  "nome": "Praticando gráficos: criando gráficos customizados",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-customizados",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Excel",
+              "cursos": [
+                {
+                  "id": 4003,
+                  "nome": "Dashboards financeiros: da consolidação à visualização estratégica",
+                  "link": "https://cursos.alura.com.br/course/dashboards-financeiros-consolidacao-visualizacao-estrategica",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4009,
+                  "nome": "Data Storytelling: criando narrativas com Excel",
+                  "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 3819,
+                  "nome": "R para Data Science: aplicando Data Visualization com ggplot2",
+                  "link": "https://cursos.alura.com.br/course/r-data-science-aplicando-data-visualization-ggplot2",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Tableau",
+              "cursos": [
+                {
+                  "id": 2234,
+                  "nome": "Dashboard com Tableau: conceitos essenciais",
+                  "link": "https://cursos.alura.com.br/course/tableau-conceitos-essenciais",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Google Sheets",
+              "cursos": [
+                {
+                  "id": 2327,
+                  "nome": "Data Visualization: técnicas de visualização com Google Sheets",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Qlik Sense",
+              "cursos": [
+                {
+                  "id": 2363,
+                  "nome": "Qlik Sense: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-conhecendo-ferramenta",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2365,
+                  "nome": "Qlik Sense: analisando dados",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-analisando-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2413,
+                  "nome": "Qlik Sense: histórias e gráficos",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-historias-graficos",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Oracle Analytics",
+              "cursos": [
+                {
+                  "id": 2387,
+                  "nome": "Oracle Analytics: visualizando dados",
+                  "link": "https://cursos.alura.com.br/course/oracle-analytics-visualizando-dados",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "MicroStrategy",
+              "cursos": [
+                {
+                  "id": 2544,
+                  "nome": "MicroStrategy Workstation: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-ferramenta",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2569,
+                  "nome": "MicroStrategy Workstation: elaborando uma apresentação",
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-elaborando-apresentacao",
+                  "status": "ATIVO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Uso de Tecnologias Emergentes na Análise de Dados",
+          "descricao": "Explora o uso e a integração de tecnologias emergentes, com destaque para ferramentas de Inteligência Artificial aplicadas à análise de dados. Apresenta formas práticas de utilizar assistentes de IA generativa no apoio à exploração de dados, interpretação de resultados, automação de análises e geração de relatórios. O objetivo é ampliar a capacidade analítica com criatividade e uso estratégico dessas ferramentas.",
+          "projetos": [
+            "Análise assistida por IA com dados públicos"
+          ],
+          "hard_skills": [
+            "Integração de ferramentas de IA em fluxos analíticos",
+            "Uso de modelos generativos para apoio em análise de dados",
+            "Aplicação de Python com suporte de assistentes inteligentes"
+          ],
+          "soft_skills": [
+            "Criatividade para explorar novas possibilidades com IA",
+            "Resolução de problemas com apoio tecnológico",
+            "Abertura à experimentação e aprendizagem contínua"
+          ],
+          "ferramentas_principais": [
+            "OpenAI",
+            "Gemini",
+            "Grok",
+            "Copilot",
+            "Deepseek",
+            "Python",
+            "Power BI",
+            "Excel"
+          ],
+          "cursos": [
+            {
+              "stack": "Análise de Dados",
+              "cursos": [
+                {
+                  "id": 3370,
+                  "nome": "Identificando vieses e armadilhas em análises",
+                  "link": "https://cursos.alura.com.br/course/identificando-vieses-armadilhas-analises",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Power Automate",
+              "cursos": [
+                {
+                  "id": 4155,
+                  "nome": "Power Automate: solucionando problemas do RH com automação de tarefas",
+                  "link": "https://cursos.alura.com.br/course/power-automate-solucionando-problemas-rh-automacao-tarefas",
+                  "status": "ATIVO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Iniciante",
+      "subnivel": "Nível II",
+      "objetivos_gerais": [
+        "Aprofundar o uso de SQL para consultas mais complexas.",
+        "Introduzir conceitos de programação em Python e R.",
+        "Desenvolver projetos práticos de análise de dados com ferramentas modernas."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Manipulação de Dados em Planilhas - Parte II",
           "descricao": "Ensina o uso de planilhas como Excel e Google Sheets para organizar, tratar e analisar dados de forma prática. O conteúdo aborda fórmulas e funções comuns como PROCV/PROCX, SOMASE, SE, entre outras. Também inclui técnicas de limpeza de dados, como remoção de duplicatas e preenchimento de valores ausentes, além da criação de gráficos e dashboards simples diretamente na planilha.",
           "projetos": [
             "Análise de vendas com filtros e tabelas dinâmicas",
@@ -276,36 +802,6 @@
                   "status": "ATIVO"
                 },
                 {
-                  "id": 4423,
-                  "nome": "Praticando Excel: criando tabelas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4425,
-                  "nome": "Praticando Excel: utilizando fórmulas matemáticas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4426,
-                  "nome": "Praticando Excel: funções condicionais",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4427,
-                  "nome": "Praticando Excel: validação de dados",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4428,
-                  "nome": "Praticando Excel: construindo tabelas dinâmicas",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas",
-                  "status": "ATIVO"
-                },
-                {
                   "id": 3196,
                   "nome": "Funções com Excel: operações matemáticas e filtros",
                   "link": "https://cursos.alura.com.br/course/funcoes-excel-operacoes-matematicas-filtros",
@@ -333,12 +829,6 @@
                   "id": 3200,
                   "nome": "Excel: automatizando tarefas com Macros",
                   "link": "https://cursos.alura.com.br/course/excel-automatizando-tarefas-macros",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3585,
-                  "nome": "Excel Para Além das Fórmulas",
-                  "link": "https://cursos.alura.com.br/course/excel-alem-formulas",
                   "status": "ATIVO"
                 },
                 {
@@ -417,6 +907,41 @@
                   "id": 4249,
                   "nome": "Excel estratégico para RH: automação, macros e planejamento avançado",
                   "link": "https://cursos.alura.com.br/course/excel-estrategico-rh-automacao-macros-planejamento-avancado",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Excel",
+              "cursos": [
+                {
+                  "id": 4423,
+                  "nome": "Praticando Excel: criando tabelas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4425,
+                  "nome": "Praticando Excel: utilizando fórmulas matemáticas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4426,
+                  "nome": "Praticando Excel: funções condicionais",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4427,
+                  "nome": "Praticando Excel: validação de dados",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4428,
+                  "nome": "Praticando Excel: construindo tabelas dinâmicas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas",
                   "status": "ATIVO"
                 }
               ]
@@ -527,6 +1052,297 @@
                   "id": 4587,
                   "nome": "Praticando Power BI: transformando dados com Power Query",
                   "link": "https://cursos.alura.com.br/course/praticando-power-bi-transformando-dados-power-query",
+                  "status": "ATIVO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Introdução à Programação para Análise de Dados (Python ou R)",
+          "descricao": "Apresenta os fundamentos da programação voltados à análise de dados, permitindo ao aluno escolher entre Python ou R como linguagem principal. Cobre tipos de dados primitivos, estruturas de controle (condicionais e loops), e operações básicas de manipulação de dados. Também aborda a leitura de arquivos CSV, seleção de colunas, filtros e transformações simples utilizando bibliotecas como pandas (Python) ou dplyr/tidyverse (R).",
+          "projetos": [
+            "Leitura e análise de arquivos CSV com Python.",
+            "Limpeza de dados e geração de gráficos em R."
+          ],
+          "hard_skills": [
+            "Programação básica com foco em dados (Python ou R)",
+            "Leitura e manipulação de arquivos CSV",
+            "Data wrangling com bibliotecas específicas (pandas ou dplyr)"
+          ],
+          "soft_skills": [
+            "Curiosidade para explorar diferentes abordagens com linguagens de programação",
+            "Aprendizado contínuo no uso de ferramentas de análise",
+            "Autonomia na resolução de problemas com apoio de código"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Google Colab",
+            "VS Code",
+            "Git",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 1109,
+                  "nome": "Data Science: analise e visualização de dados",
+                  "link": "https://cursos.alura.com.br/course/data-science-primeiros-passos",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2924,
+                  "nome": "NumPy: análise numérica eficiente com Python",
+                  "link": "https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2925,
+                  "nome": "Pandas: conhecendo a biblioteca",
+                  "link": "https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2926,
+                  "nome": "Pandas I/O: trabalhando com diferentes formatos de arquivos",
+                  "link": "https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2927,
+                  "nome": "Pandas: selecionando e agrupando dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4418,
+                  "nome": "Praticando Pandas: realizando operações",
+                  "link": "https://cursos.alura.com.br/course/praticando-python-realizando-operacoes",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4474,
+                  "nome": "Praticando Pandas: criando tabulações com pivot_table",
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-pivot-table",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3058,
+                  "nome": "Python: análise de dados com SQL",
+                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 3683,
+                  "nome": "R para Data Science: conhecendo a linguagem",
+                  "link": "https://cursos.alura.com.br/course/r-data-science-conhecendo-linguagem",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3684,
+                  "nome": "R: utilizando e manipulando estruturas para análises de dados",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-manipulando-estruturas-analises-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3816,
+                  "nome": "R: utilizando o Tidyverse para diferentes formatos de dados",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-diferentes-formatos-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3817,
+                  "nome": "R: utilizando o Tidyverse e transformando dados com dplyr",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-transformando-dados-dplyr",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 1764,
+                  "nome": "Programação em R: desenvolva dashboards online com Shiny",
+                  "link": "https://cursos.alura.com.br/course/programacao-r-dashboard-online-shiny",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 2672,
+                  "nome": "Power BI: mergulhando na linguagem M",
+                  "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
+                  "status": "ATIVO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Análise Descritiva e Diagnóstica",
+          "descricao": "Apresenta técnicas de estatística descritiva e diagnóstica aplicadas à análise de dados, com o objetivo de entender padrões e possíveis causas por trás de fenômenos observados. O foco está na exploração de métricas como médias, proporções, variações e na comparação entre grupos ou períodos. Aborda também o uso de visualizações, tabelas dinâmicas e segmentações como apoio à interpretação diagnóstica.",
+          "projetos": [
+            "Análise de churn de clientes com Python e SQL.",
+            "Identificação de padrões de vendas sazonais em planilhas e dashboards."
+          ],
+          "hard_skills": [
+            "Estatística descritiva aplicada à análise de dados",
+            "Análise diagnóstica com segmentações e comparação de grupos",
+            "Uso de SQL, Python e dashboards para investigar padrões e causas"
+          ],
+          "soft_skills": [
+            "Pensamento crítico voltado à identificação de causas e padrões",
+            "Visão de negócio para interpretar indicadores no contexto estratégico",
+            "Capacidade de sintetizar achados e apresentar hipóteses baseadas em dados"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Excel",
+            "Power BI",
+            "SQL",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 4194,
+                  "nome": "Estatística com R: resumindo e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-resumindo-analisando-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3818,
+                  "nome": "R: aplicando a análise descritiva com R",
+                  "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 4217,
+                  "nome": "Estatística com Python: resumindo e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/estatistica-python-resumindo-analisando-dados",
+                  "status": "REGRAVAÇÃO"
+                },
+                {
+                  "id": 1703,
+                  "nome": "Data Science: análises para saúde e medicina",
+                  "link": "https://cursos.alura.com.br/course/data-science-saude-e-medicina",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4475,
+                  "nome": "Praticando gráficos: distribuição com Seaborn",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-distribuicao",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 4588,
+                  "nome": "Praticando Power BI: criando métricas com DAX",
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-metricas-dax",
+                  "status": "ATIVO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Limpeza e Transformação de Dados (Python ou R)",
+          "descricao": "Foca nas principais técnicas de data wrangling aplicadas com Python (usando pandas) ou R (com dplyr). Ensina a identificar e tratar valores ausentes, corrigir tipos de dados (como conversão de strings em datas), remover outliers simples, padronizar categorias e rótulos, criar colunas derivadas e unir diferentes conjuntos de dados. O objetivo é preparar os dados para análises mais avançadas e garantir consistência e qualidade nas bases utilizadas.",
+          "projetos": [
+            "Limpando dados de pesquisa",
+            "Limpeza e análise inicial de dados",
+            "Mesclando e enriquecendo conjuntos de dados"
+          ],
+          "hard_skills": [
+            "Tratamento de dados faltantes e normalização de variáveis",
+            "Correção de tipos de dados e padronização de categorias",
+            "Fusão de datasets com merge/join programático",
+            "Criação de colunas derivadas para análises específicas"
+          ],
+          "soft_skills": [
+            "Curiosidade para entender a estrutura e qualidade dos dados",
+            "Aprendizado contínuo no uso de bibliotecas e boas práticas de wrangling",
+            "Autonomia na preparação de dados para diferentes contextos analíticos"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Google Colab",
+            "Git",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "Pandas",
+              "cursos": [
+                {
+                  "id": 2929,
+                  "nome": "Pandas: limpeza e tratamento de dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 2928,
+                  "nome": "Pandas: transformação e manipulação de dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4419,
+                  "nome": "Praticando Pandas: trabalhando com dados nulos",
+                  "link": "https://cursos.alura.com.br/course/python-trabalhando-dados-nulos",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4416,
+                  "nome": "Praticando Pandas: normalizando arquivos JSON",
+                  "link": "https://cursos.alura.com.br/course/python-normalizando-arquivos-json",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 4417,
+                  "nome": "Praticando Pandas: criando tabulações com groupby",
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-groupby",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "Qlik Sense",
+              "cursos": [
+                {
+                  "id": 2364,
+                  "nome": "Qlik Sense: manipulando dados",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-manipulando-dados",
+                  "status": "ATIVO"
+                }
+              ]
+            },
+            {
+              "stack": "MicroStrategy",
+              "cursos": [
+                {
+                  "id": 2568,
+                  "nome": "MicroStrategy Workstation: transformações e métricas",
+                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-transformacoes-metricas",
                   "status": "ATIVO"
                 }
               ]
@@ -825,622 +1641,6 @@
                   "id": 3206,
                   "nome": "Como coletar e manipular dados corretamente",
                   "link": "https://cursos.alura.com.br/course/modulo-5-coletar-manipular-dados-corretamente",
-                  "status": "ATIVO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "nome": "Visualização de Dados e Dashboards",
-          "descricao": "Apresenta os princípios fundamentais de design para visualização eficaz de dados, incluindo escolha adequada de gráficos, uso consciente de cores e clareza na comunicação visual. Introduz ferramentas de Business Intelligence com foco principal em Microsoft Power BI, e também menciona Tableau e Google Data Studio como alternativas. Ensina a importar dados, criar visualizações interativas e montar um dashboard simples. Também aborda a criação de medidas básicas (soma, média) dentro das ferramentas e noções de compartilhamento de relatórios online.",
-          "projetos": [
-            "Dashboard inicial de vendas no Power BI",
-            "Relatório interativo de indicadores de RH"
-          ],
-          "hard_skills": [
-            "Criação de visualizações e dashboards interativos em ferramentas de BI",
-            "Aplicação de boas práticas de design para comunicação visual com dados",
-            "Criação de medidas simples (soma, média) dentro da ferramenta"
-          ],
-          "soft_skills": [
-            "Comunicação efetiva de informações por meio de gráficos e painéis",
-            "Storytelling com dados para públicos técnicos e não técnicos",
-            "Sensibilidade visual para destacar o que realmente importa"
-          ],
-          "ferramentas_principais": [
-            "Power BI",
-            "Power Query",
-            "Tableau",
-            "Google Data Studio",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "Looker Studio",
-              "cursos": [
-                {
-                  "id": 2664,
-                  "nome": "Looker Studio: criando o primeiro relatório",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-primeiro-relatorio",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3038,
-                  "nome": "Looker Studio: parâmetros e combinações de dados",
-                  "link": "https://cursos.alura.com.br/course/looker-studio-parametros-combinacoes-dados",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Power BI",
-              "cursos": [
-                {
-                  "id": 3775,
-                  "nome": "Power BI Desktop: construindo meu primeiro dashboard",
-                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2674,
-                  "nome": "Power BI: Report Builder",
-                  "link": "https://cursos.alura.com.br/course/power-bi-report-builder",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2784,
-                  "nome": "Power BI: conhecendo o serviço",
-                  "link": "https://cursos.alura.com.br/course/power-bi-conhecendo-servico",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2930,
-                  "nome": "Power BI: explorando recursos visuais",
-                  "link": "https://cursos.alura.com.br/course/power-bi-recursos-visuais",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2951,
-                  "nome": "Power BI: aplicando a RLS",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-rls",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2955,
-                  "nome": "Dashboard com Power BI: visualizando dados",
-                  "link": "https://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3777,
-                  "nome": "Power BI: construindo cálculos com Dax",
-                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3778,
-                  "nome": "Power BI: visualizando e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4589,
-                  "nome": "Praticando Power BI: criando visualizações estratégicas para responder perguntas de negócio",
-                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-visualizacoes-estrategicas-responder-perguntas-negocio",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Python",
-              "cursos": [
-                {
-                  "id": 3054,
-                  "nome": "Streamlit: construindo um dashboard interativo",
-                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3055,
-                  "nome": "Data Visualization: criando gráficos com bibliotecas Python",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3057,
-                  "nome": "Data Visualization: gráficos de comparação e distribuição",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3059,
-                  "nome": "Python e Power BI: analisando dados do mercado financeiro",
-                  "link": "https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 1447,
-                  "nome": "Data Visualization: criação de gráficos com o Matplotlib",
-                  "link": "https://cursos.alura.com.br/course/customizacao-matplot",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3137,
-                  "nome": "Data Visualization: gráficos de composição e relacionamento",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4420,
-                  "nome": "Praticando gráficos: criando gráficos de comparação",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-comparacao",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4422,
-                  "nome": "Praticando gráficos: criando gráficos customizados",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-customizados",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Excel",
-              "cursos": [
-                {
-                  "id": 4003,
-                  "nome": "Dashboards financeiros: da consolidação à visualização estratégica",
-                  "link": "https://cursos.alura.com.br/course/dashboards-financeiros-consolidacao-visualizacao-estrategica",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4009,
-                  "nome": "Data Storytelling: criando narrativas com Excel",
-                  "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4424,
-                  "nome": "Praticando Excel: construindo gráficos",
-                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-graficos",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "R",
-              "cursos": [
-                {
-                  "id": 3819,
-                  "nome": "R para Data Science: aplicando Data Visualization com ggplot2",
-                  "link": "https://cursos.alura.com.br/course/r-data-science-aplicando-data-visualization-ggplot2",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Tableau",
-              "cursos": [
-                {
-                  "id": 2234,
-                  "nome": "Dashboard com Tableau: conceitos essenciais",
-                  "link": "https://cursos.alura.com.br/course/tableau-conceitos-essenciais",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Google Sheets",
-              "cursos": [
-                {
-                  "id": 2327,
-                  "nome": "Data Visualization: técnicas de visualização com Google Sheets",
-                  "link": "https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Qlik Sense",
-              "cursos": [
-                {
-                  "id": 2363,
-                  "nome": "Qlik Sense: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-conhecendo-ferramenta",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2365,
-                  "nome": "Qlik Sense: analisando dados",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-analisando-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2413,
-                  "nome": "Qlik Sense: histórias e gráficos",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-historias-graficos",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Oracle Analytics",
-              "cursos": [
-                {
-                  "id": 2387,
-                  "nome": "Oracle Analytics: visualizando dados",
-                  "link": "https://cursos.alura.com.br/course/oracle-analytics-visualizando-dados",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "MicroStrategy",
-              "cursos": [
-                {
-                  "id": 2544,
-                  "nome": "MicroStrategy Workstation: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-ferramenta",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2569,
-                  "nome": "MicroStrategy Workstation: elaborando uma apresentação",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-elaborando-apresentacao",
-                  "status": "ATIVO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "nome": "Uso de Tecnologias Emergentes na Análise de Dados",
-          "descricao": "Explora o uso e a integração de tecnologias emergentes, com destaque para ferramentas de Inteligência Artificial aplicadas à análise de dados. Apresenta formas práticas de utilizar assistentes de IA generativa no apoio à exploração de dados, interpretação de resultados, automação de análises e geração de relatórios. O objetivo é ampliar a capacidade analítica com criatividade e uso estratégico dessas ferramentas.",
-          "projetos": [
-            "Análise assistida por IA com dados públicos"
-          ],
-          "hard_skills": [
-            "Integração de ferramentas de IA em fluxos analíticos",
-            "Uso de modelos generativos para apoio em análise de dados",
-            "Aplicação de Python com suporte de assistentes inteligentes"
-          ],
-          "soft_skills": [
-            "Criatividade para explorar novas possibilidades com IA",
-            "Resolução de problemas com apoio tecnológico",
-            "Abertura à experimentação e aprendizagem contínua"
-          ],
-          "ferramentas_principais": [
-            "OpenAI",
-            "Gemini",
-            "Grok",
-            "Copilot",
-            "Deepseek",
-            "Python",
-            "Power BI",
-            "Excel"
-          ],
-          "cursos": [
-            {
-              "stack": "Análise de Dados",
-              "cursos": [
-                {
-                  "id": 3370,
-                  "nome": "Identificando vieses e armadilhas em análises",
-                  "link": "https://cursos.alura.com.br/course/identificando-vieses-armadilhas-analises",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Power Automate",
-              "cursos": [
-                {
-                  "id": 4155,
-                  "nome": "Power Automate: solucionando problemas do RH com automação de tarefas",
-                  "link": "https://cursos.alura.com.br/course/power-automate-solucionando-problemas-rh-automacao-tarefas",
-                  "status": "ATIVO"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nivel": "Iniciante",
-      "subnivel": "Nível II",
-      "objetivos_gerais": [
-        "Aprofundar o uso de SQL para consultas mais complexas.",
-        "Introduzir conceitos de programação em Python e R.",
-        "Desenvolver projetos práticos de análise de dados com ferramentas modernas."
-      ],
-      "blocos_tematicos": [
-        {
-          "nome": "Introdução à Programação para Análise de Dados (Python ou R)",
-          "descricao": "Apresenta os fundamentos da programação voltados à análise de dados, permitindo ao aluno escolher entre Python ou R como linguagem principal. Cobre tipos de dados primitivos, estruturas de controle (condicionais e loops), e operações básicas de manipulação de dados. Também aborda a leitura de arquivos CSV, seleção de colunas, filtros e transformações simples utilizando bibliotecas como pandas (Python) ou dplyr/tidyverse (R).",
-          "projetos": [
-            "Leitura e análise de arquivos CSV com Python.",
-            "Limpeza de dados e geração de gráficos em R."
-          ],
-          "hard_skills": [
-            "Programação básica com foco em dados (Python ou R)",
-            "Leitura e manipulação de arquivos CSV",
-            "Data wrangling com bibliotecas específicas (pandas ou dplyr)"
-          ],
-          "soft_skills": [
-            "Curiosidade para explorar diferentes abordagens com linguagens de programação",
-            "Aprendizado contínuo no uso de ferramentas de análise",
-            "Autonomia na resolução de problemas com apoio de código"
-          ],
-          "ferramentas_principais": [
-            "Python",
-            "R",
-            "Google Colab",
-            "VS Code",
-            "Git",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "Python",
-              "cursos": [
-                {
-                  "id": 1109,
-                  "nome": "Data Science: analise e visualização de dados",
-                  "link": "https://cursos.alura.com.br/course/data-science-primeiros-passos",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2924,
-                  "nome": "NumPy: análise numérica eficiente com Python",
-                  "link": "https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2925,
-                  "nome": "Pandas: conhecendo a biblioteca",
-                  "link": "https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2926,
-                  "nome": "Pandas I/O: trabalhando com diferentes formatos de arquivos",
-                  "link": "https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2927,
-                  "nome": "Pandas: selecionando e agrupando dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4418,
-                  "nome": "Praticando Pandas: realizando operações",
-                  "link": "https://cursos.alura.com.br/course/praticando-python-realizando-operacoes",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4474,
-                  "nome": "Praticando Pandas: criando tabulações com pivot_table",
-                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-pivot-table",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3058,
-                  "nome": "Python: análise de dados com SQL",
-                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "R",
-              "cursos": [
-                {
-                  "id": 3683,
-                  "nome": "R para Data Science: conhecendo a linguagem",
-                  "link": "https://cursos.alura.com.br/course/r-data-science-conhecendo-linguagem",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3684,
-                  "nome": "R: utilizando e manipulando estruturas para análises de dados",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-manipulando-estruturas-analises-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3816,
-                  "nome": "R: utilizando o Tidyverse para diferentes formatos de dados",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-diferentes-formatos-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3817,
-                  "nome": "R: utilizando o Tidyverse e transformando dados com dplyr",
-                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-transformando-dados-dplyr",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 1764,
-                  "nome": "Programação em R: desenvolva dashboards online com Shiny",
-                  "link": "https://cursos.alura.com.br/course/programacao-r-dashboard-online-shiny",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Power BI",
-              "cursos": [
-                {
-                  "id": 2672,
-                  "nome": "Power BI: mergulhando na linguagem M",
-                  "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
-                  "status": "ATIVO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "nome": "Análise Descritiva e Diagnóstica",
-          "descricao": "Apresenta técnicas de estatística descritiva e diagnóstica aplicadas à análise de dados, com o objetivo de entender padrões e possíveis causas por trás de fenômenos observados. O foco está na exploração de métricas como médias, proporções, variações e na comparação entre grupos ou períodos. Aborda também o uso de visualizações, tabelas dinâmicas e segmentações como apoio à interpretação diagnóstica.",
-          "projetos": [
-            "Análise de churn de clientes com Python e SQL.",
-            "Identificação de padrões de vendas sazonais em planilhas e dashboards."
-          ],
-          "hard_skills": [
-            "Estatística descritiva aplicada à análise de dados",
-            "Análise diagnóstica com segmentações e comparação de grupos",
-            "Uso de SQL, Python e dashboards para investigar padrões e causas"
-          ],
-          "soft_skills": [
-            "Pensamento crítico voltado à identificação de causas e padrões",
-            "Visão de negócio para interpretar indicadores no contexto estratégico",
-            "Capacidade de sintetizar achados e apresentar hipóteses baseadas em dados"
-          ],
-          "ferramentas_principais": [
-            "Python",
-            "Excel",
-            "Power BI",
-            "SQL",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "R",
-              "cursos": [
-                {
-                  "id": 4194,
-                  "nome": "Estatística com R: resumindo e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/estatistica-r-resumindo-analisando-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 3818,
-                  "nome": "R: aplicando a análise descritiva com R",
-                  "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Python",
-              "cursos": [
-                {
-                  "id": 4217,
-                  "nome": "Estatística com Python: resumindo e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/estatistica-python-resumindo-analisando-dados",
-                  "status": "REGRAVAÇÃO"
-                },
-                {
-                  "id": 1703,
-                  "nome": "Data Science: análises para saúde e medicina",
-                  "link": "https://cursos.alura.com.br/course/data-science-saude-e-medicina",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4475,
-                  "nome": "Praticando gráficos: distribuição com Seaborn",
-                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-distribuicao",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Power BI",
-              "cursos": [
-                {
-                  "id": 4588,
-                  "nome": "Praticando Power BI: criando métricas com DAX",
-                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-metricas-dax",
-                  "status": "ATIVO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "nome": "Limpeza e Transformação de Dados (Python ou R)",
-          "descricao": "Foca nas principais técnicas de data wrangling aplicadas com Python (usando pandas) ou R (com dplyr). Ensina a identificar e tratar valores ausentes, corrigir tipos de dados (como conversão de strings em datas), remover outliers simples, padronizar categorias e rótulos, criar colunas derivadas e unir diferentes conjuntos de dados. O objetivo é preparar os dados para análises mais avançadas e garantir consistência e qualidade nas bases utilizadas.",
-          "projetos": [
-            "Limpando dados de pesquisa",
-            "Limpeza e análise inicial de dados",
-            "Mesclando e enriquecendo conjuntos de dados"
-          ],
-          "hard_skills": [
-            "Tratamento de dados faltantes e normalização de variáveis",
-            "Correção de tipos de dados e padronização de categorias",
-            "Fusão de datasets com merge/join programático",
-            "Criação de colunas derivadas para análises específicas"
-          ],
-          "soft_skills": [
-            "Curiosidade para entender a estrutura e qualidade dos dados",
-            "Aprendizado contínuo no uso de bibliotecas e boas práticas de wrangling",
-            "Autonomia na preparação de dados para diferentes contextos analíticos"
-          ],
-          "ferramentas_principais": [
-            "Python",
-            "R",
-            "Google Colab",
-            "Git",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "Pandas",
-              "cursos": [
-                {
-                  "id": 2929,
-                  "nome": "Pandas: limpeza e tratamento de dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 2928,
-                  "nome": "Pandas: transformação e manipulação de dados",
-                  "link": "https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4419,
-                  "nome": "Praticando Pandas: trabalhando com dados nulos",
-                  "link": "https://cursos.alura.com.br/course/python-trabalhando-dados-nulos",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4416,
-                  "nome": "Praticando Pandas: normalizando arquivos JSON",
-                  "link": "https://cursos.alura.com.br/course/python-normalizando-arquivos-json",
-                  "status": "ATIVO"
-                },
-                {
-                  "id": 4417,
-                  "nome": "Praticando Pandas: criando tabulações com groupby",
-                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-groupby",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "Qlik Sense",
-              "cursos": [
-                {
-                  "id": 2364,
-                  "nome": "Qlik Sense: manipulando dados",
-                  "link": "https://cursos.alura.com.br/course/qlik-sense-manipulando-dados",
-                  "status": "ATIVO"
-                }
-              ]
-            },
-            {
-              "stack": "MicroStrategy",
-              "cursos": [
-                {
-                  "id": 2568,
-                  "nome": "MicroStrategy Workstation: transformações e métricas",
-                  "link": "https://cursos.alura.com.br/course/microstrategy-workstation-transformacoes-metricas",
                   "status": "ATIVO"
                 }
               ]
@@ -3534,6 +3734,24 @@
     }
   ],
   "cursos_fora_da_trilha": [
+                {
+                  "id": 3293,
+                  "nome": "Introdução à SQL",
+                  "link": "https://cursos.alura.com.br/course/introducao-sql",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3585,
+                  "nome": "Excel Para Além das Fórmulas",
+                  "link": "https://cursos.alura.com.br/course/excel-alem-formulas",
+                  "status": "ATIVO"
+                },
+                {
+                  "id": 3206,
+                  "nome": "Como coletar e manipular dados corretamente",
+                  "link": "https://cursos.alura.com.br/course/modulo-5-coletar-manipular-dados-corretamente",
+                  "status": "ATIVO"
+                },
     {
       "id": "1037",
       "nome": "Deep Learning parte 2: como a rede aprende",
