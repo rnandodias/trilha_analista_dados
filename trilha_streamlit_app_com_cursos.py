@@ -69,7 +69,25 @@ with open("step_05_ementa_atualizada__Rodrigo_status.json", "r", encoding="utf-8
 
 # Exibição
 for etapa in trilha["ementa"]:
-    st.header(f"{etapa['nivel']} - {etapa['subnivel']}")
+    if etapa['nivel'] == "Nivelamento":
+        subnivel = ""
+    else:
+        subnivel = f" - {etapa['subnivel']}"
+
+    if etapa['nivel'] == "Nivelamento":
+        icone = "🟢"
+        cores = "green"
+    if etapa['nivel'] == "Iniciante":
+        icone = "🟡"
+        cores = "orange"
+    if etapa['nivel'] == "Intermediário":
+        icone = "🔵"
+        cores = "blue"
+    if etapa['nivel'] == "Avançado":
+        icone = "🟣"
+        cores = "violet"
+        
+    st.header(f":{cores}[{icone} {etapa['nivel']}{subnivel}]", divider=cores)
     for bloco in etapa["blocos_tematicos"]:
         with st.expander(f"## 📦 {bloco['nome']}"):
             st.markdown("##### 📝 Descrição")
