@@ -60,42 +60,6 @@
           ]
         },
         {
-          "nome": "SQL Básico para Análise de Dados",
-          "descricao": "Introduz os fundamentos do SQL, destacando sua importância na análise de dados e seu uso em bancos relacionais. Aborda os principais comandos para consulta, filtragem e ordenação de dados, além da criação de estruturas simples em bancos como SQLite. O objetivo é capacitar o aluno a interagir com bases relacionais para extrair informações relevantes de forma estruturada.",
-          "projetos": [
-            "Extração de Informações com SQL em Banco SQLite",
-            "Criação de Banco de Dados Relacional Simples"
-          ],
-          "hard_skills": [
-            "Sintaxe básica de SQL (SELECT, WHERE, ORDER BY, LIMIT)",
-            "Criação e manipulação de tabelas em bancos relacionais",
-            "Leitura e interpretação de esquemas de banco de dados"
-          ],
-          "soft_skills": [
-            "Pensamento lógico aplicado a estrutura de dados relacionais",
-            "Resolução de problemas com consultas orientadas a objetivos",
-            "Autonomia para testar hipóteses por meio de SQL"
-          ],
-          "ferramentas_principais": [
-            "SQLite",
-            "SQL Online",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "SQLite",
-              "cursos": [
-                {
-                  "id": 2953,
-                  "nome": "SQLite online: conhecendo instruções SQL",
-                  "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql",
-                  "status": "CARREIRA"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "nome": "Fundamentos Matemáticos e Estatísticos Básicos",
           "descricao": "Revisa os conceitos essenciais de matemática aplicada à análise de dados, como porcentagens, médias, medianas e distribuições. Introduz fundamentos de estatística descritiva, medidas de dispersão e noções iniciais de probabilidade. O objetivo é garantir uma base sólida para a interpretação de dados e compreensão de gráficos e resumos numéricos, usando planilhas ou linguagens como Python e R.",
           "projetos": [
@@ -128,6 +92,42 @@
                   "nome": "Estatística com Python: frequências e medidas",
                   "link": "https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas",
                   "status": "REGRAVAÇÃO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "SQL Básico para Análise de Dados",
+          "descricao": "Introduz os fundamentos do SQL, destacando sua importância na análise de dados e seu uso em bancos relacionais. Aborda os principais comandos para consulta, filtragem e ordenação de dados, além da criação de estruturas simples em bancos como SQLite. O objetivo é capacitar o aluno a interagir com bases relacionais para extrair informações relevantes de forma estruturada.",
+          "projetos": [
+            "Extração de Informações com SQL em Banco SQLite",
+            "Criação de Banco de Dados Relacional Simples"
+          ],
+          "hard_skills": [
+            "Sintaxe básica de SQL (SELECT, WHERE, ORDER BY, LIMIT)",
+            "Criação e manipulação de tabelas em bancos relacionais",
+            "Leitura e interpretação de esquemas de banco de dados"
+          ],
+          "soft_skills": [
+            "Pensamento lógico aplicado a estrutura de dados relacionais",
+            "Resolução de problemas com consultas orientadas a objetivos",
+            "Autonomia para testar hipóteses por meio de SQL"
+          ],
+          "ferramentas_principais": [
+            "SQLite",
+            "SQL Online",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "SQLite",
+              "cursos": [
+                {
+                  "id": 2953,
+                  "nome": "SQLite online: conhecendo instruções SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql",
+                  "status": "CARREIRA"
                 }
               ]
             }
@@ -745,6 +745,72 @@
           ]
         },
         {
+          "nome": "Trabalhando com MySQL para Análise de Dados",
+          "descricao": "Introduz o conceito de banco de dados relacional e linguagem SQL. Cobre criação de consultas simples: SELECT, filtros (WHERE), ordenação (ORDER BY), limites (LIMIT), e agregações básicas (GROUP BY com funções SUM, AVG, COUNT). Também apresenta conceitos de chave primária/estrangeira e, de forma introdutória, junção de tabelas (JOIN) para combinar dados de duas tabelas simples.",
+          "projetos": [
+            "Consultas simples em base de funcionários",
+            "Relatórios simples com SQL em banco MySQL"
+          ],
+          "hard_skills": [
+            "Consultas SQL básicas (SELECT, WHERE, ORDER BY, LIMIT)",
+            "Uso de agregações com GROUP BY (SUM, COUNT, AVG)",
+            "Compreensão de chaves primárias e estrangeiras",
+            "Junção de tabelas simples com JOIN"
+          ],
+          "soft_skills": [
+            "Pensamento crítico para formular consultas relevantes",
+            "Autonomia na navegação e exploração de bancos relacionais",
+            "Capacidade de transformar perguntas em instruções de extração de dados"
+          ],
+          "ferramentas_principais": [
+            "MySQL",
+            "PostgreSQL",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "MySQL",
+              "cursos": [
+                {
+                  "id": 3679,
+                  "nome": "MySQL: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/mysql-conhecendo-ferramenta",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3680,
+                  "nome": "MySQL: executando Procedures",
+                  "link": "https://cursos.alura.com.br/course/banco-dados-mysql-executando-procedures",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3681,
+                  "nome": "MySQL: trabalhando com funções",
+                  "link": "https://cursos.alura.com.br/course/mysql-trabalhando-funcoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3682,
+                  "nome": "MySQL: aplicado para análise de dados",
+                  "link": "https://cursos.alura.com.br/course/mysql-aplicado-analise-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3058,
+                  "nome": "Python: análise de dados com SQL",
+                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "nome": "Dominando Visualização de Dados e Dashboards com Power BI",
           "descricao": "Apresenta os princípios fundamentais de design para visualização eficaz de dados, incluindo escolha adequada de gráficos, uso consciente de cores e clareza na comunicação visual. Introduz ferramentas de Business Intelligence com foco principal em Microsoft Power BI, e também menciona Tableau e Google Data Studio como alternativas. Ensina a importar dados, criar visualizações interativas e montar um dashboard simples. Também aborda a criação de medidas básicas (soma, média) dentro das ferramentas e noções de compartilhamento de relatórios online.",
           "projetos": [
@@ -818,7 +884,7 @@
           ]
         },
         {
-          "nome": "Utilizando Técincas Estatísticas para Descrever os Dados",
+          "nome": "Utilizando Técnicas Estatísticas para Descrever os Dados",
           "descricao": "Apresenta técnicas de estatística descritiva e diagnóstica aplicadas à análise de dados, com o objetivo de entender padrões e possíveis causas por trás de fenômenos observados. O foco está na exploração de métricas como médias, proporções, variações e na comparação entre grupos ou períodos. Aborda também o uso de visualizações, tabelas dinâmicas e segmentações como apoio à interpretação diagnóstica.",
           "projetos": [
             "Análise de churn de clientes com Python e SQL.",
@@ -882,72 +948,6 @@
                   "id": 3818,
                   "nome": "R: aplicando a análise descritiva com R",
                   "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r",
-                  "status": "COMPLEMENTO"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "nome": "Trabalhando com MySQL para Análise de Dados",
-          "descricao": "Introduz o conceito de banco de dados relacional e linguagem SQL. Cobre criação de consultas simples: SELECT, filtros (WHERE), ordenação (ORDER BY), limites (LIMIT), e agregações básicas (GROUP BY com funções SUM, AVG, COUNT). Também apresenta conceitos de chave primária/estrangeira e, de forma introdutória, junção de tabelas (JOIN) para combinar dados de duas tabelas simples.",
-          "projetos": [
-            "Consultas simples em base de funcionários",
-            "Relatórios simples com SQL em banco MySQL"
-          ],
-          "hard_skills": [
-            "Consultas SQL básicas (SELECT, WHERE, ORDER BY, LIMIT)",
-            "Uso de agregações com GROUP BY (SUM, COUNT, AVG)",
-            "Compreensão de chaves primárias e estrangeiras",
-            "Junção de tabelas simples com JOIN"
-          ],
-          "soft_skills": [
-            "Pensamento crítico para formular consultas relevantes",
-            "Autonomia na navegação e exploração de bancos relacionais",
-            "Capacidade de transformar perguntas em instruções de extração de dados"
-          ],
-          "ferramentas_principais": [
-            "MySQL",
-            "PostgreSQL",
-            "Ferramentas de IA"
-          ],
-          "cursos": [
-            {
-              "stack": "MySQL",
-              "cursos": [
-                {
-                  "id": 3679,
-                  "nome": "MySQL: conhecendo a ferramenta",
-                  "link": "https://cursos.alura.com.br/course/mysql-conhecendo-ferramenta",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3680,
-                  "nome": "MySQL: executando Procedures",
-                  "link": "https://cursos.alura.com.br/course/banco-dados-mysql-executando-procedures",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3681,
-                  "nome": "MySQL: trabalhando com funções",
-                  "link": "https://cursos.alura.com.br/course/mysql-trabalhando-funcoes",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3682,
-                  "nome": "MySQL: aplicado para análise de dados",
-                  "link": "https://cursos.alura.com.br/course/mysql-aplicado-analise-dados",
-                  "status": "CARREIRA"
-                }
-              ]
-            },
-            {
-              "stack": "Python",
-              "cursos": [
-                {
-                  "id": 3058,
-                  "nome": "Python: análise de dados com SQL",
-                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
                   "status": "COMPLEMENTO"
                 }
               ]
@@ -1367,7 +1367,8 @@
                 {
                   "id": 3054,
                   "nome": "Streamlit: construindo um dashboard interativo",
-                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo"
+                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo",
+                  "status": "CARREIRA"
                 }
               ]
             }
@@ -1740,7 +1741,7 @@
           ]
         },
         {
-          "nome": "Business Intelligence com Goolge Looker Studio",
+          "nome": "Business Intelligence com Google Looker Studio",
           "descricao": "Aprofunda o uso de ferramentas de BI e técnicas de visualização. Cobre a modelagem de dados dentro de ferramentas de BI (relacionamento entre tabelas, criação de modelos estrela simples para relatórios). Ensina a criar medidas e cálculos avançados (como métricas de comparação temporal: crescimento ano a ano, médias móveis) usando linguagens como DAX no Power BI ou cálculos equivalentes no Tableau. Explora visualizações avançadas (mapas geográficos, gráfico de dispersão com múltiplas medidas) e customização de dashboards para diferentes audiências. Também aborda práticas de publicação e atualização de dashboards online de forma profissional (configuração de atualização de dados, gerenciamento de acessos). Criação de dashboards interativos e narrativas visuais impactantes para tomada de decisão.",
           "projetos": [
             "Dashboard executivo para diretoria",

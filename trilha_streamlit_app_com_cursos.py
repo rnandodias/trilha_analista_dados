@@ -64,7 +64,7 @@ h6 {
 """, unsafe_allow_html=True)
 
 # JSON da trilha
-with open("step_05_ementa_atualizada__Rodrigo_status.json", "r", encoding="utf-8") as f:
+with open("trilha_analista_de_dados_v3.json", "r", encoding="utf-8") as f:
     trilha = json.load(f)
 
 # Exibição
@@ -128,13 +128,15 @@ for etapa in trilha["ementa"]:
                             elif status == "CARREIRA":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: green; color: white; border-radius: 4px; font-size: 10px;'>CARREIRA</div>"
                             elif status == "COMPLEMENTO":
-                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: orange; color: white; border-radius: 4px; font-size: 10px;'>COMPLEMENTO</div>"
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: orange; color: black; border-radius: 4px; font-size: 10px;'>COMPLEMENTO</div>"
                             elif status == "ATIVO":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: blue; color: white; border-radius: 4px; font-size: 10px;'>ATIVO</div>"
+                            elif status == "SUGESTÃO":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: yellow; color: black; border-radius: 4px; font-size: 10px;'>NOVIDADE</div>"
 
                             if link:
                                 slug = link.rstrip("/").split("/")[-1]
-                                if status == "NOVIDADE":
+                                if status == "NOVIDADE" or status == "SUGESTÃO":
                                     img_url = f"https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg"
                                 else:
                                     img_url = f"https://www.alura.com.br/assets/api/cursos/{slug}.svg"
