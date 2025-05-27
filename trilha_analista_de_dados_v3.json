@@ -2676,7 +2676,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "nome": "",
+                  "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
                   "status": "SUGESTÃO",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Para garantir que os analistas de dados possam criar apresentações que não apenas informem, mas também inspirem ação, é essencial dominar técnicas avançadas de storytelling com dados.",
