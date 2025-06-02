@@ -1,0 +1,2916 @@
+{
+  "definicao": "O Analista de Dados (Data Analyst) formado por esta trilha será um profissional completo, apto a extrair, manipular, analisar e comunicar informações relevantes a partir de grandes volumes de dados estruturados e não estruturados. Será capaz de utilizar ferramentas modernas de análise, bancos de dados relacionais e não relacionais, linguagens de programação, técnicas de visualização e storytelling, além de compreender o contexto de negócio para gerar insights estratégicos. Desenvolverá tanto hard skills técnicas quanto soft skills essenciais para atuar de forma colaborativa, crítica e inovadora em equipes multidisciplinares, adaptando-se a diferentes desafios do mercado de trabalho orientado a dados.",
+  "ementa": [
+    {
+      "nivel": "Nivelamento",
+      "subnivel": "Nível I",
+      "objetivos_gerais": [
+        "Entender conceitos fundamentais sobre dados e análise",
+        "Familiarizar-se com as principais ferramentas e linguagens de programação utilizadas na área.",
+        "Desenvolver habilidades básicas em manipulação e análise de dados.",
+        "Compreender conceitos fundamentais de matemática, estatística básica e lógica necessários para análise de dados."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Introdução à Programação",
+          "descricao": "Este bloco introduz os fundamentos da programação utilizando Python, com foco em sua aplicação na ciência de dados. Os alunos aprenderão sobre lógica de programação, estruturas de controle, funções, manipulação de dados com listas, tuplas e dicionários, além do tratamento de exceções. O objetivo é capacitar o aluno a manipular dados e automatizar tarefas, preparando-o para análises mais complexas.",
+          "projetos": [
+            "Análise Básica de Dados com Python",
+            "Manipulação Avançada de Estruturas de Dados"
+          ],
+          "hard_skills": [
+            "Fundamentos de programação com Python",
+            "Manipulação de dados com listas, tuplas e dicionários",
+            "Criação e uso de funções, incluindo lambda",
+            "Tratamento de exceções em Python",
+            "Uso de list comprehension e dict comprehension"
+          ],
+          "soft_skills": [
+            "Resolução de problemas com abordagens lógicas",
+            "Pensamento crítico e analítico",
+            "Atenção aos detalhes",
+            "Autonomia para buscar soluções usando documentação e IA"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Google Colab",
+            "VS Code",
+            "Bibliotecas Python (Matplotlib, random)"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 2922,
+                  "nome": "Python para Data Science: primeiros passos",
+                  "link": "https://cursos.alura.com.br/course/python-data-science-primeiros-passos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2923,
+                  "nome": "Python para Data Science: trabalhando com funções, estruturas de dados e exceções",
+                  "link": "https://cursos.alura.com.br/course/python-data-science-funcoes-estruturas-dados-excecoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4415,
+                  "nome": "Praticando Python: estruturas de dados",
+                  "link": "https://cursos.alura.com.br/course/praticando-python-estruturas-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Fundamentos Matemáticos e Estatísticos Básicos",
+          "descricao": "Este bloco oferece uma introdução aos conceitos fundamentais de matemática e estatística aplicados à análise de dados. Os alunos explorarão tópicos como médias, medianas, distribuições, estatísticas descritivas e probabilidade básica. O objetivo é estabelecer uma base sólida para interpretar dados e compreender gráficos e resumos numéricos, utilizando ferramentas como Excel, Python ou R.",
+          "projetos": [
+            "Análise Descritiva Simples em Planilha"
+          ],
+          "hard_skills": [
+            "Cálculo de medidas de tendência central e dispersão",
+            "Interpretação de gráficos estatísticos simples",
+            "Compreensão básica de probabilidade e distribuições de dados",
+            "Aplicação de técnicas de análise estatística descritiva em Excel, Python ou R"
+          ],
+          "soft_skills": [
+            "Pensamento analítico para interpretação de dados",
+            "Raciocínio lógico aplicado a problemas numéricos",
+            "Comunicação precisa de resultados quantitativos"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Google Sheets",
+            "Python",
+            "R",
+            "Google Colab"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 1177,
+                  "nome": "Estatística com Python: frequências e medidas",
+                  "link": "https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas",
+                  "status": "REGRAVAÇÃO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "SQL Básico para Análise de Dados",
+          "descricao": "Este bloco temático oferece uma introdução ao SQL, essencial para a análise de dados em bancos relacionais. O foco é capacitar os alunos a executar comandos fundamentais para consultar, filtrar, ordenar e estruturar dados em bancos como o SQLite. O objetivo é desenvolver habilidades práticas para extrair insights de bases de dados, utilizando uma linguagem poderosa e amplamente aplicada no mercado.",
+          "projetos": [
+            "Extração de Informações com SQL em Banco SQLite",
+            "Criação de Banco de Dados Relacional Simples"
+          ],
+          "hard_skills": [
+            "Execução de consultas SQL básicas (SELECT, WHERE, ORDER BY, LIMIT)",
+            "Manipulação e criação de tabelas em bancos relacionais",
+            "Utilização de operadores lógicos e matemáticos em consultas"
+          ],
+          "soft_skills": [
+            "Pensamento analítico para resolver problemas de dados",
+            "Atenção aos detalhes na elaboração de consultas",
+            "Capacidade de organização e planejamento para estruturar dados"
+          ],
+          "ferramentas_principais": [
+            "SQLite Online",
+            "SQL",
+            "Ferramentas de navegação para gerenciamento de dados"
+          ],
+          "cursos": [
+            {
+              "stack": "SQLite",
+              "cursos": [
+                {
+                  "id": 2953,
+                  "nome": "SQLite online: conhecendo instruções SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Introdução à Computação em Nuvem para Análise de Dados",
+          "descricao": "Este bloco oferece uma introdução abrangente aos conceitos fundamentais de computação em nuvem, com foco na análise de dados. Os alunos aprenderão sobre os principais modelos de serviço em nuvem (IaaS, PaaS, SaaS) e explorarão os serviços essenciais das plataformas AWS, Azure e Google Cloud. O objetivo é capacitar os alunos a entenderem como dados são armazenados, acessados e processados em ambientes de nuvem, preparando-os para a coleta e uso inicial de dados em projetos analíticos.",
+          "projetos": [
+            "Exploração das principais plataformas de nuvem",
+            "Coleta de dados a partir de um serviço cloud"
+          ],
+          "hard_skills": [
+            "Compreensão dos modelos de serviço em nuvem (IaaS, PaaS, SaaS)",
+            "Familiaridade com navegação e uso básico de plataformas cloud",
+            "Coleta de dados de serviços e fontes hospedadas em nuvem"
+          ],
+          "soft_skills": [
+            "Curiosidade técnica sobre infraestrutura e serviços de dados",
+            "Iniciativa para explorar tecnologias modernas e documentações oficiais",
+            "Capacidade de buscar soluções e identificar recursos em plataformas complexas"
+          ],
+          "ferramentas_principais": [
+            "AWS",
+            "Azure",
+            "Google Cloud"
+          ],
+          "cursos": [
+            {
+              "stack": "Computação em Nuvem",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Computação em Nuvem: Conhecendo os fundamentos básicos",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Iniciante",
+      "subnivel": "Nível I",
+      "objetivos_gerais": [
+        "Aprender a manipular dados em planilhas e bancos de dados relacionais.",
+        "Entender conceitos básicos de SQL e visualização de dados.",
+        "Desenvolver habilidades iniciais de comunicação de resultados."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Primeiros Passos na Carreira de Analista de Dados",
+          "descricao": "Este bloco é projetado para introduzir os alunos aos conceitos fundamentais da análise de dados. Com um foco em desenvolver habilidades para interpretar tabelas, gráficos e resumos estatísticos, os alunos aprenderão a explorar, organizar e extrair insights acionáveis de dados reais. O objetivo é fomentar a curiosidade e o pensamento analítico, utilizando ferramentas amplamente empregadas no mercado.",
+          "projetos": [
+            "Exploração de Bases de Dados Públicas",
+            "Análise Exploratória Básica com Excel",
+            "Leitura e interpretação de tabelas e gráficos",
+            "Análise exploratória com geração de hipóteses"
+          ],
+          "hard_skills": [
+            "Identificação de tipos de dados e estrutura básica de tabelas",
+            "Leitura e interpretação de gráficos e tabelas estatísticas",
+            "Aplicação de operações simples de análise com Excel",
+            "Identificação de padrões e tendências em dados reais",
+            "Formulação de hipóteses com base em dados quantitativos"
+          ],
+          "soft_skills": [
+            "Curiosidade para explorar dados de diferentes origens",
+            "Aprendizado contínuo e interesse por novas ferramentas",
+            "Pensamento analítico orientado à resolução de problemas",
+            "Pensamento crítico aplicado à validação de hipóteses"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "GitHub",
+            "Google Drive",
+            "Notion",
+            "Ferramentas de IA"
+          ],
+          "cursos": [
+            {
+              "stack": "Análise de Dados",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Trabalhando com Dados: Fundamentos da Análise de Dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                },
+                {
+                  "id": 0,
+                  "nome": "Metodologias Ágeis: Trabalhando com Metodologias Ágeis em Projetos de Dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                },
+                {
+                  "id": 0,
+                  "nome": "Portfólio em Dados: Primeiros Passos e Documentação de Projetos",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Manipulação de Dados em Planilhas",
+          "descricao": "Ensina o uso avançado de planilhas como Excel para manipular, analisar e visualizar dados de forma eficiente. O conteúdo abrange fórmulas complexas, funções de busca, tabelas dinâmicas, gráficos personalizáveis e automação de tarefas, além de técnicas para garantir a integridade dos dados.",
+          "projetos": [
+            "Análise de vendas com tabelas e gráficos dinâmicos",
+            "Automatização de relatórios de vendas com macros",
+            "Criação de dashboards interativos no Excel"
+          ],
+          "hard_skills": [
+            "Uso avançado de fórmulas e funções de busca no Excel",
+            "Criação e manipulação de tabelas e gráficos dinâmicos",
+            "Automatização de tarefas com macros e VBA",
+            "Aplicação de técnicas de validação de dados"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos com ferramentas de planilhas",
+            "Pensamento analítico e crítico na interpretação de dados",
+            "Atenção aos detalhes e precisão na manipulação de dados",
+            "Colaboração e comunicação visual de informações"
+          ],
+          "ferramentas_principais": [
+            "Microsoft Excel",
+            "VBA (Visual Basic for Applications)",
+            "Power Query"
+          ],
+          "cursos": [
+            {
+              "stack": "Microsoft Excel",
+              "cursos": [
+                {
+                  "id": 3195,
+                  "nome": "Excel: domine o editor de planilhas",
+                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3196,
+                  "nome": "Funções com Excel: operações matemáticas e filtros",
+                  "link": "https://cursos.alura.com.br/course/funcoes-excel-operacoes-matematicas-filtros",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3197,
+                  "nome": "Recursos Visuais com Excel: explorando gráficos e formatos",
+                  "link": "https://cursos.alura.com.br/course/recursos-visuais-excel-graficos-formatos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3198,
+                  "nome": "Excel: aprendendo lógica booleana e busca por valores",
+                  "link": "https://cursos.alura.com.br/course/excel-logica-booleana-busca-valores",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3199,
+                  "nome": "Excel: utilizando tabelas dinâmicas e gráficos dinâmicos",
+                  "link": "https://cursos.alura.com.br/course/excel-utilizando-tabelas-dinamicas-graficos-dinamicos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3200,
+                  "nome": "Excel: automatizando tarefas com Macros",
+                  "link": "https://cursos.alura.com.br/course/excel-automatizando-tarefas-macros",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Excel",
+              "cursos": [
+                {
+                  "id": 4423,
+                  "nome": "Praticando Excel: criando tabelas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-criando-tabelas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4424,
+                  "nome": "Praticando Excel: construindo gráficos",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-graficos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4425,
+                  "nome": "Praticando Excel: utilizando fórmulas matemáticas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-utilizando-formulas-matematicas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4426,
+                  "nome": "Praticando Excel: funções condicionais",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-funcoes-condicionais",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4427,
+                  "nome": "Praticando Excel: validação de dados",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-validacao-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4428,
+                  "nome": "Praticando Excel: construindo tabelas dinâmicas",
+                  "link": "https://cursos.alura.com.br/course/praticando-excel-construindo-tabelas-dinamicas",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trabalhando com a Linguagem SQL",
+          "descricao": "Este bloco temático é dedicado ao domínio da linguagem SQL, fundamental para a interação com bancos de dados relacionais. Os alunos aprenderão desde consultas básicas até técnicas avançadas de manipulação e análise de dados, desenvolvendo a capacidade de extrair insights valiosos a partir de grandes volumes de dados.",
+          "projetos": [
+            "Consultas avançadas em bases de dados empresariais",
+            "Relatórios analíticos com SQL em diversos SGBDs",
+            "Desenvolvimento de um sistema de relatórios para análise de vendas"
+          ],
+          "hard_skills": [
+            "Execução de consultas SQL complexas",
+            "Manipulação de dados textuais e numéricos",
+            "Uso avançado de JOINs, subconsultas e transações",
+            "Criação e utilização de views, triggers e funções de agregação",
+            "Análise de dados temporais e aplicação de condições lógicas"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Pensamento analítico e crítico",
+            "Atenção aos detalhes na execução de consultas",
+            "Colaboração em comunidades de prática"
+          ],
+          "ferramentas_principais": [
+            "SQLite",
+            "SQL",
+            "Google Planilhas",
+            "Google Docs",
+            "Sistemas de Gerenciamento de Banco de Dados (SGBD)"
+          ],
+          "cursos": [
+            {
+              "stack": "SQLite",
+              "cursos": [
+                {
+                  "id": 3395,
+                  "nome": "SQLite Online: executando consultas SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3396,
+                  "nome": "Realizando consultas com SQL: Joins, Views e transações",
+                  "link": "https://cursos.alura.com.br/course/realizando-consultas-sql-joins-views-transacoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3457,
+                  "nome": "SQLite online: análise de dados com SQL",
+                  "link": "https://cursos.alura.com.br/course/sqlite-online-analise-dados-sql",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando SQL",
+              "cursos": [
+                {
+                  "id": 4429,
+                  "nome": "Praticando SQL: realizando consultas",
+                  "link": "https://cursos.alura.com.br/course/sql-realizando-consultas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4434,
+                  "nome": "Praticando SQL: utilizando operadores lógicos",
+                  "link": "https://cursos.alura.com.br/course/sql-utilizando-operadores-logicos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4435,
+                  "nome": "Praticando SQL: entendendo funções de string",
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-string",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4436,
+                  "nome": "Praticando SQL: entendendo funções numéricas",
+                  "link": "https://cursos.alura.com.br/course/sql-entendendo-funcoes-numericas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4437,
+                  "nome": "Praticando SQL: trabalhando com funções de Data",
+                  "link": "https://cursos.alura.com.br/course/sql-trabalhando-funcoes-data",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4438,
+                  "nome": "Praticando SQL: funções de agregação",
+                  "link": "https://cursos.alura.com.br/course/sql-funcoes-agregacao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4440,
+                  "nome": "Praticando SQL: combinando dados com JOINs",
+                  "link": "https://cursos.alura.com.br/course/sql-combinando-dados-joins",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Visualização de Dados e Dashboards com Excel e Power BI",
+          "descricao": "Este bloco temático aborda a visualização de dados e a construção de dashboards usando Excel e Power BI. Os alunos aprenderão a importar, transformar e visualizar dados, criando relatórios interativos e estratégicos. Com foco em boas práticas de design, os cursos capacitam os alunos a aplicar técnicas de Data Storytelling, usando ferramentas como Power Query, Power Pivot e DAX para transformar dados em insights acionáveis.",
+          "projetos": [
+            "Dashboard inicial de vendas no Power BI",
+            "Relatório interativo de indicadores de RH",
+            "Dashboard financeiro estratégico no Excel"
+          ],
+          "hard_skills": [
+            "Manipulação e transformação de dados com Power Query",
+            "Criação de visualizações interativas em Power BI e Excel",
+            "Uso de DAX para cálculos avançados",
+            "Design de dashboards estratégicos"
+          ],
+          "soft_skills": [
+            "Habilidade de contar histórias com dados",
+            "Pensamento crítico e analítico",
+            "Comunicação visual eficaz",
+            "Organização e planejamento na criação de dashboards"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Power BI",
+            "Power Query",
+            "DAX",
+            "Power Pivot"
+          ],
+          "cursos": [
+            {
+              "stack": "Excel",
+              "cursos": [
+                {
+                  "id": 4003,
+                  "nome": "Dashboards financeiros: da consolidação à visualização estratégica",
+                  "link": "https://cursos.alura.com.br/course/dashboards-financeiros-consolidacao-visualizacao-estrategica",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4009,
+                  "nome": "Data Storytelling: criando narrativas com Excel",
+                  "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 3775,
+                  "nome": "Power BI Desktop: construindo meu primeiro dashboard",
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3776,
+                  "nome": "Power BI Desktop: realizando ETL no Power Query",
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3777,
+                  "nome": "Power BI: construindo cálculos com Dax",
+                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3778,
+                  "nome": "Power BI: visualizando e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Power BI",
+              "cursos": [
+                {
+                  "id": 4587,
+                  "nome": "Praticando Power BI: transformando dados com Power Query",
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-transformando-dados-power-query",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4588,
+                  "nome": "Praticando Power BI: criando métricas com DAX",
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-metricas-dax",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4589,
+                  "nome": "Praticando Power BI: criando visualizações estratégicas para responder perguntas de negócio",
+                  "link": "https://cursos.alura.com.br/course/praticando-power-bi-criando-visualizacoes-estrategicas-responder-perguntas-negocio",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Iniciante",
+      "subnivel": "Nível II",
+      "objetivos_gerais": [
+        "Aprofundar o uso de SQL para consultas mais complexas.",
+        "Introduzir conceitos de programação em Python e R.",
+        "Desenvolver projetos práticos de análise de dados com ferramentas modernas."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Avançando em Análise de Dados com Planilhas",
+          "descricao": "Este bloco temático foca no aprofundamento do uso de planilhas como Excel e Google Sheets para análise de dados. Os cursos ensinam a criar e organizar bancos de dados, desenvolver dashboards interativos e automatizar tarefas repetitivas usando VBA. Além disso, são exploradas ferramentas avançadas como Power Query e Power Pivot para manipulação e integração de dados de diferentes fontes.",
+          "projetos": [
+            "Criação de um dashboard de vendas utilizando Power Pivot e Power Query",
+            "Automação de tarefas de limpeza de dados com VBA",
+            "Desenvolvimento de um sistema de banco de dados em Excel para análise de indicadores de negócios"
+          ],
+          "hard_skills": [
+            "Modelagem e manipulação de dados com Power Pivot e Power Query",
+            "Automação de tarefas com VBA",
+            "Criação de dashboards interativos no Excel",
+            "Uso de funções avançadas e cálculos DAX"
+          ],
+          "soft_skills": [
+            "Pensamento analítico e resolução de problemas",
+            "Atenção aos detalhes na organização de dados",
+            "Comunicação eficaz para entender e atender às necessidades dos clientes",
+            "Capacidade de adaptação e aprendizado contínuo"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Power Pivot",
+            "Power Query",
+            "VBA",
+            "Microsoft Copilot"
+          ],
+          "cursos": [
+            {
+              "stack": "Microsoft Excel",
+              "cursos": [
+                {
+                  "id": 2908,
+                  "nome": "BI com Excel: criando bancos de dados com planilhas",
+                  "link": "https://cursos.alura.com.br/course/bi-excel-crie-bancos-dados-planilhas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2909,
+                  "nome": "BI com Excel: criando um Dashboard sem complicação",
+                  "link": "https://cursos.alura.com.br/course/bi-excel-criando-dashboard-sem-complicacao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2910,
+                  "nome": "BI com Excel: trabalhando com tabelas dinâmicas com Power Pivot",
+                  "link": "https://cursos.alura.com.br/course/bi-excel-tabelas-dinamicas-power-pivot",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2911,
+                  "nome": "BI com Excel: criando Dashboard com Power Pivot",
+                  "link": "https://cursos.alura.com.br/course/bi-excel-dashboard-power-pivot",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2912,
+                  "nome": "BI com Excel: conhecendo o Power Query",
+                  "link": "https://cursos.alura.com.br/course/bi-excel-power-query",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2913,
+                  "nome": "BI com Excel: dashboard com Power Query",
+                  "link": "https://cursos.alura.com.br/course/excel-dashboards-power-query",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "VBA",
+              "cursos": [
+                {
+                  "id": 3636,
+                  "nome": "VBA: automatizando tarefas diárias sem ser Dev",
+                  "link": "https://cursos.alura.com.br/course/vba-automatizando-tarefas-diarias-sem-ser-dev",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3637,
+                  "nome": "VBA: manipulação e limpeza de dados",
+                  "link": "https://cursos.alura.com.br/course/vba-manipulacao-limpeza-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3690,
+                  "nome": "VBA: fazendo um cadastro personalizado",
+                  "link": "https://cursos.alura.com.br/course/vba-fazendo-cadastro-personalizado",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3691,
+                  "nome": "VBA: automatizando a comparação entre planilhas e dados",
+                  "link": "https://cursos.alura.com.br/course/vba-automatizando-comparacao-planilhas-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3692,
+                  "nome": "VBA : integrando Outlook com IA's",
+                  "link": "https://cursos.alura.com.br/course/vba-integrando-outlook-ias",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3693,
+                  "nome": "VBA: aplicando IA para automação e análise de dados",
+                  "link": "https://cursos.alura.com.br/course/vba-aplicando-ia-automacao-analise-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Introdução à Programação para Análise de Dados",
+          "descricao": "Este bloco apresenta os fundamentos indispensáveis da programação orientada à análise de dados, permitindo aos alunos escolher entre Python ou R como linguagem principal. Com foco em operações essenciais de manipulação de dados, os cursos cobrem desde a leitura de arquivos CSV até transformações complexas e visualizações interativas de dados, utilizando bibliotecas populares como pandas para Python e dplyr/tidyverse para R.",
+          "projetos": [
+            "Análise de dados de aluguéis de imóveis usando pandas.",
+            "Manipulação de datasets de transações comerciais em R.",
+            "Criação de tabelas dinâmicas e visualizações interativas com pandas e Plotly."
+          ],
+          "hard_skills": [
+            "Programação básica com foco em dados (Python ou R)",
+            "Manipulação e transformação de dataframes",
+            "Leitura e escrita de arquivos em múltiplos formatos",
+            "Criação de visualizações de dados interativas"
+          ],
+          "soft_skills": [
+            "Resolução de problemas de dados complexos",
+            "Curiosidade e autonomia na exploração de linguagens de programação",
+            "Análise crítica e comunicação eficaz de resultados"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Pandas",
+            "Plotly",
+            "Google Colab",
+            "VS Code"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 2925,
+                  "nome": "Pandas: conhecendo a biblioteca",
+                  "link": "https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2926,
+                  "nome": "Pandas I/O: trabalhando com diferentes formatos de arquivos",
+                  "link": "https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2927,
+                  "nome": "Pandas: selecionando e agrupando dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Pandas",
+              "cursos": [
+                {
+                  "id": 4418,
+                  "nome": "Praticando Pandas: realizando operações",
+                  "link": "https://cursos.alura.com.br/course/praticando-python-realizando-operacoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4474,
+                  "nome": "Praticando Pandas: criando tabulações com pivot_table",
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-pivot-table",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 3683,
+                  "nome": "R para Data Science: conhecendo a linguagem",
+                  "link": "https://cursos.alura.com.br/course/r-data-science-conhecendo-linguagem",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3684,
+                  "nome": "R: utilizando e manipulando estruturas para análises de dados",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-manipulando-estruturas-analises-dados",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trabalhando com MySQL para Análise de Dados",
+          "descricao": "Este bloco temático é voltado para o desenvolvimento de habilidades avançadas em MySQL, capacitando os alunos a criar, gerenciar e analisar dados de forma eficiente em bancos de dados relacionais. Os cursos cobrem desde a instalação e configuração do MySQL até a execução de consultas complexas, manipulação de procedures e funções, e integração com outras tecnologias para potencializar a análise de dados.",
+          "projetos": [
+            "Consultas avançadas em bases de dados de negócios",
+            "Implementação de procedures e funções para automação de processos",
+            "Desenvolvimento de relatórios estratégicos com MySQL"
+          ],
+          "hard_skills": [
+            "Instalação e configuração do MySQL",
+            "Criação e manipulação de Stored Procedures",
+            "Execução de consultas SQL complexas",
+            "Implementação de funções e triggers",
+            "Análise de dados com MySQL e integração com Python"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Pensamento lógico e analítico",
+            "Atenção aos detalhes",
+            "Comunicação eficaz de resultados de análise"
+          ],
+          "ferramentas_principais": [
+            "MySQL",
+            "MySQL Workbench",
+            "Python",
+            "Power BI",
+            "Google Colab"
+          ],
+          "cursos": [
+            {
+              "stack": "MySQL",
+              "cursos": [
+                {
+                  "id": 3679,
+                  "nome": "MySQL: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/mysql-conhecendo-ferramenta",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3680,
+                  "nome": "MySQL: executando Procedures",
+                  "link": "https://cursos.alura.com.br/course/banco-dados-mysql-executando-procedures",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3681,
+                  "nome": "MySQL: trabalhando com funções",
+                  "link": "https://cursos.alura.com.br/course/mysql-trabalhando-funcoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3682,
+                  "nome": "MySQL: aplicado para análise de dados",
+                  "link": "https://cursos.alura.com.br/course/mysql-aplicado-analise-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3058,
+                  "nome": "Python: análise de dados com SQL",
+                  "link": "https://cursos.alura.com.br/course/python-analise-dados-sql",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dominando Visualização de Dados e Dashboards com Power BI",
+          "descricao": "Este bloco temático capacita os alunos a dominar a criação de visualizações e dashboards interativos usando o Microsoft Power BI. Os cursos cobrem desde a manipulação de dados com a linguagem M e DAX até a criação de visuais customizados, integrando Python para análises financeiras avançadas. Os alunos aprenderão a aplicar boas práticas de design e a comunicar insights de dados de forma clara e eficaz.",
+          "projetos": [
+            "Dashboard inicial de vendas no Power BI",
+            "Relatório interativo de indicadores de RH",
+            "Análise de dados financeiros com Python e Power BI"
+          ],
+          "hard_skills": [
+            "Manipulação de dados com linguagem M e DAX",
+            "Criação de visualizações e dashboards interativos em Power BI",
+            "Modelagem de dados e gerenciamento de relacionamentos",
+            "Integração de Python para análise de dados financeiros"
+          ],
+          "soft_skills": [
+            "Comunicação efetiva de informações por meio de gráficos e painéis",
+            "Resolução de problemas complexos de modelagem e visualização",
+            "Storytelling com dados para públicos técnicos e não técnicos"
+          ],
+          "ferramentas_principais": [
+            "Power BI",
+            "Linguagem M",
+            "DAX",
+            "Python",
+            "Power Query"
+          ],
+          "cursos": [
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 2672,
+                  "nome": "Power BI: mergulhando na linguagem M",
+                  "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2788,
+                  "nome": "Power BI: modelagem de dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2673,
+                  "nome": "Power BI: DAX contextos e iteração",
+                  "link": "https://cursos.alura.com.br/course/power-bi-dax-contextos-iteracao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3139,
+                  "nome": "Power BI: aprofundando na linguagem DAX",
+                  "link": "https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2816,
+                  "nome": "Power BI: aplicando DAX ao negócio",
+                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2952,
+                  "nome": "Power BI: criando visuais customizados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-criando-visuais-customizados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3059,
+                  "nome": "Python e Power BI: analisando dados do mercado financeiro",
+                  "link": "https://cursos.alura.com.br/course/python-power-bi-dados-mercado-financeiro",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Utilizando Técnicas Estatísticas para Descrever os Dados",
+          "descricao": "Este bloco temático abrange técnicas de estatística descritiva e diagnóstico aplicadas à análise de dados, com foco na identificação de padrões e na compreensão de fenômenos observados. Os cursos exploram medidas estatísticas como médias, proporções, variações e a comparação entre grupos ou períodos. A ênfase está no uso de Python e R para manipulação e visualização de dados, permitindo uma análise detalhada e a comunicação eficaz dos achados.",
+          "projetos": [
+            "Análise de churn de clientes usando Python e R.",
+            "Identificação de padrões sazonais de vendas em diferentes plataformas de visualização de dados."
+          ],
+          "hard_skills": [
+            "Manipulação e análise de dados com Python e R",
+            "Aplicação de medidas estatísticas descritivas",
+            "Criação e interpretação de visualizações de dados",
+            "Desenvolvimento de modelos preditivos básicos"
+          ],
+          "soft_skills": [
+            "Pensamento crítico e analítico",
+            "Resolução de problemas baseada em dados",
+            "Comunicação eficaz de resultados de análise",
+            "Atenção aos detalhes na interpretação de dados"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Pandas",
+            "Seaborn",
+            "Matplotlib",
+            "Tidyverse",
+            "Google Colab"
+          ],
+          "cursos": [
+            {
+              "stack": "Excel",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Estatística com Excel e Power BI: Fazendo uma análise descritiva completa",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 4217,
+                  "nome": "Estatística com Python: resumindo e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/estatistica-python-resumindo-analisando-dados",
+                  "status": "REGRAVAÇÃO"
+                },
+                {
+                  "id": 3675,
+                  "nome": "Data Science: explorando e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/data-science-explorando-analisando-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 4194,
+                  "nome": "Estatística com R: resumindo e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-resumindo-analisando-dados",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3818,
+                  "nome": "R: aplicando a análise descritiva com R",
+                  "link": "https://cursos.alura.com.br/course/r-aplicando-analise-descritiva-r",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Iniciante",
+      "subnivel": "Nível III",
+      "objetivos_gerais": [
+        "Consolidar o uso de planilhas, SQL e programação para análise de dados.",
+        "Realizar análises descritivas e diagnósticas de dados reais.",
+        "Apresentar resultados de forma clara e visual."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Limpeza e Transformação de Dados",
+          "descricao": "O bloco Limpeza e Transformação de Dados capacita os alunos a aplicar técnicas de data wrangling para garantir a qualidade e a consistência dos dados, preparando-os para análises avançadas. Os cursos abordam o uso de bibliotecas como Pandas e Tidyverse para identificar e tratar valores ausentes, normalizar e transformar variáveis, manipular dados textuais e temporais, e unir diferentes conjuntos de dados.",
+          "projetos": [
+            "Limpando dados de pesquisa",
+            "Limpeza e análise inicial de dados",
+            "Mesclando e enriquecendo conjuntos de dados",
+            "Projeto de precificação inteligente para hospedagem de imóveis",
+            "Análise de uso de milhas em companhia aérea"
+          ],
+          "hard_skills": [
+            "Manipulação e limpeza de dados com Pandas e Tidyverse",
+            "Tratamento de dados faltantes, duplicados e outliers",
+            "Transformação de variáveis categóricas e manipulação de dados textuais",
+            "Fusão e normalização de datasets com merge/join programático",
+            "Criação de colunas derivadas para análises específicas"
+          ],
+          "soft_skills": [
+            "Curiosidade para entender a estrutura e qualidade dos dados",
+            "Aprendizado contínuo no uso de bibliotecas e boas práticas de wrangling",
+            "Autonomia na preparação de dados para diferentes contextos analíticos",
+            "Pensamento analítico e resolução de problemas",
+            "Atenção aos detalhes na preparação de dados"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Pandas",
+            "Tidyverse",
+            "Google Colab",
+            "Jupyter Notebook"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 2929,
+                  "nome": "Pandas: limpeza e tratamento de dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2928,
+                  "nome": "Pandas: transformação e manipulação de dados",
+                  "link": "https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando Pandas",
+              "cursos": [
+                {
+                  "id": 4419,
+                  "nome": "Praticando Pandas: trabalhando com dados nulos",
+                  "link": "https://cursos.alura.com.br/course/python-trabalhando-dados-nulos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4416,
+                  "nome": "Praticando Pandas: normalizando arquivos JSON",
+                  "link": "https://cursos.alura.com.br/course/python-normalizando-arquivos-json",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4417,
+                  "nome": "Praticando Pandas: criando tabulações com groupby",
+                  "link": "https://cursos.alura.com.br/course/python-criando-tabulacoes-groupby",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 3816,
+                  "nome": "R: utilizando o Tidyverse para diferentes formatos de dados",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-diferentes-formatos-dados",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3817,
+                  "nome": "R: utilizando o Tidyverse e transformando dados com dplyr",
+                  "link": "https://cursos.alura.com.br/course/r-utilizando-tidyverse-transformando-dados-dplyr",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dominando Análise de Dados com Planilhas",
+          "descricao": "Este bloco temático capacita os alunos a dominar o uso de planilhas como Excel e Google Sheets para análise avançada de dados, incluindo simulações, manipulação de grandes volumes de dados e criação de dashboards interativos. O foco é em técnicas de automação, análise financeira e uso estratégico de planilhas em diversos contextos corporativos.",
+          "projetos": [
+            "Simulação de cenários empresariais com o Excel",
+            "Criação de um dashboard financeiro interativo",
+            "Automatização de relatórios de RH usando VBA e Power Query"
+          ],
+          "hard_skills": [
+            "Manipulação e automação de dados com Power Query e VBA",
+            "Criação de dashboards interativos e gráficos avançados",
+            "Análise de cenários financeiros utilizando Excel e Google Sheets"
+          ],
+          "soft_skills": [
+            "Pensamento analítico e crítico",
+            "Resolução de problemas complexos",
+            "Comunicação eficaz de dados"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Google Sheets",
+            "Power Query",
+            "VBA",
+            "Power BI"
+          ],
+          "cursos": [
+            {
+              "stack": "Microsoft Excel",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Excel para analistas de dados: construindo um projeto de análise de dados completo",
+                  "link": "https://cursos.alura.com.br/course/excel-aplicado-mercado-financeiro-dashboards-realizando-consultas",
+                  "status": "NOVIDADE"
+                },
+                {
+                  "id": 1008,
+                  "nome": "Excel: simulação e análise de cenários",
+                  "link": "https://cursos.alura.com.br/course/excel-simulacao-e-analise-de-cenarios",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3719,
+                  "nome": "Excel aplicado ao mercado financeiro: construindo dashboards e realizando consultas",
+                  "link": "https://cursos.alura.com.br/course/excel-aplicado-mercado-financeiro-dashboards-realizando-consultas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4002,
+                  "nome": "Análise financeira eficiente: automatize o Excel com Power Query e Power Pivot",
+                  "link": "https://cursos.alura.com.br/course/analise-financeira-eficiente-automatize-excel-power-query-power-pivot",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4247,
+                  "nome": "Excel para RH: construindo seu primeiro relatório",
+                  "link": "https://cursos.alura.com.br/course/excel-rh-construindo-primeiro-relatorio",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4248,
+                  "nome": "Excel avançado para RH: funções, análises e dashboards estratégicos",
+                  "link": "https://cursos.alura.com.br/course/excel-avancado-rh-funcoes-analises-dashboards-estrategicos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4249,
+                  "nome": "Excel estratégico para RH: automação, macros e planejamento avançado",
+                  "link": "https://cursos.alura.com.br/course/excel-estrategico-rh-automacao-macros-planejamento-avancado",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Google Sheets",
+              "cursos": [
+                {
+                  "id": 1867,
+                  "nome": "Data Analysis: Google Sheets",
+                  "link": "https://cursos.alura.com.br/course/data-analysis-introducao-google-sheets",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2011,
+                  "nome": "Data Analysis: previsões com Google Sheets",
+                  "link": "https://cursos.alura.com.br/course/data-analysis-previsoes-google-sheets",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2140,
+                  "nome": "Data Analysis: estatística com Google Sheets",
+                  "link": "https://cursos.alura.com.br/course/data-analysis-estatistica-google-sheets",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 4148,
+                  "nome": "Automação e análise com Google Sheets: dados financeiros em tempo real",
+                  "link": "https://cursos.alura.com.br/course/automacao-analise-google-sheets-dados-financeiros-tempo-real",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trabalhando com Oracle Database para Análise de Dados",
+          "descricao": "Este bloco temático foca no uso do Oracle Database para análise de dados, abordando desde a instalação até a criação e manipulação de dados utilizando SQL. Os cursos cobrem consultas básicas e avançadas, manipulação de tabelas, transações, triggers, e o uso de PL/SQL para desenvolver procedimentos automatizados e eficientes.",
+          "projetos": [
+            "Criação de consultas complexas para relatórios gerenciais",
+            "Implementação de automação de processos com PL/SQL",
+            "Desenvolvimento de um sistema de gerenciamento de dados com Oracle"
+          ],
+          "hard_skills": [
+            "Criação e manipulação de tabelas e dados em Oracle SQL",
+            "Execução de consultas SQL avançadas e uso de JOINs",
+            "Programação em PL/SQL e criação de procedures e funções",
+            "Uso de cursores e manipulação de exceções"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Atenção aos detalhes na codificação e execução de consultas",
+            "Pensamento lógico e analítico",
+            "Capacidade de organização e planejamento de estruturas de dados"
+          ],
+          "ferramentas_principais": [
+            "Oracle Database",
+            "Oracle SQL Developer",
+            "SQL Plus"
+          ],
+          "cursos": [
+            {
+              "stack": "Oracle",
+              "cursos": [
+                {
+                  "id": 2579,
+                  "nome": "SQL com Oracle Database: manipule e consulte dados",
+                  "link": "https://cursos.alura.com.br/course/introducao-sql-oracle-manipule-consulte-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2580,
+                  "nome": "Oracle Database: projeções, seleções, joins e views",
+                  "link": "https://cursos.alura.com.br/course/sql-oracle-projecoes-selecoes-joins-views",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2581,
+                  "nome": "Oracle Database: manipulando dados com comandos DML",
+                  "link": "https://cursos.alura.com.br/course/manipulacao-dados-oracle-dml",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2582,
+                  "nome": "Oracle PL/SQL: procedures, funções e exceções",
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-procedures-funcoes-excecoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2607,
+                  "nome": "Oracle PL/SQL: cursor e exceções",
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-cursor-excecoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2583,
+                  "nome": "Oracle PL/SQL: dominando packages",
+                  "link": "https://cursos.alura.com.br/course/oracle-pl-sql-dominando-packages",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Uso de Tecnologias Emergentes na Análise de Dados",
+          "descricao": "Este bloco aborda a integração de tecnologias emergentes no campo da análise de dados, com foco especial em ferramentas de Inteligência Artificial (IA) que aprimoram a exploração, interpretação e apresentação de dados. Os alunos aprenderão a utilizar assistentes de IA generativa para otimizar processos analíticos, automatizar tarefas e melhorar a geração de relatórios, expandindo sua capacidade analítica de forma inovadora e estratégica.",
+          "projetos": [
+            "Análise assistida por IA com dados públicos"
+          ],
+          "hard_skills": [
+            "Integração de tecnologias emergentes em análise de dados",
+            "Implementação de modelos generativos para análise de dados",
+            "Programação em Python com suporte de assistentes de IA"
+          ],
+          "soft_skills": [
+            "Inovação na aplicação de tecnologias emergentes",
+            "Solução de problemas com tecnologias avançadas",
+            "Aprendizado contínuo e adaptação a novas tecnologias"
+          ],
+          "ferramentas_principais": [
+            "OpenAI",
+            "Gemini",
+            "Grok",
+            "Copilot",
+            "Deepseek",
+            "Python",
+            "Power BI",
+            "Excel",
+            "Power Automate"
+          ],
+          "cursos": [
+            {
+              "stack": "Análise de Dados",
+              "cursos": [
+                {
+                  "id": 4165,
+                  "nome": "LlamaIndex: analisando dados com Pandas",
+                  "link": "https://cursos.alura.com.br/course/llamaIndex-analisando-dados-pandas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4166,
+                  "nome": "LlamaIndex: criando um assistente virtual para consulta de banco de dados",
+                  "link": "https://cursos.alura.com.br/course/llamaIndex-criando-assistente-virtual-consulta-banco-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Power Automate",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Power Automate: Automatizando tarefas de um analista de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Projeto Integrador (Nível Iniciante)",
+          "descricao": "Este bloco temático visa consolidar os conhecimentos adquiridos no nível iniciante por meio da realização de um projeto completo de análise de dados. O aluno será desafiado a aplicar todas as etapas do processo analítico, desde a obtenção e limpeza dos dados até a análise, visualização e comunicação dos resultados. O foco está no planejamento do projeto, na divisão lógica das etapas e na apresentação final em formato de relatório ou narrativa com storytelling, destacando insights e soluções para problemas de negócio.",
+          "projetos": [
+            "Projeto completo de análise de dados aplicado a um problema real de negócio"
+          ],
+          "hard_skills": [
+            "Integração de etapas ETL",
+            "Data wrangling e análise exploratória",
+            "Desenvolvimento de dashboards interativos",
+            "Aplicação eficaz de storytelling com dados"
+          ],
+          "soft_skills": [
+            "Gerenciamento de projetos de dados",
+            "Pensamento estratégico e holístico",
+            "Comunicação eficaz para diferentes públicos"
+          ],
+          "ferramentas_principais": [
+            "Excel",
+            "Power BI",
+            "Python",
+            "R",
+            "SQL",
+            "Google Colab",
+            "VS Code",
+            "Git"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Desenvolvimento de Projeto de Análise de Dados Completo",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Para aplicar de forma prática todos os conceitos aprendidos durante o nível iniciante, é essencial realizar um projeto que integre todas as fases do processo de análise de dados.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a conduzir um projeto de análise de dados do início ao fim, incluindo a coleta, limpeza, análise, visualização dos dados e a comunicação dos resultados de forma eficaz."
+                },
+                {
+                  "id": 0,
+                  "nome": "Criação de Portfólio e Preparação para o Mercado de Trabalho",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Desenvolver um portfólio e preparar-se para entrevistas e oportunidades de trabalho são passos cruciais para o início da carreira de um analista de dados.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a construir um portfólio profissional, destacar seus projetos mais relevantes e se preparar para entrevistas e oportunidades no mercado de trabalho na área de análise de dados."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Intermediário",
+      "subnivel": "Nível I",
+      "objetivos_gerais": [
+        "Aprofundar técnicas de manipulação e integração de dados.",
+        "Utilizar ferramentas ETL/ELT para automação de processos.",
+        "Desenvolver análises preditivas iniciais."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Coleta de Dados em Fontes Externas",
+          "descricao": "Explore técnicas essenciais para coletar dados de fontes externas, incluindo consumo de APIs REST e web scraping. Aprenda a acessar, transformar e armazenar dados em formatos como JSON e XML, preparando-os para análises futuras. O curso também cobre aspectos éticos e práticas recomendadas na coleta automatizada.",
+          "projetos": [
+            "Desenvolvimento de um pipeline ETL para APIs",
+            "Criação de um dashboard interativo com dados coletados"
+          ],
+          "hard_skills": [
+            "Consumo de APIs REST com Python",
+            "Extração e transformação de dados JSON",
+            "Desenvolvimento de dashboards interativos",
+            "Armazenamento de dados em arquivos estruturados"
+          ],
+          "soft_skills": [
+            "Pensamento crítico e analítico",
+            "Ética na coleta de dados",
+            "Organização e automação de processos"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Biblioteca Requests",
+            "Streamlit",
+            "Pandas"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3053,
+                  "nome": "Python e APIs: conhecendo a biblioteca Requests",
+                  "link": "https://cursos.alura.com.br/course/python-apis-conhecendo-biblioteca-requests",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3054,
+                  "nome": "Streamlit: construindo um dashboard interativo",
+                  "link": "https://cursos.alura.com.br/course/streamlit-construindo-dashboard-interativo",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trabalhando com PostgreSQL para Análise de Dados",
+          "descricao": "Este bloco oferece uma compreensão completa do uso do PostgreSQL para análise de dados, abordando desde a instalação e configuração básica até técnicas avançadas de manipulação e consultas de dados. Os alunos aprenderão a criar e gerenciar bancos de dados relacionais, executar consultas SQL complexas, implementar funções e lógicas de programação diretamente no banco de dados, e automatizar tarefas com triggers e transações.",
+          "projetos": [
+            "Consultas complexas em banco de dados de vendas",
+            "Relatórios avançados com SQL em PostgreSQL",
+            "Automatização de tarefas com triggers"
+          ],
+          "hard_skills": [
+            "Instalação e configuração do PostgreSQL e pgAdmin",
+            "Criação e manipulação de bancos de dados e tabelas",
+            "Execução de consultas SQL complexas",
+            "Implementação de lógica de programação com PL/pgSQL",
+            "Automatização com triggers e transações"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Pensamento analítico e estruturado",
+            "Atenção aos detalhes",
+            "Autonomia na exploração de bancos de dados",
+            "Capacidade de adaptação a novas ferramentas e tecnologias"
+          ],
+          "ferramentas_principais": [
+            "PostgreSQL",
+            "pgAdmin",
+            "PL/pgSQL",
+            "EMS SQL Manager",
+            "DataGrip"
+          ],
+          "cursos": [
+            {
+              "stack": "PostgreSQL",
+              "cursos": [
+                {
+                  "id": 1659,
+                  "nome": "PostgreSQL",
+                  "link": "https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1878,
+                  "nome": "PostgreSQL: Views, Sub-Consultas e Funções",
+                  "link": "https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1887,
+                  "nome": "PostgreSQL: comandos DML e DDL",
+                  "link": "https://cursos.alura.com.br/course/pgsql-comandos-dml-ddl",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1899,
+                  "nome": "PostgreSQL: desenvolva com PL/pgSQL",
+                  "link": "https://cursos.alura.com.br/course/postgresql-procedures",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1900,
+                  "nome": "PostgreSQL: Triggers, transações, erros e cursores",
+                  "link": "https://cursos.alura.com.br/course/postgresql-triggers-transacoes-erros-cursores",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Testando Hipóteses com os Dados",
+          "descricao": "Este bloco temático aborda os conceitos e técnicas essenciais para testar hipóteses e construir modelos preditivos em análise de dados. Os alunos aprenderão a aplicar testes estatísticos para validar suposições e a construir modelos de regressão para prever resultados, utilizando tanto Python quanto R. O foco está na prática e na aplicação de técnicas estatísticas para obter insights significativos a partir dos dados.",
+          "projetos": [
+            "Análise de distribuições em um dataset",
+            "Aplicação de testes de hipótese em diferentes cenários",
+            "Construção e avaliação de modelos de regressão linear"
+          ],
+          "hard_skills": [
+            "Aplicação de testes estatísticos (significância, p-valor, intervalos de confiança)",
+            "Construção e interpretação de modelos de regressão linear",
+            "Análise de dados com Python e R",
+            "Uso de bibliotecas estatísticas para análise (Statsmodels, Scikit-learn, stats/R)"
+          ],
+          "soft_skills": [
+            "Pensamento crítico e analítico",
+            "Resolução de problemas complexos",
+            "Comunicação de resultados estatísticos de forma clara"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Google Colab",
+            "Jupyter Notebook",
+            "Bibliotecas: Pandas, Numpy, Scipy, Statsmodels, ggplot2"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 1178,
+                  "nome": "Estatística com Python: probabilidade e amostragem",
+                  "link": "https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1229,
+                  "nome": "Estatística com Python: testes de hipóteses",
+                  "link": "https://cursos.alura.com.br/course/estatistica-testes-hipotestes",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 1112,
+                  "nome": "Data Science: testes estatísticos com Python",
+                  "link": "https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3676,
+                  "nome": "Data Science: testando hipóteses",
+                  "link": "https://cursos.alura.com.br/course/data-science-testando-hipoteses",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 4195,
+                  "nome": "Estatística com R: aplicando a probabilidade e a amostragem dos dados",
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-probabilidade-amostragem-dados",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 4196,
+                  "nome": "Estatística com R: aplicando testes de hipóteses",
+                  "link": "https://cursos.alura.com.br/course/estatistica-r-aplicando-testes-hipoteses",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dominando Visualização de Dados e Dashboards com Tableau",
+          "descricao": "Este bloco temático aprofunda o uso do Tableau como uma ferramenta de business intelligence, focando na criação de dashboards interativos e visuais impactantes para suportar a tomada de decisões. Os cursos cobrem desde o uso de funções e cálculos avançados até a construção de narrativas efetivas através de dados, permitindo aos alunos explorar totalmente as capacidades do Tableau para análises complexas e apresentações visuais sofisticadas.",
+          "projetos": [
+            "Dashboard executivo para diretoria",
+            "Storytelling de dados para resultados de negócio",
+            "Dashboard multidimensional de vendas",
+            "Relatório geográfico e temporal interativo"
+          ],
+          "hard_skills": [
+            "Preparação e transformação de dados no Tableau",
+            "Criação de dashboards interativos e narrativas de dados",
+            "Uso de cálculos avançados e funções LoD no Tableau",
+            "Desenvolvimento de visualizações geográficas e temporais"
+          ],
+          "soft_skills": [
+            "Pensamento analítico e crítico",
+            "Resolução de problemas complexos",
+            "Comunicação visual eficaz",
+            "Capacidade de conectar insights de dados com objetivos de negócio"
+          ],
+          "ferramentas_principais": [
+            "Tableau",
+            "Tableau Prep Builder",
+            "Microsoft Excel",
+            "Google Sheets"
+          ],
+          "cursos": [
+            {
+              "stack": "Tableau",
+              "cursos": [
+                {
+                  "id": 2234,
+                  "nome": "Dashboard com Tableau: conceitos essenciais",
+                  "link": "https://cursos.alura.com.br/course/tableau-conceitos-essenciais",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2235,
+                  "nome": "Tableau: preparação e transformação de dados",
+                  "link": "https://cursos.alura.com.br/course/tableau-preparacao-transformacao-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2236,
+                  "nome": "Tableau: funções e cálculos LoD",
+                  "link": "https://cursos.alura.com.br/course/tableau-funcoes-calculos-lod",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2237,
+                  "nome": "Tableau: gráficos simples e avançados",
+                  "link": "https://cursos.alura.com.br/course/tableau-graficos-simples-avancados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2269,
+                  "nome": "Tableau: como trabalhar com mapas",
+                  "link": "https://cursos.alura.com.br/course/tableau-como-trabalhar-mapas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2270,
+                  "nome": "Tableau: construindo dashboards e histórias",
+                  "link": "https://cursos.alura.com.br/course/tableau-construindo-dashboards-historias",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2335,
+                  "nome": "Tableau: executando um projeto de BI",
+                  "link": "https://cursos.alura.com.br/course/tableau-executando-projeto-bi",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3980,
+                  "nome": "Data Storytelling: investigando e apresentando dados com Tableau",
+                  "link": "https://cursos.alura.com.br/course/data-storytelling-investigando-apresentando-dados-tableau",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Intermediário",
+      "subnivel": "Nível II",
+      "objetivos_gerais": [
+        "Trabalhar com grandes volumes de dados e ambientes de Big Data.",
+        "Utilizar ferramentas de computação em nuvem para análise de dados.",
+        "Aprofundar a visualização e storytelling com dados."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Visualização de Dados com Python",
+          "descricao": "Este bloco foca em aprofundar o conhecimento dos alunos na visualização de dados utilizando Python, capacitando-os a criar gráficos informativos e interativos. Os cursos abordam a utilização de bibliotecas populares como Matplotlib, Seaborn e Plotly para criar visualizações que facilitam a análise de padrões, anomalias e relações nos dados. A ênfase é na clareza da comunicação visual e na personalização de gráficos para atender a diferentes tipos de análise.",
+          "projetos": [
+            "Criação de um painel interativo de visualização de dados",
+            "Análise de tendências e padrões em dados de imigração",
+            "Visualização de dados de vendas e identificação de padrões de consumo"
+          ],
+          "hard_skills": [
+            "Criação e personalização de gráficos com Matplotlib, Seaborn e Plotly",
+            "Manipulação de dados com Pandas e NumPy",
+            "Interpretação de gráficos de comparação, distribuição e relacionamento",
+            "Estilização de tabelas dinâmicas com Pandas"
+          ],
+          "soft_skills": [
+            "Comunicação visual eficaz",
+            "Análise crítica e interpretação de dados",
+            "Atenção aos detalhes na apresentação de informações",
+            "Resolução de problemas através de visualizações"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Google Colab",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn",
+            "Plotly"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3055,
+                  "nome": "Data Visualization: criando gráficos com bibliotecas Python",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3057,
+                  "nome": "Data Visualization: gráficos de comparação e distribuição",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-comparacao-distribuicao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3137,
+                  "nome": "Data Visualization: gráficos de composição e relacionamento",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-graficos-composicao-relacionamento",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3056,
+                  "nome": "Data Visualization: estilização de tabelas com Python",
+                  "link": "https://cursos.alura.com.br/course/data-visualization-estilizacao-tabelas-python",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Praticando gráficos",
+              "cursos": [
+                {
+                  "id": 4420,
+                  "nome": "Praticando gráficos: criando gráficos de comparação",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-comparacao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4475,
+                  "nome": "Praticando gráficos: distribuição com Seaborn",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-distribuicao",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4421,
+                  "nome": "Praticando gráficos: composição e relacionamento com Matplotlib e Plotly",
+                  "link": "https://cursos.alura.com.br/course/python-graficos-composicao-relacionamento",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4422,
+                  "nome": "Praticando gráficos: criando gráficos customizados",
+                  "link": "https://cursos.alura.com.br/course/python-criando-graficos-customizados",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Computação em Nuvem para Análise de Dados",
+          "descricao": "Explora a aplicação de serviços de computação em nuvem na análise de dados, com foco no uso de plataformas como Google BigQuery para armazenamento, consulta e processamento de grandes volumes de dados. O curso abrange conceitos de escalabilidade, processamento distribuído e otimização de custos, capacitando o analista para operar em ambientes cloud modernos.",
+          "projetos": [
+            "Análise de dados avançada com Google BigQuery",
+            "Automação de processos de dados com Google Cloud"
+          ],
+          "hard_skills": [
+            "Configuração e uso de Google BigQuery",
+            "Execução de consultas SQL avançadas em ambientes cloud-based",
+            "Automação de processos de dados com scripts e funções"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Pensamento analítico e crítico",
+            "Adaptação a tecnologias emergentes"
+          ],
+          "ferramentas_principais": [
+            "Google BigQuery",
+            "Google Cloud Platform",
+            "SQL",
+            "Google Cloud Console"
+          ],
+          "cursos": [
+            {
+              "stack": "Google BigQuery",
+              "cursos": [
+                {
+                  "id": 3685,
+                  "nome": "Google BigQuery: navegando na nuvem",
+                  "link": "https://cursos.alura.com.br/course/google-big-query-navegando-nuvem",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3686,
+                  "nome": "Google BigQuery: dominando Strings e Data",
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-dominando-strings-data",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3687,
+                  "nome": "Google BigQuery: dominando funções lógicas e numéricas",
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-funcoes-logicas-numericas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3688,
+                  "nome": "Google BigQuery: manipulação de dados",
+                  "link": "https://cursos.alura.com.br/course/google-bigquery-manipulacao-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3728,
+                  "nome": "Google Big Query: consultas avançadas",
+                  "link": "https://cursos.alura.com.br/course/google-big-query-consultas-avancadas",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Business Intelligence com Google Looker Studio",
+          "descricao": "Este bloco temático foca na capacitação para o uso avançado do Google Looker Studio, uma poderosa ferramenta de Business Intelligence. Os cursos cobrem desde a criação de relatórios básicos até a construção de visualizações interativas complexas, explorando conceitos de modelagem de dados, métricas avançadas e storytelling com dados. Os alunos aprenderão a conectar diversas fontes de dados, aplicar cálculos complexos e personalizar relatórios para diferentes audiências, facilitando a tomada de decisões estratégicas.",
+          "projetos": [
+            "Criação de um relatório de marketing para a equipe da Bloco de Código",
+            "Desenvolvimento de um dashboard logístico para a Hermex",
+            "Elaboração de relatórios de People Analytics para a Ilus",
+            "Construção de um relatório de vendas interativo para a Meteora"
+          ],
+          "hard_skills": [
+            "Conexão e importação de dados de múltiplas fontes",
+            "Criação de métricas avançadas e campos calculados",
+            "Modelagem de dados e uso de parâmetros no Looker Studio",
+            "Construção de visualizações interativas e visualmente atraentes"
+          ],
+          "soft_skills": [
+            "Comunicação eficaz através de visualizações de dados",
+            "Colaboração e compartilhamento de relatórios",
+            "Resolução de problemas e pensamento analítico",
+            "Atenção aos detalhes na apresentação de dados"
+          ],
+          "ferramentas_principais": [
+            "Google Looker Studio",
+            "Google Sheets",
+            "MySQL",
+            "Railway",
+            "DBeaver"
+          ],
+          "cursos": [
+            {
+              "stack": "Looker Studio",
+              "cursos": [
+                {
+                  "id": 2664,
+                  "nome": "Looker Studio: criando o primeiro relatório",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-primeiro-relatorio",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2791,
+                  "nome": "Looker Studio: visualização de dados",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-visualizacao-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2921,
+                  "nome": "Looker Studio: trabalhando com funções e filtros",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-funcoes-filtros",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3038,
+                  "nome": "Looker Studio: parâmetros e combinações de dados",
+                  "link": "https://cursos.alura.com.br/course/looker-studio-parametros-combinacoes-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Técnicas de Previsão para Análise de Dados",
+          "descricao": "Este bloco explora técnicas de previsão através de conceitos estatísticos e modelagem preditiva. Aborda a aplicação de correlação, regressão linear e testes de hipóteses para validar conclusões e previsões em análise de dados. Os alunos aprenderão a interpretar coeficientes, avaliar a qualidade dos modelos e entender limitações e pressupostos estatísticos.",
+          "projetos": [
+            "Análise de correlação entre variáveis em um dataset",
+            "Construção e avaliação de modelos de regressão linear",
+            "Aplicação de testes de hipótese para validação de modelos"
+          ],
+          "hard_skills": [
+            "Modelagem preditiva com regressão linear",
+            "Análise estatística com Python e R",
+            "Interpretação de testes estatísticos"
+          ],
+          "soft_skills": [
+            "Pensamento crítico em análise de dados",
+            "Tomada de decisão baseada em evidências",
+            "Resolução de problemas analíticos"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Pandas",
+            "Statsmodels",
+            "ggplot2"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 1273,
+                  "nome": "Estatística com Python: Correlação e Regressão",
+                  "link": "https://cursos.alura.com.br/course/estatistica-correlacao-regressao",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 4197,
+                  "nome": "Estatísticas com R: correlação e regressão",
+                  "link": "https://cursos.alura.com.br/course/estatisticas-r-correlacao-regressao",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ferramentas SaaS - ERP",
+          "descricao": "Este bloco temático explora o uso de sistemas ERP (Enterprise Resource Planning) disponíveis como SaaS (Software as a Service) para análises de dados empresariais. O foco é na integração, extração e análise de dados de ERPs populares como TOTVS, SAP, Oracle NetSuite, Omie e Bling, para apoiar decisões em áreas como vendas, finanças, estoque e recursos humanos. Os participantes aprenderão a utilizar métodos de conexão, como APIs e conectores nativos, e a aplicar boas práticas para tratamento de dados e criação de relatórios.",
+          "projetos": [
+            "Extração e Integração de Dados de um ERP SaaS",
+            "Criação de Relatório Gerencial Integrando Dados do ERP"
+          ],
+          "hard_skills": [
+            "Integração de dados de sistemas ERP SaaS via API ou exportação",
+            "Tratamento e organização de grandes volumes de dados empresariais",
+            "Desenvolvimento de relatórios e dashboards integrando diferentes áreas de negócio"
+          ],
+          "soft_skills": [
+            "Compreensão dos processos de negócio em sistemas ERP",
+            "Tradução de demandas de negócio em análises e indicadores relevantes",
+            "Atenção a questões de privacidade e governança de dados empresariais"
+          ],
+          "ferramentas_principais": [
+            "ERPs SaaS populares (TOTVS, SAP, Oracle NetSuite, Omie, Bling)",
+            "Power BI, Excel ou Python para análise e visualização de dados",
+            "APIs, conectores nativos e ferramentas de integração de dados"
+          ],
+          "cursos": [
+            {
+              "stack": "SAP",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "SAP: Extração e Integração de Dados de um ERP SaaS",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Intermediário",
+      "subnivel": "Nível III",
+      "objetivos_gerais": [
+        "Explorar bancos de dados NoSQL e análise de dados não estruturados.",
+        "Automatizar processos de análise de dados e versionamento de projetos.",
+        "Desenvolver projetos integrados de análise de dados em ambientes colaborativos."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Trabalhando com Microsoft SQL Server para Análise de Dados",
+          "descricao": "Este bloco temático explora o uso do Microsoft SQL Server para o gerenciamento e análise de dados, desde a criação e configuração de bancos de dados até a execução de consultas avançadas e a manipulação de dados complexos. Os alunos desenvolverão habilidades em T-SQL, procedimentos armazenados e funções definidas pelo usuário, além de entender a integração de SQL com ferramentas de ETL e linguagens de programação.",
+          "projetos": [
+            "Consultas avançadas em bases de dados empresariais",
+            "Relatórios empresariais detalhados com SQL Server",
+            "Implementação de funções e procedures personalizadas para análise de dados"
+          ],
+          "hard_skills": [
+            "Configuração e gerenciamento do SQL Server e SSMS",
+            "Criação e manipulação de bancos de dados e tabelas",
+            "Execução de consultas avançadas com T-SQL",
+            "Desenvolvimento de stored procedures e funções UDFs",
+            "Uso de CURSOR e manipulação de dados complexos"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Pensamento crítico e analítico para modelagem de dados",
+            "Atenção aos detalhes e precisão na execução de consultas",
+            "Comunicação eficaz para levantamento de requisitos de dados"
+          ],
+          "ferramentas_principais": [
+            "Microsoft SQL Server 2022",
+            "SQL Server Management Studio (SSMS)",
+            "SQL Integration Services"
+          ],
+          "cursos": [
+            {
+              "stack": "Microsoft SQL Server 2022",
+              "cursos": [
+                {
+                  "id": 3018,
+                  "nome": "Microsoft SQL Server 2022: conhecendo SQL",
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-conhecendo-sql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2747,
+                  "nome": "Microsoft SQL Server 2022: consultas avançadas",
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-consultas-avancadas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2748,
+                  "nome": "Microsoft SQL Server 2022: manipulando dados",
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-manipulando-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2749,
+                  "nome": "Microsoft SQL Server 2022: conhecendo o T-SQL",
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-conhecendo-t-sql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2891,
+                  "nome": "Microsoft SQL Server 2022: aprofundando em procedures e funções",
+                  "link": "https://cursos.alura.com.br/course/microsoft-sql-server-2022-procedures-funcoes",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Avançando em Business Intelligence com Qlik Sense",
+          "descricao": "Este bloco temático visa aprofundar o uso de Qlik Sense para Business Intelligence, abordando desde a introdução à ferramenta até técnicas avançadas de modelagem de dados, visualizações e storytelling. Os alunos aprenderão a criar dashboards interativos, realizar transformações de dados complexas e gerar relatórios visuais impactantes que auxiliam na tomada de decisões estratégicas.",
+          "projetos": [
+            "Dashboard executivo para diretoria",
+            "Storytelling de dados para resultados de negócio",
+            "Dashboard multidimensional de vendas",
+            "Relatório geográfico e temporal interativo",
+            "História visual com snapshots e narrativas"
+          ],
+          "hard_skills": [
+            "Modelagem de dados para BI",
+            "Criação de expressões e cálculos avançados",
+            "Manipulação e transformação de dados complexos",
+            "Design e personalização de dashboards interativos",
+            "Integração de Qlik Sense com bancos de dados SQL"
+          ],
+          "soft_skills": [
+            "Visão estratégica na construção de relatórios",
+            "Comunicação eficaz através de narrativas visuais",
+            "Pensamento analítico e crítico",
+            "Resolução de problemas técnicos e adaptação a novas tecnologias"
+          ],
+          "ferramentas_principais": [
+            "Qlik Sense",
+            "Qlik Sense Cloud",
+            "MySQL",
+            "SQL Server",
+            "Qlik View"
+          ],
+          "cursos": [
+            {
+              "stack": "Qlik Sense",
+              "cursos": [
+                {
+                  "id": 2363,
+                  "nome": "Qlik Sense: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-conhecendo-ferramenta",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2364,
+                  "nome": "Qlik Sense: manipulando dados",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-manipulando-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2365,
+                  "nome": "Qlik Sense: analisando dados",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-analisando-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2411,
+                  "nome": "Qlik Sense: expressões avançadas",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-expressoes-avancadas",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2412,
+                  "nome": "Qlik Sense: conexões SQL",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-conexoes-sql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2413,
+                  "nome": "Qlik Sense: histórias e gráficos",
+                  "link": "https://cursos.alura.com.br/course/qlik-sense-historias-graficos",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Governança de Dados e Ética",
+          "descricao": "Este bloco aborda a governança de dados, destacando sua importância para garantir a qualidade, segurança, e conformidade dos dados nas organizações. Os cursos cobrem os princípios fundamentais da governança de dados, o ciclo de vida dos dados, a qualidade e a linhagem dos dados, além de aspectos éticos e legais, como a LGPD. Os alunos aprenderão a implementar práticas eficazes de governança de dados que promovem decisões informadas e seguras.",
+          "projetos": [
+            "Desenvolvimento de uma Política de Governança de Dados",
+            "Análise de Caso Ético em Dados"
+          ],
+          "hard_skills": [
+            "Conhecimento de legislações de proteção de dados (LGPD e GDPR)",
+            "Implementação de práticas de governança de dados",
+            "Técnicas de qualidade e linhagem de dados",
+            "Uso de ferramentas de BI e metadados"
+          ],
+          "soft_skills": [
+            "Consciência ética e responsabilidade no uso de informações",
+            "Pensamento crítico e analítico na avaliação de práticas de dados",
+            "Comunicação eficaz de políticas e diretrizes",
+            "Colaboração entre equipes de dados e negócios"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Biblioteca PyDeequ",
+            "OpenMetadata",
+            "SQL",
+            "Power BI"
+          ],
+          "cursos": [
+            {
+              "stack": "Governança de Dados",
+              "cursos": [
+                {
+                  "id": 3713,
+                  "nome": "Governança de dados: explorando os conceitos fundamentais",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-explorando-conceitos-fundamentais",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3714,
+                  "nome": "Governança de dados: conhecendo o ciclo de vida dos dados",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-conhecendo-ciclo-vida-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3715,
+                  "nome": "Governança de dados: garantindo a qualidade de dados com a biblioteca Pydeequ",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-qualidade-dados-biblioteca-pydeequ",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3716,
+                  "nome": "Governança de dados: usando metadados para compreender dados",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-usando-metadados-compreender-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3717,
+                  "nome": "Governança de dados: mapeando a origem e o destino com linhagem de dados",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-mapeando-origem-destino-linhagem-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3718,
+                  "nome": "Governança de dados: garantindo privacidade e proteção de dados para um futuro seguro",
+                  "link": "https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ferramentas de Automação de Tarefas",
+          "descricao": "Desenvolva habilidades avançadas de automação de tarefas utilizando Python e ferramentas de orquestração de workflows. Explore a criação de scripts eficientes, o uso de bibliotecas poderosas e a integração com APIs para otimizar processos de análise de dados. Aprenda a automatizar o processamento em lote de arquivos, coleta de dados e execução agendada de scripts, utilizando ferramentas modernas de automação.",
+          "projetos": [
+            "Automatização de fluxo de trabalho para coleta e processamento de dados",
+            "Integração de APIs para atualização de dashboards em tempo real"
+          ],
+          "hard_skills": [
+            "Programação avançada em Python para automação",
+            "Integração de APIs REST e manipulação de dados externos",
+            "Criação e gerenciamento de fluxos de trabalho automatizados"
+          ],
+          "soft_skills": [
+            "Pensamento analítico para otimização de processos",
+            "Flexibilidade na adaptação a novas ferramentas e tecnologias",
+            "Gestão eficiente de projetos de automação"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "REST APIs",
+            "Make",
+            "n8n",
+            "Git",
+            "GitHub Actions",
+            "Airflow"
+          ],
+          "cursos": [
+            {
+              "stack": "n8n",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "n8n: Coleta automatizada de dados externos",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            },
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Automação Avançada de Tarefas com Python",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso aprofundará o conhecimento em automação de tarefas, crucial para analistas de dados que buscam aumentar a eficiência de seus processos.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a criar scripts complexos em Python, utilizar bibliotecas avançadas para automação, e integrar diversas fontes de dados através de APIs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ferramentas SaaS - CRM para Análise de Dados",
+          "descricao": "Este bloco explora como os sistemas de CRM (Customer Relationship Management) no modelo SaaS (Software as a Service) são cruciais para a análise de dados de relacionamento e vendas. Os alunos aprenderão a integrar, extrair e analisar dados de CRMs populares para gerar indicadores úteis sobre pipeline, funil de vendas, comportamento de clientes e desempenho comercial. O curso abordará métodos de conexão, tratamento de dados e as melhores práticas para construir relatórios e dashboards eficazes.",
+          "projetos": [
+            "Integração de Dados de um CRM SaaS",
+            "Relatório de Indicadores Comerciais Integrando Dados do CRM"
+          ],
+          "hard_skills": [
+            "Integração de dados de sistemas CRM SaaS via API ou exportação",
+            "Tratamento de dados de relacionamento e vendas",
+            "Criação de relatórios e dashboards de funil de vendas e performance comercial"
+          ],
+          "soft_skills": [
+            "Compreensão do ciclo de relacionamento e vendas do cliente",
+            "Capacidade de traduzir estratégias comerciais em indicadores mensuráveis",
+            "Visão analítica para identificar oportunidades de otimização no processo comercial"
+          ],
+          "ferramentas_principais": [
+            "CRMs SaaS populares (Salesforce, HubSpot, Pipedrive, RD Station)",
+            "Power BI, Excel ou Python para análise e visualização dos dados extraídos",
+            "APIs, conectores nativos e ferramentas de integração de dados para CRMs"
+          ],
+          "cursos": [
+            {
+              "stack": "Salesforce",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Salesforce: Integração com Ferramentas de BI de Dados de um CRM SaaS",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "NOVIDADE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Projeto Integrador (Nível Intermediário)",
+          "descricao": "Projeto integrador que desafia os alunos a aplicarem competências intermediárias de análise de dados em um contexto realista. Os alunos irão extrair, transformar e analisar dados de múltiplas fontes, realizar análises estatísticas avançadas, desenvolver modelos preditivos e criar visualizações impactantes para comunicar seus insights.",
+          "projetos": [
+            "Análise Preditiva de Churn de Clientes",
+            "Apresentação Profissional do Projeto",
+            "Análise de dados de e-commerce integrando SQL, NoSQL e visualização em Power BI.",
+            "Projeto de análise de dados de saúde pública com integração de APIs, Big Data e dashboards."
+          ],
+          "hard_skills": [
+            "Orquestração de um projeto de análise completo (ETL, análise, modelagem, visualização)",
+            "Aplicação de técnica preditiva em contexto de negócio",
+            "Documentação rigorosa e uso de ferramentas de colaboração",
+            "Storytelling com dados"
+          ],
+          "soft_skills": [
+            "Autonomia e gestão de tempo",
+            "Comunicação eficaz",
+            "Capacidade de conectar resultados de análise a recomendações práticas para a empresa"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "SQL",
+            "NoSQL",
+            "Power BI",
+            "Excel",
+            "AWS Glue",
+            "Git"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso guia os alunos na criação de um projeto de análise de dados do início ao fim, usando técnicas intermediárias, consolidando seu aprendizado até este ponto da trilha.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a planejar, executar e documentar um projeto de análise de dados completo, incluindo a coleta de dados, aplicação de técnicas de análise estatística e apresentação de resultados."
+                },
+                {
+                  "id": 0,
+                  "nome": "Construção de Portfólio e Preparação para o Mercado Intermediário",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Com o avanço para níveis mais altos, é crucial que os alunos saibam como apresentar suas habilidades em um portfólio e se preparar para oportunidades de emprego.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a organizar e apresentar seus projetos em um portfólio profissional, além de dicas de preparação para entrevistas e desenvolvimento de carreira no nível intermediário."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Avançado",
+      "subnivel": "Nível I",
+      "objetivos_gerais": [
+        "Desenvolver análises preditivas e prescritivas com machine learning básico.",
+        "Utilizar ferramentas de AutoML e IA generativa para acelerar projetos.",
+        "Aprofundar a integração de dados em ambientes complexos."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Big Data e Processamento Distribuído",
+          "descricao": "Explora os fundamentos de Big Data e processamento distribuído, capacitando analistas a gerenciar grandes volumes de dados. O bloco destaca o uso de frameworks como Apache Spark e plataformas como Databricks para paralelização e escalabilidade, incluindo integração com fontes como Amazon S3.",
+          "projetos": [
+            "Análise de logs de acesso web utilizando Apache Spark.",
+            "Manipulação e análise de grandes datasets públicos com Databricks e PySpark."
+          ],
+          "hard_skills": [
+            "Fundamentos de Big Data e processamento distribuído",
+            "Configuração e uso de Apache Spark e PySpark",
+            "Manipulação e consulta de dados em plataformas de Big Data",
+            "Gerenciamento de clusters e notebooks em Databricks"
+          ],
+          "soft_skills": [
+            "Aprendizado contínuo de tecnologias emergentes",
+            "Adaptabilidade a ambientes de execução complexos",
+            "Pensamento analítico para otimização de processos em larga escala",
+            "Comunicação eficaz de insights por meio de visualizações"
+          ],
+          "ferramentas_principais": [
+            "Databricks",
+            "Apache Spark",
+            "PySpark",
+            "Amazon S3",
+            "Plotly"
+          ],
+          "cursos": [
+            {
+              "stack": "Spark",
+              "cursos": [
+                {
+                  "id": 2273,
+                  "nome": "Spark: apresentando a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/spark-apresentando-ferramenta",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Databricks",
+              "cursos": [
+                {
+                  "id": 2651,
+                  "nome": "Databricks: conhecendo a ferramenta",
+                  "link": "https://cursos.alura.com.br/course/databricks-conhecendo-ferramenta",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2652,
+                  "nome": "Databricks: trabalhando com diversos formatos e tipos de arquivos",
+                  "link": "https://cursos.alura.com.br/course/databricks-formatos-tipos-arquivos",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2657,
+                  "nome": "Databricks: análise de dados",
+                  "link": "https://cursos.alura.com.br/course/databricks-analise-dados",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Conhecimentos Básicos em Engenharia de Analytics",
+          "descricao": "Este bloco temático introduz os conceitos fundamentais de Engenharia de Analytics, destacando a integração de dados, automação de pipelines e a visualização de dados utilizando ferramentas AWS. Os alunos aprenderão a criar, gerenciar e otimizar pipelines de dados, além de desenvolver dashboards para facilitar a tomada de decisões estratégicas.",
+          "projetos": [
+            {
+              "nome": "Implementação de um Pipeline ETL com AWS Glue",
+              "descricao": "Construa e documente um pipeline ETL completo utilizando AWS Glue, desde a ingestão até a análise de dados. Inclua a definição das camadas Bronze, Silver e Gold e use AWS Athena para consultas."
+            },
+            {
+              "nome": "Criação de Dashboards com Amazon QuickSight",
+              "descricao": "Desenvolva dashboards interativos com Amazon QuickSight, utilizando dados de um projeto real ou simulado. Personalize o dashboard com a identidade visual da empresa e compartilhe-o com stakeholders."
+            }
+          ],
+          "hard_skills": [
+            "Implementação de pipelines ETL e automação de processos",
+            "Manipulação e análise de dados com PySpark e Pandas",
+            "Criação de consultas SQL e visualizações gráficas",
+            "Uso de AWS Glue, Amazon Athena e QuickSight para análises"
+          ],
+          "soft_skills": [
+            "Resolução de problemas e gestão de projetos",
+            "Comunicação visual e colaboração em equipe",
+            "Atenção aos detalhes e organização"
+          ],
+          "ferramentas_principais": [
+            "AWS Glue",
+            "Amazon S3",
+            "AWS Athena",
+            "Amazon QuickSight",
+            "AWS Step Functions"
+          ],
+          "cursos": [
+            {
+              "stack": "AWS",
+              "cursos": [
+                {
+                  "id": 4024,
+                  "nome": "Engenharia de Analytics: implementando um pipeline ETL com AWS Glue",
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-pipeline-etl-aws-glue",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4014,
+                  "nome": "Engenharia de Analytics: analisando dados com Amazon Athena e AWS Glue",
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-dados-amazon-athena-aws-glue",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4025,
+                  "nome": "Engenharia de Analytics: construindo uma pipeline automatizada",
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-construindo-pipeline-automatizada",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4411,
+                  "nome": "Amazon Quicksight: meu primeiro dashboard",
+                  "link": "https://cursos.alura.com.br/course/amazon-quicksight-primeiro-dashboard",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 4129,
+                  "nome": "Engenharia de Analytics: apresentando resultados com QuickSight",
+                  "link": "https://cursos.alura.com.br/course/engenharia-analytics-apresentando-resultados-quicksight",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Conceitos Básicos de Machine Learning",
+          "descricao": "Neste bloco, os alunos exploram os conceitos fundamentais de Machine Learning aplicados ao papel do analista de dados. O foco está em algoritmos comuns de machine learning, como classificação, regressão e clusterização, com ênfase na aplicação prática e na interpretação de modelos. Os alunos aprendem a treinar e validar modelos usando bibliotecas populares, avaliar o desempenho com métricas adequadas e aplicar técnicas de explicação de modelos.",
+          "projetos": [
+            "Classificação de Risco de Crédito",
+            "Clusterização de Perfis de Clientes",
+            "Precificação de Imóveis"
+          ],
+          "hard_skills": [
+            "Implementação de modelos de classificação e regressão",
+            "Manipulação e limpeza de dados",
+            "Visualização de dados e interpretação de modelos",
+            "Ajuste de hiperparâmetros e validação cruzada"
+          ],
+          "soft_skills": [
+            "Pensamento crítico e analítico",
+            "Resolução de problemas complexos",
+            "Comunicação de insights analíticos",
+            "Consciência ética na aplicação de modelos"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "R",
+            "Scikit-learn",
+            "Google Colab",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+          ],
+          "cursos": [
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3971,
+                  "nome": "Machine Learning: classificação com SKLearn",
+                  "link": "https://cursos.alura.com.br/course/machine-learning-classificacao-sklearn",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 3677,
+                  "nome": "Data Science: testando relações com Regressão Linear",
+                  "link": "https://cursos.alura.com.br/course/data-science-testando-relacoes-regressao-linear",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "R",
+              "cursos": [
+                {
+                  "id": 4198,
+                  "nome": "Estatísticas com R: testando modelos de regressão",
+                  "link": "https://cursos.alura.com.br/course/estatisticas-r-testando-modelos-regressao",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Avançado",
+      "subnivel": "Nível II",
+      "objetivos_gerais": [
+        "Desenvolver projetos de análise de dados ponta a ponta em ambientes empresariais.",
+        "Aprofundar técnicas de storytelling e apresentação de resultados para alta gestão.",
+        "Liderar equipes e atuar como referência técnica em projetos de dados."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Trabalhando com MongoDB em Análise de Dados",
+          "descricao": "Este bloco explora o uso de bancos de dados NoSQL, com foco em MongoDB, para análise de dados. Os alunos aprenderão a instalar, configurar e utilizar MongoDB, incluindo a modelagem, validação e execução de consultas complexas. Projetos práticos integrarão a manipulação de dados em MongoDB com outras tecnologias, como Python e MySQL, preparando os alunos para lidar com grandes volumes de dados e esquemas flexíveis.",
+          "projetos": [
+            "Desenvolvimento de um Pipeline de Dados com Integração entre Python, MongoDB e MySQL",
+            "Criação de Regras de Validação de Dados e Consultas Avançadas em MongoDB"
+          ],
+          "hard_skills": [
+            "Instalação, configuração e manipulação de dados em MongoDB",
+            "Criação e aplicação de regras de validação de esquema",
+            "Execução de consultas e agregações avançadas",
+            "Integração de Python com bancos de dados NoSQL e SQL"
+          ],
+          "soft_skills": [
+            "Resolução de problemas complexos",
+            "Atenção aos detalhes na modelagem e validação de dados",
+            "Organização e planejamento de projetos de dados",
+            "Capacidade de adaptação a diferentes tecnologias"
+          ],
+          "ferramentas_principais": [
+            "MongoDB",
+            "Python",
+            "MySQL",
+            "MongoDB Compass",
+            "NoSQLBooster"
+          ],
+          "cursos": [
+            {
+              "stack": "MongoDB",
+              "cursos": [
+                {
+                  "id": 2675,
+                  "nome": "MongoDB: conhecendo um banco de dados NoSQL",
+                  "link": "https://cursos.alura.com.br/course/mongodb-banco-dados-nosql",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2710,
+                  "nome": "MongoDB: validando dados",
+                  "link": "https://cursos.alura.com.br/course/mongodb-validando-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2941,
+                  "nome": "MongoDB: realizando consultas",
+                  "link": "https://cursos.alura.com.br/course/mongodb-realizando-consultas",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Python",
+              "cursos": [
+                {
+                  "id": 3063,
+                  "nome": "Pipeline de dados: integrando Python com MongoDB e MySQL",
+                  "link": "https://cursos.alura.com.br/course/pipeline-dados-integrando-python-mongodb-mysql",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Liderança em Projetos de Dados e Estratégia Data-Driven",
+          "descricao": "Capacita profissionais para liderar iniciativas de dados, gerenciando projetos desde a concepção até a execução e análise de resultados. Enfatiza a definição de escopo, aplicação de metodologias ágeis e construção de estratégias data-driven para suportar decisões estratégicas e promover uma cultura orientada a dados.",
+          "projetos": [
+            "Plano de Projeto Analítico",
+            "Estratégia Data-Driven para Área de Negócio"
+          ],
+          "hard_skills": [
+            "Gestão de projetos de dados (definição de escopo, cronograma, entregáveis)",
+            "Metodologias ágeis aplicadas a dados (Agile/Scrum/Kanban)",
+            "Definição de KPIs e construção de casos de uso de dados estratégicos"
+          ],
+          "soft_skills": [
+            "Liderança e desenvolvimento de equipes",
+            "Comunicação eficaz com stakeholders",
+            "Visão estratégica para alinhar dados a objetivos de negócios"
+          ],
+          "ferramentas_principais": [
+            "Ferramentas de gestão de projetos (Trello, Jira, Planner)",
+            "Templates de documentação de projeto",
+            "Frameworks de estratégia (OKRs)"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Gestão de Projetos de Dados com Metodologias Ágeis",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Aprofunda o uso de metodologias ágeis em projetos de dados, essenciais para a liderança eficaz e para a adaptação rápida às mudanças nas demandas de dados.",
+                  "o_que_vai_aprender": "Implementação de metodologias ágeis como Scrum e Kanban em contextos de dados, técnicas de facilitação de reuniões ágeis e gestão de backlog de dados."
+                },
+                {
+                  "id": 0,
+                  "nome": "Estratégias Data-Driven: Do Planejamento à Execução",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Ensina a elaborar e implementar estratégias baseadas em dados, uma habilidade crucial para líderes que precisam guiar suas equipes para alcançar resultados alinhados aos objetivos organizacionais.",
+                  "o_que_vai_aprender": "Identificação de oportunidades estratégicas com dados, desenvolvimento de roadmap de dados e comunicação de estratégias data-driven para stakeholders."
+                },
+                {
+                  "id": 0,
+                  "nome": "Liderança e Comunicação Eficaz em Projetos de Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Foca no desenvolvimento de habilidades interpessoais e de liderança, fundamentais para gerenciar equipes de dados e garantir o sucesso dos projetos.",
+                  "o_que_vai_aprender": "Técnicas de liderança e mentoria, comunicação eficaz entre equipes técnicas e de negócios, e como influenciar decisões executivas com dados."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
+          "descricao": "Este bloco capacita o analista de dados a transformar análises complexas em narrativas claras e estratégicas, relevantes para a alta gestão. Foca na comunicação de resultados de forma impactante, usando visualizações eficazes, contextualizando métricas e dominando a linguagem executiva. Explora técnicas de storytelling com dados, escolha de KPIs e personalização de discursos para diferentes públicos.",
+          "projetos": [
+            "Apresentação Executiva de Análise de Desempenho",
+            "Refinamento de Métricas e Relevância Estratégica"
+          ],
+          "hard_skills": [
+            "Storytelling com dados (estrutura: contexto, problema, insight, ação)",
+            "Construção de apresentações e dashboards executivos com foco em clareza e impacto",
+            "Seleção e interpretação de indicadores estratégicos (KPIs e OKRs)"
+          ],
+          "soft_skills": [
+            "Comunicação clara e objetiva com stakeholders não técnicos",
+            "Capacidade de síntese e priorização de informações",
+            "Postura de dono e protagonismo ao apresentar recomendações de negócio"
+          ],
+          "ferramentas_principais": [
+            "Power BI",
+            "Tableau",
+            "Looker Studio",
+            "Google Slides",
+            "PowerPoint"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Para garantir que os analistas de dados possam criar apresentações que não apenas informem, mas também inspirem ação, é essencial dominar técnicas avançadas de storytelling com dados.",
+                  "o_que_vai_aprender": "- Storytelling com Dados: Técnicas Avançadas: Os alunos aprenderão a aplicar técnicas avançadas de narrativa em dados, como estruturar histórias de dados impactantes e adaptar a mensagem a diferentes públicos.; - Comunicação Executiva para Análise de Dado: Os alunos vão adquirir habilidades para comunicar de forma eficaz com executivos, focando em clareza, concisão e relevância das informações apresentadas.; - Visualização de Dados para Alta Gestão: Os alunos aprenderão a criar visualizações de dados que destacam insights críticos e suportam narrativas estratégicas para audiências executivas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tópicos Avançados e Tendências em Dados",
+          "descricao": "Este bloco temático mantém os profissionais atualizados com as rápidas evoluções no campo da análise de dados, abordando tópicos emergentes e relevantes como análise de dados em mídias sociais, processamento de linguagem natural (NLP) para extrair insights de dados textuais, análise geoespacial (GIS) aplicada a negócios locais e o uso de Inteligência Artificial generativa para auxiliar em tarefas de análise. Os alunos adquirem entendimento introdutório das possibilidades e ferramentas para aplicação prática, incentivando o aprendizado contínuo e adaptabilidade às novas ferramentas e métodos no mercado global de dados.",
+          "projetos": [
+            "Análise de Sentimentos em Avaliações de Produto",
+            "Mapeamento Geoespacial de Imóveis"
+          ],
+          "hard_skills": [
+            "Transformação e análise de dados textuais com NLP",
+            "Manipulação e visualização de dados geoespaciais",
+            "Implementação de arquiteturas de dados distribuídas",
+            "Criação de visualizações interativas de mapas"
+          ],
+          "soft_skills": [
+            "Pensamento analítico e crítico",
+            "Resolução de problemas complexos",
+            "Comunicação eficaz e colaboração entre equipes",
+            "Aprendizado contínuo e adaptabilidade"
+          ],
+          "ferramentas_principais": [
+            "Python",
+            "Geopandas",
+            "Folium",
+            "NLTK",
+            "Scikit-learn",
+            "AWS",
+            "Kafka",
+            "Airflow"
+          ],
+          "cursos": [
+            {
+              "stack": "Processamento de Linguagem Natural",
+              "cursos": [
+                {
+                  "id": 3765,
+                  "nome": "NLP: aplicando processamento de linguagem natural para análise de sentimentos",
+                  "link": "https://cursos.alura.com.br/course/nlp-aplicando-processamento-linguagem-natural-analise-sentimentos",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Georreferenciamento",
+              "cursos": [
+                {
+                  "id": "3060",
+                  "nome": "Geopandas: trabalhando com dados geoespaciais",
+                  "link": "https://cursos.alura.com.br/course/geopandas-trabalhando-dados-geoespaciais",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": "3061",
+                  "nome": "Dados geográficos: visualização de mapas com Folium",
+                  "link": "https://cursos.alura.com.br/course/dados-geograficos-visualizacao-mapas-folium",
+                  "status": "CARREIRA"
+                }
+              ]
+            },
+            {
+              "stack": "Data Mesh",
+              "cursos": [
+                {
+                  "id": 2499,
+                  "nome": "Data Mesh: uma abordagem distribuída para dados",
+                  "link": "https://cursos.alura.com.br/course/data-mesh-abordagem-distribuida-dados",
+                  "status": "CARREIRA"
+                },
+                {
+                  "id": 2500,
+                  "nome": "Data Mesh: dados como produtos",
+                  "link": "https://cursos.alura.com.br/course/data-mesh-dados-produtos",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Avançado",
+      "subnivel": "Nível III",
+      "objetivos_gerais": [
+        "Atuar como especialista em análise de dados, liderando projetos estratégicos.",
+        "Desenvolver soluções inovadoras com IA, automação e integração de dados em larga escala.",
+        "Ser referência técnica e mentor para equipes multidisciplinares."
+      ],
+      "blocos_tematicos": [
+        {
+          "nome": "Projeto Integrador (Nível Avançado)",
+          "descricao": "Este bloco desafia o aluno a resolver um caso de dados completo e aberto, similar a um cenário real de mercado, incorporando todas as habilidades adquiridas ao longo da formação. O projeto envolve a definição autônoma do problema, obtenção de dados, análise exploratória, modelagem avançada e entrega de uma solução impactante. Destaca-se o rigor técnico, como a validação de modelos e documentação detalhada, além da qualidade na apresentação dos resultados. O aluno pode personalizar o problema para refletir seu interesse específico, como otimização logística ou previsão de vendas.",
+          "projetos": [
+            "Projeto de Solução de Dados Avançada"
+          ],
+          "hard_skills": [
+            "Execução de projetos completos de ciência de dados",
+            "Integração de tecnologias diversas em soluções coesas",
+            "Elaboração de documentação técnica e de negócios"
+          ],
+          "soft_skills": [
+            "Comunicação eficaz",
+            "Confiança e proatividade profissional",
+            "Criação de redes de contato e apresentação pessoal para o mercado"
+          ],
+          "ferramentas_principais": [
+            "Stack completa de ferramentas de dados (Python/R, SQL, BI)",
+            "Ferramentas de colaboração e apresentação (GitHub, plataformas de portfólio, PowerPoint/Google Slides)"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Desenvolvimento de Projeto Completo em Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso permitirá que os alunos integrem todo o conhecimento adquirido em um projeto prático e aplicável, refletindo um caso real de mercado.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a definir problemas de dados, coletar e processar dados, realizar análises exploratórias, construir modelos e apresentar resultados de maneira profissional."
+                },
+                {
+                  "id": 0,
+                  "nome": "Construção de Portfólio e Preparação para o Mercado Avançado",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Um curso voltado para ajudar os alunos a se prepararem para oportunidades no mercado de trabalho, focando na construção de um portfólio robusto e em técnicas de apresentação pessoal.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a criar e otimizar seu portfólio de projetos de dados, além de estratégias para se destacar em entrevistas e oportunidades profissionais."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Preparação para o Mercado",
+          "descricao": "Neste bloco final, os alunos recebem orientação para a transição eficaz da formação para o mercado de trabalho. Abrange a síntese e apresentação de habilidades por meio de portfólio, estratégias para destacar projetos, e a comunicação de competências em processos seletivos. Inclui orientação sobre certificações externas reconhecidas, participação na comunidade de dados, e a importância da aprendizagem contínua. Além disso, prepara para entrevistas técnicas e comportamentais, garantindo que o profissional esteja pronto e confiante para buscar oportunidades na área de dados em qualquer mercado, seja nacional ou internacional.",
+          "projetos": [
+            "Criação de Portfólio Profissional de Dados",
+            "Simulação de Entrevistas Técnicas e Comportamentais"
+          ],
+          "hard_skills": [
+            "Desenvolvimento de portfólio profissional impactante",
+            "Conhecimento sobre certificações e qualificações de mercado",
+            "Habilidade de comunicar conceitos técnicos de forma clara em entrevistas"
+          ],
+          "soft_skills": [
+            "Branding pessoal e storytelling de carreira",
+            "Preparação e performance em entrevistas",
+            "Desenvolvimento de plano de carreira"
+          ],
+          "ferramentas_principais": [
+            "Plataformas de portfólio (GitHub, LinkedIn, Kaggle)",
+            "Simuladores de entrevistas online",
+            "Comunidades de dados para networking"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Para integrar e aplicar todos os conhecimentos adquiridos durante a formação, é essencial que os alunos desenvolvam um projeto completo que demonstre suas habilidades e entendimento do ciclo de análise de dados.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a identificar problemas de negócios, coletar e analisar dados, aplicar técnicas de visualização, e comunicar insights através de um projeto integrado que servirá como peça central em seus portfólios."
+                },
+                {
+                  "id": 0,
+                  "nome": "Estratégias de Portfólio e Preparação para o Mercado de Trabalho em Análise de Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Um portfólio bem estruturado e a preparação adequada para o mercado são cruciais para se destacar. Este curso foca na criação de um portfólio atraente e em dicas práticas para entrevistas e networking.",
+                  "o_que_vai_aprender": "Os alunos aprenderão a criar e otimizar portfólios de dados, a se preparar para entrevistas técnicas e comportamentais, e a desenvolver estratégias de networking eficazes para entrar no mercado de trabalho com confiança."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Atuação Independente em Análise de Dados: Empreendedorismo e Consultoria",
+          "descricao": "Desenvolve competências para analistas de dados que desejam atuar como profissionais independentes, seja como consultores especializados ou empreendedores de produtos e serviços baseados em dados. O conteúdo aborda desde o diagnóstico de clientes até o desenvolvimento de soluções próprias, precificação, marketing e relacionamento com stakeholders. Ideal para quem deseja empreender ou prestar serviços como freelancer ou consultor.",
+          "projetos": [
+            "Plano de Consultoria para uma Empresa com Baixa Maturidade Analítica",
+            "Criação de um Produto Analítico com Validação de Mercado"
+          ],
+          "hard_skills": [
+            "Diagnóstico de maturidade analítica e definição de KPIs",
+            "Criação de produtos ou serviços baseados em dados",
+            "Estruturação de propostas de valor e precificação"
+          ],
+          "soft_skills": [
+            "Mentalidade empreendedora e visão de negócio",
+            "Comunicação consultiva e foco em entregas com valor real",
+            "Autonomia, organização e gestão do relacionamento com clientes"
+          ],
+          "ferramentas_principais": [
+            "Power BI, Python, Excel como plataformas de entrega de valor",
+            "Templates de proposta e briefing (Notion, Docs, Miro)",
+            "Ferramentas de comunicação e automação (Slack, Trello, Zapier, Stripe)"
+          ],
+          "cursos": [
+            {
+              "stack": "SUGESTÕES",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Empreendedorismo em Análise de Dados",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso complementa as habilidades de análise de dados com conhecimentos específicos sobre empreendedorismo, ajudando profissionais a transformar suas ideias em negócios viáveis.",
+                  "o_que_vai_aprender": "Os alunos aprenderão sobre como validar ideias de negócios baseadas em dados, desenvolver modelos de negócios, e estratégias de marketing digital para promover seus serviços ou produtos."
+                },
+                {
+                  "id": 0,
+                  "nome": "Consultoria de Dados: Práticas e Estratégias",
+                  "status": "SUGESTÃO",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso é essencial para aprofundar o conhecimento sobre consultoria em dados, abordando técnicas específicas e melhores práticas do mercado.",
+                  "o_que_vai_aprender": "Os alunos vão aprender a elaborar diagnósticos de maturidade analítica, criar relatórios de insights e desenvolver estratégias de implementação de soluções de dados para clientes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

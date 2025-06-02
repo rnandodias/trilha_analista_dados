@@ -64,15 +64,15 @@ h6 {
 """, unsafe_allow_html=True)
 
 # JSON da trilha
-with open("trilha_analista_de_dados_v3.json", "r", encoding="utf-8") as f:
+with open("trilha_analista_de_dados_v3_cortes_new.json", "r", encoding="utf-8") as f:
     trilha = json.load(f)
 
 # Exibição
 for etapa in trilha["ementa"]:
-    if etapa['nivel'] == "Nivelamento":
-        subnivel = ""
-    else:
-        subnivel = f" - {etapa['subnivel']}"
+    # if etapa['nivel'] == "Nivelamento":
+    #     subnivel = ""
+    # else:
+    #     subnivel = f" - {etapa['subnivel']}"
 
     if etapa['nivel'] == "Nivelamento":
         icone = "🟢"
@@ -87,7 +87,8 @@ for etapa in trilha["ementa"]:
         icone = "🟣"
         cores = "violet"
         
-    st.header(f":{cores}[{icone} {etapa['nivel']}{subnivel}]", divider=cores)
+    # st.header(f":{cores}[{icone} {etapa['nivel']}{subnivel}]", divider=cores)
+    st.header(f":{cores}[{icone} {etapa['nivel']}]", divider=cores)
     for bloco in etapa["blocos_tematicos"]:
         with st.expander(f"## 📦 {bloco['nome']}"):
             st.markdown("##### 📝 Descrição")
