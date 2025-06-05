@@ -101,7 +101,12 @@
                   "id": 1177,
                   "nome": "Estatística com Python: frequências e medidas",
                   "link": "https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas",
-                  "status": "REGRAVAÇÃO"
+                  "status": "REGRAVAÇÃO",
+                  "inicio": "01/07/2025",
+                  "entrega": "18/07/2025",
+                  "prioridade": "Baixa",
+                  "instrutor": "João Miranda",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
                 }
               ]
             }
@@ -144,42 +149,6 @@
           ]
         },
         {
-          "nome": "Introdução à Computação em Nuvem para Análise de Dados [DÚVIDA]",
-          "descricao": "Este bloco oferece uma introdução abrangente aos conceitos fundamentais de computação em nuvem, com foco na análise de dados. Os alunos aprenderão sobre os principais modelos de serviço em nuvem (IaaS, PaaS, SaaS) e explorarão os serviços essenciais das plataformas AWS, Azure e Google Cloud. O objetivo é capacitar os alunos a entenderem como dados são armazenados, acessados e processados em ambientes de nuvem, preparando-os para a coleta e uso inicial de dados em projetos analíticos.",
-          "projetos": [
-            "Exploração das principais plataformas de nuvem",
-            "Coleta de dados a partir de um serviço cloud"
-          ],
-          "hard_skills": [
-            "Compreensão dos modelos de serviço em nuvem (IaaS, PaaS, SaaS)",
-            "Familiaridade com navegação e uso básico de plataformas cloud",
-            "Coleta de dados de serviços e fontes hospedadas em nuvem"
-          ],
-          "soft_skills": [
-            "Curiosidade técnica sobre infraestrutura e serviços de dados",
-            "Iniciativa para explorar tecnologias modernas e documentações oficiais",
-            "Capacidade de buscar soluções e identificar recursos em plataformas complexas"
-          ],
-          "ferramentas_principais": [
-            "AWS",
-            "Azure",
-            "Google Cloud"
-          ],
-          "cursos": [
-            {
-              "stack": "Computação em Nuvem",
-              "cursos": [
-                {
-                  "id": 0,
-                  "nome": "Computação em Nuvem: Conhecendo os fundamentos básicos",
-                  "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "nome": "Excel para Análise de Dados",
           "descricao": "Este bloco apresenta os conceitos iniciais do Excel para quem nunca trabalhou ou tem pouca experiência com planilhas. O objetivo é garantir a base necessária para que o aluno se sinta confortável navegando, editando e organizando informações no Excel, entendendo como ele pode ser útil no dia a dia da análise de dados.",
           "projetos": [
@@ -207,9 +176,14 @@
               "cursos": [
                 {
                   "id": 0,
+                  "status": "NOVIDADE",
                   "nome": "Excel para Análise de Dados: Primeiros Passos para Trabalhar com Dados",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "inicio": "05/06/2025",
+                  "entrega": "23/06/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Navegação e Estrutura; Formatação; Entrada e Edição de Dados; Organização de Dados; Classificação; Fórmulas e Funções Essenciais; Validação de Dados; Gráficos;"
                 }
               ]
             }
@@ -267,9 +241,14 @@
               "cursos": [
                 {
                   "id": 0,
+                  "status": "NOVIDADE",
                   "nome": "Trabalhando com Dados: Fundamentos da Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "inicio": "09/06/2025",
+                  "entrega": "04/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Valquíria Alencar",
+                  "o_que_vai_aprender": "Sendo alinhado com a instrutora."
                 }
               ]
             },
@@ -300,28 +279,26 @@
               "stack": "Power BI",
               "cursos": [
                 {
-                  "id": 3775,
-                  "nome": "Power BI Desktop: construindo meu primeiro dashboard",
-                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
-                  "status": "CARREIRA"
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Analisando dados de forma inteligente",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "09/06/2025",
+                  "entrega": "13/06/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
                 },
                 {
-                  "id": 3776,
-                  "nome": "Power BI Desktop: realizando ETL no Power Query",
-                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3777,
-                  "nome": "Power BI: construindo cálculos com Dax",
-                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3778,
-                  "nome": "Power BI: visualizando e analisando dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
-                  "status": "CARREIRA"
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Conceitos do uso de DAX",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "16/06/2025",
+                  "entrega": "20/06/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
                 }
               ]
             },
@@ -330,9 +307,14 @@
               "cursos": [
                 {
                   "id": 0,
-                  "nome": "Excel para Análise de Dados: Tabelas e Gráficos Essenciais",
+                  "status": "NOVIDADE",
+                  "nome": "Excel para Análise de Dados: Funções, Tabelas e Gráficos",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "inicio": "24/06/2025",
+                  "entrega": "07/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Uso de funções para análise de dados; Organização e Relacionamento de Tabelas; Uso de graficos para representar dados."
                 }
               ]
             }
@@ -404,7 +386,7 @@
               ]
             },
             {
-              "stack": "Excel",
+              "stack": "Microsoft Excel",
               "cursos": [
                 {
                   "id": 4003,
@@ -416,6 +398,35 @@
                   "id": 4009,
                   "nome": "Data Storytelling: criando narrativas com Excel",
                   "link": "https://cursos.alura.com.br/course/data-storytelling-criando-narrativas-excel",
+                  "status": "COMPLEMENTO"
+                }
+              ]
+            },
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 3775,
+                  "nome": "Power BI Desktop: construindo meu primeiro dashboard",
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-construindo-meu-primeiro-dashboard",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3776,
+                  "nome": "Power BI Desktop: realizando ETL no Power Query",
+                  "link": "https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3777,
+                  "nome": "Power BI: construindo cálculos com Dax",
+                  "link": "https://cursos.alura.com.br/course/power-bi-construindo-calculos-dax",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3778,
+                  "nome": "Power BI: visualizando e analisando dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-visualizando-analisando-dados",
                   "status": "COMPLEMENTO"
                 }
               ]
@@ -885,6 +896,22 @@
           ],
           "cursos_acessorios": [
             {
+              "stack": "Microsoft Excel",
+              "cursos": [
+                {
+                  "id": 0,
+                  "nome": "Excel para Análise de Dados: Lógica de Programação com VBA e IA",
+                  "link": "https://cursos.alura.com.br/",
+                  "status": "SUGESTÃO",
+                  "inicio": "19/08/2025",
+                  "entrega": "25/08/2025",
+                  "prioridade": "Baixa",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }
+              ]
+            },
+            {
               "stack": "Praticando Pandas",
               "cursos": [
                 {
@@ -958,21 +985,36 @@
               "cursos": [
                 {
                   "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Excel para Análise de Dados: Tabelas e Gráficos dinâmicos",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "08/07/2025",
+                  "entrega": "21/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Uso de Tabela dinâmica; Criação de Gráficos Dinâmicos; União de tabelas com Gráfico dinâmico; Criação de KPIs e medidas."
+                },
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
                   "nome": "Excel para Análise de Dados: Limpeza e Tratamento de Dados",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "inicio": "22/07/2025",
+                  "entrega": "04/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Funções para limpeza de dados; Recursos avançados para limpeza de dados; Funcionalidades de tratamento de dados"
                 },
                 {
                   "id": 0,
-                  "nome": "Excel para Análise de Dados: Funções e Tabelas Dinâmicas (Análise Descritiva)",
+                  "status": "NOVIDADE",
+                  "nome": "Excel para Análise de Dados: Power Query e Dashboards",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
-                },
-                {
-                  "id": 0,
-                  "nome": "Excel para Análise de Dados: Power Query e Power Pivot",
-                  "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "inicio": "05/08/2025",
+                  "entrega": "18/08/2025",
+                  "prioridade": "Baixa",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Uso de Power Query; Criação de estruturas de Dashboards; Lógica de montagem de um projeto BI"
                 }
               ]
             },
@@ -1184,35 +1226,16 @@
               "stack": "Power BI",
               "cursos": [
                 {
-                  "id": 2788,
-                  "nome": "Power BI: modelagem de dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 2816,
-                  "nome": "Power BI: aplicando DAX ao negócio",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 2673,
-                  "nome": "Power BI: DAX contextos e iteração",
-                  "link": "https://cursos.alura.com.br/course/power-bi-dax-contextos-iteracao",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 3139,
-                  "nome": "Power BI: aprofundando na linguagem DAX",
-                  "link": "https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax",
-                  "status": "CARREIRA"
-                },
-                {
-                  "id": 2952,
-                  "nome": "Power BI: criando visuais customizados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-criando-visuais-customizados",
-                  "status": "CARREIRA"
-                }
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Storyteling com Dados - Técnicas de visualização",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "23/06/2025",
+                  "entrega": "27/06/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }                
               ]
             },
             {
@@ -1235,6 +1258,36 @@
                   "id": 2672,
                   "nome": "Power BI: mergulhando na linguagem M",
                   "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2788,
+                  "nome": "Power BI: modelagem de dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2816,
+                  "nome": "Power BI: aplicando DAX ao negócio",
+                  "link": "https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2673,
+                  "nome": "Power BI: DAX contextos e iteração",
+                  "link": "https://cursos.alura.com.br/course/power-bi-dax-contextos-iteracao",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 3139,
+                  "nome": "Power BI: aprofundando na linguagem DAX",
+                  "link": "https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax",
+                  "status": "COMPLEMENTO"
+                },
+                {
+                  "id": 2952,
+                  "nome": "Power BI: criando visuais customizados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-criando-visuais-customizados",
                   "status": "COMPLEMENTO"
                 },
                 {
@@ -1551,11 +1604,15 @@
               "cursos": [
                 {
                   "id": 0,
-                  "nome": "Desenvolvimento de Projeto de Análise de Dados Completo",
                   "status": "NOVIDADE",
+                  "nome": "Desenvolvimento de Projeto de Análise de Dados Completo",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Para aplicar de forma prática todos os conceitos aprendidos durante o nível iniciante, é essencial realizar um projeto que integre todas as fases do processo de análise de dados.",
-                  "o_que_vai_aprender": "Os alunos aprenderão a conduzir um projeto de análise de dados do início ao fim, incluindo a coleta, limpeza, análise, visualização dos dados e a comunicação dos resultados de forma eficaz."
+                  "o_que_vai_aprender": "Os alunos aprenderão a conduzir um projeto de análise de dados do início ao fim, incluindo a coleta, limpeza, análise, visualização dos dados e a comunicação dos resultados de forma eficaz.",
+                  "inicio": "09/06/2025",
+                  "entrega": "22/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Rodigo Dias"
                 }
               ]
             }
@@ -1602,6 +1659,33 @@
             "Pandas"
           ],
           "cursos": [
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Formas de conexão à fontes de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "30/06/2025",
+                  "entrega": "04/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                },
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Modelagem de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "07/07/2025",
+                  "entrega": "11/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }                
+              ]
+            },
             {
               "stack": "Python",
               "cursos": [
@@ -1751,6 +1835,22 @@
             "Google Cloud Console"
           ],
           "cursos": [
+            {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI Service: Compartilhamento e segurança de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "14/07/2025",
+                  "entrega": "18/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }                
+              ]
+            },
             {
               "stack": "Google BigQuery",
               "cursos": [
@@ -1919,13 +2019,13 @@
                   "id": 0,
                   "nome": "Power Automate: Automatizando tarefas de um analista de dados",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "status": "SUGESTÃO"
                 },
                 {
                   "id": 0,
                   "nome": "n8n: Coleta automatizada de dados externos",
                   "link": "https://cursos.alura.com.br/",
-                  "status": "NOVIDADE"
+                  "status": "SUGESTÃO"
                 }
               ]
             }
@@ -1966,11 +2066,15 @@
               "cursos": [
                 {
                   "id": 0,
-                  "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
                   "status": "NOVIDADE",
+                  "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso guia os alunos na criação de um projeto de análise de dados do início ao fim, usando técnicas intermediárias, consolidando seu aprendizado até este ponto da trilha.",
-                  "o_que_vai_aprender": "Os alunos aprenderão a planejar, executar e documentar um projeto de análise de dados completo, incluindo a coleta de dados, aplicação de técnicas de análise estatística e apresentação de resultados."
+                  "o_que_vai_aprender": "Os alunos aprenderão a planejar, executar e documentar um projeto de análise de dados completo, incluindo a coleta de dados, aplicação de técnicas de análise estatística e apresentação de resultados.",
+                  "inicio": "07/07/2025",
+                  "entrega": "22/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Rodigo Dias"
                 }
               ]
             }
@@ -2267,12 +2371,47 @@
           ],
           "cursos": [
             {
+              "stack": "Power BI",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Power BI: Análises avançadas com DAX",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "21/07/2025",
+                  "entrega": "25/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }
+              ]
+            },
+            {
+              "stack": "Empreendedorismo e Consultoria",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Empreendedorismo e Consultoria em Análise de Dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "justificativa": "Este curso complementa as habilidades de análise de dados com conhecimentos específicos sobre empreendedorismo, ajudando profissionais a transformar suas ideias em negócios viáveis.",
+                  "o_que_vai_aprender": "Os alunos aprenderão sobre como validar ideias de negócios baseadas em dados, desenvolver modelos de negócios, e estratégias de marketing digital para promover seus serviços ou produtos.",
+                  "inicio": "17/06/2025",
+                  "entrega": "20/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "André Santana"
+                }
+              ]
+            }
+          ],
+          "cursos_acessorios": [
+            {
               "stack": "Estratégias Data-Driven",
               "cursos": [
                 {
                   "id": 0,
                   "nome": "Estratégias Data-Driven: Do Planejamento à Execução",
-                  "status": "NOVIDADE",
+                  "status": "SUGESTÃO",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Ensina a elaborar e implementar estratégias baseadas em dados, uma habilidade crucial para líderes que precisam guiar suas equipes para alcançar resultados alinhados aos objetivos organizacionais.",
                   "o_que_vai_aprender": "Identificação de oportunidades estratégicas com dados, desenvolvimento de roadmap de dados e comunicação de estratégias data-driven para stakeholders."
@@ -2285,28 +2424,13 @@
                 {
                   "id": 0,
                   "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
-                  "status": "NOVIDADE",
+                  "status": "SUGESTÃO",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Para garantir que os analistas de dados possam criar apresentações que não apenas informem, mas também inspirem ação, é essencial dominar técnicas avançadas de storytelling com dados.",
                   "o_que_vai_aprender": "- Storytelling com Dados: Técnicas Avançadas: Os alunos aprenderão a aplicar técnicas avançadas de narrativa em dados, como estruturar histórias de dados impactantes e adaptar a mensagem a diferentes públicos.; - Comunicação Executiva para Análise de Dado: Os alunos vão adquirir habilidades para comunicar de forma eficaz com executivos, focando em clareza, concisão e relevância das informações apresentadas.; - Visualização de Dados para Alta Gestão: Os alunos aprenderão a criar visualizações de dados que destacam insights críticos e suportam narrativas estratégicas para audiências executivas."
                 }
               ]
             },
-            {
-              "stack": "Empreendedorismo e Consultoria",
-              "cursos": [
-                {
-                  "id": 0,
-                  "nome": "Empreendedorismo e Consultoria em Análise de Dados",
-                  "status": "NOVIDADE",
-                  "link": "https://cursos.alura.com.br/",
-                  "justificativa": "Este curso complementa as habilidades de análise de dados com conhecimentos específicos sobre empreendedorismo, ajudando profissionais a transformar suas ideias em negócios viáveis.",
-                  "o_que_vai_aprender": "Os alunos aprenderão sobre como validar ideias de negócios baseadas em dados, desenvolver modelos de negócios, e estratégias de marketing digital para promover seus serviços ou produtos."
-                }
-              ]
-            }
-          ],
-          "cursos_acessorios": [
             {
               "stack": "Gestão e Liderança",
               "cursos": [
@@ -2401,11 +2525,15 @@
               "cursos": [
                 {
                   "id": 0,
-                  "nome": "Desenvolvimento de Projeto Completo em Dados",
                   "status": "NOVIDADE",
+                  "nome": "Desenvolvimento de Projeto Completo em Dados",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso permitirá que os alunos integrem todo o conhecimento adquirido em um projeto prático e aplicável, refletindo um caso real de mercado.",
-                  "o_que_vai_aprender": "Os alunos aprenderão a definir problemas de dados, coletar e processar dados, realizar análises exploratórias, construir modelos e apresentar resultados de maneira profissional."
+                  "o_que_vai_aprender": "Os alunos aprenderão a definir problemas de dados, coletar e processar dados, realizar análises exploratórias, construir modelos e apresentar resultados de maneira profissional.",
+                  "inicio": "21/07/2025",
+                  "entrega": "22/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Rodigo Dias"
                 }
               ]
             }
