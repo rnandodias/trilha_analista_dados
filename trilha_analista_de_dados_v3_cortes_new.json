@@ -175,8 +175,21 @@
               "stack": "Microsoft Excel",
               "cursos": [
                 {
+                  "id": 3195,
+                  "nome": "Excel: domine o editor de planilhas",
+                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas",
+                  "status": "CARREIRA"
+                }
+              ]
+            }
+          ],
+          "cursos_acessorios": [
+            {
+              "stack": "Microsoft Excel - Sugestão do Instrutor Externo",
+              "cursos": [
+                {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "SUGESTÃO",
                   "nome": "Excel para Análise de Dados: Primeiros Passos para Trabalhar com Dados",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "05/06/2025",
@@ -189,7 +202,6 @@
             }
           ]
         }
-
       ]
     },
     {
@@ -248,7 +260,8 @@
                   "entrega": "04/07/2025",
                   "prioridade": "Alta",
                   "instrutor": "Valquíria Alencar",
-                  "o_que_vai_aprender": "Sendo alinhado com a instrutora."
+                  "o_que_vai_aprender": "Sendo alinhado com a instrutora.",
+                  "valor": 2000
                 }
               ]
             },
@@ -287,7 +300,8 @@
                   "entrega": "13/06/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 },
                 {
                   "id": 0,
@@ -298,7 +312,8 @@
                   "entrega": "20/06/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 }
               ]
             },
@@ -310,11 +325,12 @@
                   "status": "NOVIDADE",
                   "nome": "Excel para Análise de Dados: Funções, Tabelas e Gráficos",
                   "link": "https://cursos.alura.com.br/",
-                  "inicio": "24/06/2025",
-                  "entrega": "07/07/2025",
+                  "inicio": "05/06/2025",
+                  "entrega": "23/06/2025",
                   "prioridade": "Alta",
                   "instrutor": "Roberto Sabino",
-                  "o_que_vai_aprender": "Uso de funções para análise de dados; Organização e Relacionamento de Tabelas; Uso de graficos para representar dados."
+                  "o_que_vai_aprender": "Uso de funções para análise de dados; Organização e Relacionamento de Tabelas; Uso de graficos para representar dados.",
+                  "valor": 8500
                 }
               ]
             }
@@ -457,12 +473,6 @@
             {
               "stack": "Formação Excel",
               "cursos": [
-                {
-                  "id": 3195,
-                  "nome": "Excel: domine o editor de planilhas",
-                  "link": "https://cursos.alura.com.br/course/excel-domine-editor-planilhas",
-                  "status": "COMPLEMENTO"
-                },
                 {
                   "id": 3196,
                   "nome": "Funções com Excel: operações matemáticas e filtros",
@@ -896,15 +906,15 @@
           ],
           "cursos_acessorios": [
             {
-              "stack": "Microsoft Excel",
+              "stack": "Microsoft Excel - Sugestão do Instrutor Externo",
               "cursos": [
                 {
                   "id": 0,
                   "nome": "Excel para Análise de Dados: Lógica de Programação com VBA e IA",
                   "link": "https://cursos.alura.com.br/",
                   "status": "SUGESTÃO",
-                  "inicio": "19/08/2025",
-                  "entrega": "25/08/2025",
+                  "inicio": "",
+                  "entrega": "",
                   "prioridade": "Baixa",
                   "instrutor": "Roberto Sabino",
                   "o_que_vai_aprender": "Sendo alinhado com o instrutor."
@@ -986,35 +996,14 @@
                 {
                   "id": 0,
                   "status": "NOVIDADE",
-                  "nome": "Excel para Análise de Dados: Tabelas e Gráficos dinâmicos",
-                  "link": "https://cursos.alura.com.br/",
-                  "inicio": "08/07/2025",
-                  "entrega": "21/07/2025",
-                  "prioridade": "Alta",
-                  "instrutor": "Roberto Sabino",
-                  "o_que_vai_aprender": "Uso de Tabela dinâmica; Criação de Gráficos Dinâmicos; União de tabelas com Gráfico dinâmico; Criação de KPIs e medidas."
-                },
-                {
-                  "id": 0,
-                  "status": "NOVIDADE",
                   "nome": "Excel para Análise de Dados: Limpeza e Tratamento de Dados",
                   "link": "https://cursos.alura.com.br/",
-                  "inicio": "22/07/2025",
-                  "entrega": "04/08/2025",
+                  "inicio": "24/06/2025",
+                  "entrega": "07/07/2025",
                   "prioridade": "Alta",
                   "instrutor": "Roberto Sabino",
-                  "o_que_vai_aprender": "Funções para limpeza de dados; Recursos avançados para limpeza de dados; Funcionalidades de tratamento de dados"
-                },
-                {
-                  "id": 0,
-                  "status": "NOVIDADE",
-                  "nome": "Excel para Análise de Dados: Power Query e Dashboards",
-                  "link": "https://cursos.alura.com.br/",
-                  "inicio": "05/08/2025",
-                  "entrega": "18/08/2025",
-                  "prioridade": "Baixa",
-                  "instrutor": "Roberto Sabino",
-                  "o_que_vai_aprender": "Uso de Power Query; Criação de estruturas de Dashboards; Lógica de montagem de um projeto BI"
+                  "o_que_vai_aprender": "Funções para limpeza de dados; Recursos avançados para limpeza de dados; Funcionalidades de tratamento de dados",
+                  "valor": 8500
                 }
               ]
             },
@@ -1043,6 +1032,33 @@
             }
           ],
           "cursos_acessorios": [
+            {
+              "stack": "Microsoft Excel - Sugestão do Instrutor Externo",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "SUGESTÃO",
+                  "nome": "Excel para Análise de Dados: Tabelas e Gráficos dinâmicos",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "",
+                  "entrega": "",
+                  "prioridade": "Alta",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Uso de Tabela dinâmica; Criação de Gráficos Dinâmicos; União de tabelas com Gráfico dinâmico; Criação de KPIs e medidas."
+                },
+                {
+                  "id": 0,
+                  "status": "SUGESTÃO",
+                  "nome": "Excel para Análise de Dados: Power Query e Dashboards",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "",
+                  "entrega": "",
+                  "prioridade": "Baixa",
+                  "instrutor": "Roberto Sabino",
+                  "o_que_vai_aprender": "Uso de Power Query; Criação de estruturas de Dashboards; Lógica de montagem de um projeto BI"
+                }
+              ]
+            },
             {
               "stack": "Formação Excel",
               "cursos": [
@@ -1234,7 +1250,8 @@
                   "entrega": "27/06/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 }                
               ]
             },
@@ -1258,12 +1275,6 @@
                   "id": 2672,
                   "nome": "Power BI: mergulhando na linguagem M",
                   "link": "https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m",
-                  "status": "COMPLEMENTO"
-                },
-                {
-                  "id": 2788,
-                  "nome": "Power BI: modelagem de dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
                   "status": "COMPLEMENTO"
                 },
                 {
@@ -1612,7 +1623,8 @@
                   "inicio": "09/06/2025",
                   "entrega": "22/08/2025",
                   "prioridade": "Alta",
-                  "instrutor": "Rodigo Dias"
+                  "instrutor": "Rodigo Dias",
+                  "valor": 0
                 }
               ]
             }
@@ -1671,19 +1683,15 @@
                   "entrega": "04/07/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 },
                 {
-                  "id": 0,
-                  "status": "NOVIDADE",
-                  "nome": "Power BI: Modelagem de dados",
-                  "link": "https://cursos.alura.com.br/",
-                  "inicio": "07/07/2025",
-                  "entrega": "11/07/2025",
-                  "prioridade": "Alta",
-                  "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
-                }                
+                  "id": 2788,
+                  "nome": "Power BI: modelagem de dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
+                  "status": "CARREIRA"
+                }
               ]
             },
             {
@@ -1699,6 +1707,22 @@
             }
           ],
           "cursos_acessorios": [
+            {
+              "stack": "Power BI - Sugestão do Instrutor Externo",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "SUGESTÃO",
+                  "nome": "Power BI: Modelagem de dados",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "07/07/2025",
+                  "entrega": "11/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Henrique Frizo",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                }                
+              ]
+            },
             {
               "stack": "Python",
               "cursos": [
@@ -1843,11 +1867,12 @@
                   "status": "NOVIDADE",
                   "nome": "Power BI Service: Compartilhamento e segurança de dados",
                   "link": "https://cursos.alura.com.br/",
-                  "inicio": "14/07/2025",
-                  "entrega": "18/07/2025",
+                  "inicio": "07/07/2025",
+                  "entrega": "11/07/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 }                
               ]
             },
@@ -2074,7 +2099,8 @@
                   "inicio": "07/07/2025",
                   "entrega": "22/08/2025",
                   "prioridade": "Alta",
-                  "instrutor": "Rodigo Dias"
+                  "instrutor": "Rodigo Dias",
+                  "valor": 0
                 }
               ]
             }
@@ -2378,11 +2404,12 @@
                   "status": "NOVIDADE",
                   "nome": "Power BI: Análises avançadas com DAX",
                   "link": "https://cursos.alura.com.br/",
-                  "inicio": "21/07/2025",
-                  "entrega": "25/07/2025",
+                  "inicio": "14/07/2025",
+                  "entrega": "18/07/2025",
                   "prioridade": "Alta",
                   "instrutor": "Henrique Frizo",
-                  "o_que_vai_aprender": "Sendo alinhado com o instrutor."
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 8500
                 }
               ]
             },
@@ -2399,7 +2426,8 @@
                   "inicio": "17/06/2025",
                   "entrega": "20/08/2025",
                   "prioridade": "Alta",
-                  "instrutor": "André Santana"
+                  "instrutor": "André Santana",
+                  "valor": 0
                 }
               ]
             }
@@ -2533,7 +2561,8 @@
                   "inicio": "21/07/2025",
                   "entrega": "22/08/2025",
                   "prioridade": "Alta",
-                  "instrutor": "Rodigo Dias"
+                  "instrutor": "Rodigo Dias",
+                  "valor": 0
                 }
               ]
             }
