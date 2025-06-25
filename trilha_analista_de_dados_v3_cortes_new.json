@@ -252,7 +252,7 @@
               "stack": "Análise de Dados",
               "cursos": [
                 {
-                  "id": 0,
+                  "id": 4892,
                   "status": "NOVIDADE",
                   "nome": "Trabalhando com Dados: Fundamentos da Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
@@ -2414,6 +2414,57 @@
               ]
             },
             {
+              "stack": "Gestão",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Gestão de Projetos de Dados com Metodologias Ágeis",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "01/09/2025",
+                  "entrega": "30/09/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Allan Henrique",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 3200
+                }
+              ]
+            },
+            {
+              "stack": "Estratégias Data-Driven",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Estratégias Data-Driven: Do Planejamento à Execução",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "01/07/2025",
+                  "entrega": "31/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Allan Henrique",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 2400
+                }
+              ]
+            },
+            {
+              "stack": "Técnicas Avançadas de Storytelling com Dados",
+              "cursos": [
+                {
+                  "id": 0,
+                  "status": "NOVIDADE",
+                  "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "01/08/2025",
+                  "entrega": "31/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Allan Henrique",
+                  "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
+                  "valor": 2400
+                }
+              ]
+            },
+            {
               "stack": "Empreendedorismo e Consultoria",
               "cursos": [
                 {
@@ -2434,42 +2485,8 @@
           ],
           "cursos_acessorios": [
             {
-              "stack": "Estratégias Data-Driven",
-              "cursos": [
-                {
-                  "id": 0,
-                  "nome": "Estratégias Data-Driven: Do Planejamento à Execução",
-                  "status": "SUGESTÃO",
-                  "link": "https://cursos.alura.com.br/",
-                  "justificativa": "Ensina a elaborar e implementar estratégias baseadas em dados, uma habilidade crucial para líderes que precisam guiar suas equipes para alcançar resultados alinhados aos objetivos organizacionais.",
-                  "o_que_vai_aprender": "Identificação de oportunidades estratégicas com dados, desenvolvimento de roadmap de dados e comunicação de estratégias data-driven para stakeholders."
-                }
-              ]
-            },
-            {
-              "stack": "Técnicas Avançadas de Storytelling com Dados",
-              "cursos": [
-                {
-                  "id": 0,
-                  "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
-                  "status": "SUGESTÃO",
-                  "link": "https://cursos.alura.com.br/",
-                  "justificativa": "Para garantir que os analistas de dados possam criar apresentações que não apenas informem, mas também inspirem ação, é essencial dominar técnicas avançadas de storytelling com dados.",
-                  "o_que_vai_aprender": "- Storytelling com Dados: Técnicas Avançadas: Os alunos aprenderão a aplicar técnicas avançadas de narrativa em dados, como estruturar histórias de dados impactantes e adaptar a mensagem a diferentes públicos.; - Comunicação Executiva para Análise de Dado: Os alunos vão adquirir habilidades para comunicar de forma eficaz com executivos, focando em clareza, concisão e relevância das informações apresentadas.; - Visualização de Dados para Alta Gestão: Os alunos aprenderão a criar visualizações de dados que destacam insights críticos e suportam narrativas estratégicas para audiências executivas."
-                }
-              ]
-            },
-            {
               "stack": "Gestão e Liderança",
               "cursos": [
-                {
-                  "id": 0,
-                  "nome": "Gestão de Projetos de Dados com Metodologias Ágeis",
-                  "status": "COMPLEMENTO",
-                  "link": "https://cursos.alura.com.br/",
-                  "justificativa": "Aprofunda o uso de metodologias ágeis em projetos de dados, essenciais para a liderança eficaz e para a adaptação rápida às mudanças nas demandas de dados.",
-                  "o_que_vai_aprender": "Implementação de metodologias ágeis como Scrum e Kanban em contextos de dados, técnicas de facilitação de reuniões ágeis e gestão de backlog de dados."
-                },
                 {
                   "id": 0,
                   "nome": "Liderança e Comunicação Eficaz em Projetos de Dados",
