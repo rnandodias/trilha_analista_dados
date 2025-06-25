@@ -2417,16 +2417,16 @@
               "stack": "Gestão",
               "cursos": [
                 {
-                  "id": 0,
-                  "status": "NOVIDADE",
-                  "nome": "Gestão de Projetos de Dados com Metodologias Ágeis",
+                  "id": 4811,
+                  "status": "PRODUZINDO",
+                  "nome": "Metodologia ágil para Cientistas de dados",
                   "link": "https://cursos.alura.com.br/",
-                  "inicio": "01/09/2025",
-                  "entrega": "30/09/2025",
+                  "inicio": "23/06/2025",
+                  "entrega": "08/08/2025",
                   "prioridade": "Alta",
-                  "instrutor": "Allan Henrique",
+                  "instrutor": "Jenifer Lima Vieira",
                   "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
-                  "valor": 3200
+                  "valor": 0
                 }
               ]
             },
