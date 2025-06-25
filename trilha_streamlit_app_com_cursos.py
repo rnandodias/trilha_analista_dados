@@ -130,6 +130,8 @@ for etapa in trilha["ementa"]:
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: green; color: white; border-radius: 4px; font-size: 10px;'>CARREIRA</div>"
                             elif status == "COMPLEMENTO":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: orange; color: black; border-radius: 4px; font-size: 10px;'>COMPLEMENTO</div>"
+                            elif status == "PRODUZINDO":
+                                badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: blue; color: white; border-radius: 4px; font-size: 10px;'>PRODUZINDO</div>"
                             elif status == "ATIVO":
                                 badge_html = "<div style='margin-top: 4px; padding: 2px 6px; background-color: blue; color: white; border-radius: 4px; font-size: 10px;'>ATIVO</div>"
                             elif status == "SUGESTÃO":
@@ -137,7 +139,7 @@ for etapa in trilha["ementa"]:
 
                             if link:
                                 slug = link.rstrip("/").split("/")[-1]
-                                if status == "NOVIDADE" or status == "SUGESTÃO":
+                                if status == "NOVIDADE" or status == "SUGESTÃO" or status == "PRODUZINDO":
                                     img_url = f"https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg"
                                 else:
                                     img_url = f"https://www.alura.com.br/assets/api/cursos/{slug}.svg"

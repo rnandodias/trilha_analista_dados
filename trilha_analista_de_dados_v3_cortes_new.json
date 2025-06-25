@@ -253,7 +253,7 @@
               "cursos": [
                 {
                   "id": 4892,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Trabalhando com Dados: Fundamentos da Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "09/06/2025",
@@ -293,7 +293,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI: Analisando dados de forma inteligente",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "09/06/2025",
@@ -305,7 +305,7 @@
                 },
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI: Conceitos do uso de DAX",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "16/06/2025",
@@ -322,7 +322,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Excel para Análise de Dados: Funções, Tabelas e Gráficos",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "05/06/2025",
@@ -995,7 +995,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Excel para Análise de Dados: Limpeza e Tratamento de Dados",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "24/06/2025",
@@ -1243,7 +1243,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI: Storyteling com Dados - Técnicas de visualização",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "23/06/2025",
@@ -1615,7 +1615,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Desenvolvimento de Projeto de Análise de Dados Completo",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Para aplicar de forma prática todos os conceitos aprendidos durante o nível iniciante, é essencial realizar um projeto que integre todas as fases do processo de análise de dados.",
@@ -1676,7 +1676,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI: Formas de conexão à fontes de dados",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "30/06/2025",
@@ -1864,7 +1864,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI Service: Compartilhamento e segurança de dados",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "07/07/2025",
@@ -2091,7 +2091,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso guia os alunos na criação de um projeto de análise de dados do início ao fim, usando técnicas intermediárias, consolidando seu aprendizado até este ponto da trilha.",
@@ -2401,7 +2401,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Power BI: Análises avançadas com DAX",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "14/07/2025",
@@ -2469,7 +2469,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Empreendedorismo e Consultoria em Análise de Dados",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso complementa as habilidades de análise de dados com conhecimentos específicos sobre empreendedorismo, ajudando profissionais a transformar suas ideias em negócios viáveis.",
@@ -2570,7 +2570,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Desenvolvimento de Projeto Completo em Dados",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso permitirá que os alunos integrem todo o conhecimento adquirido em um projeto prático e aplicável, refletindo um caso real de mercado.",
