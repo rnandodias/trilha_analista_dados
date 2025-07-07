@@ -262,6 +262,30 @@
                   "instrutor": "Valquíria Alencar",
                   "o_que_vai_aprender": "Sendo alinhado com a instrutora.",
                   "valor": 2000
+                },
+                {
+                  "id": 0,
+                  "status": "PRODUZINDO",
+                  "nome": "Trabalhando com Dados: Fundamentos de Business Intelligence",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "07/07/2025",
+                  "entrega": "25/07/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Elyatan de Souza Venceslau",
+                  "o_que_vai_aprender": "Sendo alinhado com a instrutora.",
+                  "valor": 4000
+                },
+                {
+                  "id": 0,
+                  "status": "PRODUZINDO",
+                  "nome": "Trabalhando com Dados: Modelagem de Dados Profissional",
+                  "link": "https://cursos.alura.com.br/",
+                  "inicio": "28/07/2025",
+                  "entrega": "15/08/2025",
+                  "prioridade": "Alta",
+                  "instrutor": "Elyatan de Souza Venceslau",
+                  "o_que_vai_aprender": "Sendo alinhado com a instrutora.",
+                  "valor": 4800
                 }
               ]
             },
@@ -1614,9 +1638,9 @@
               "stack": "Checkpoint",
               "cursos": [
                 {
-                  "id": 0,
+                  "id": 4898,
                   "status": "PRODUZINDO",
-                  "nome": "Desenvolvimento de Projeto de Análise de Dados Completo",
+                  "nome": "Projeto de Análise de Dados: Checkpoint Nível Iniciante",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Para aplicar de forma prática todos os conceitos aprendidos durante o nível iniciante, é essencial realizar um projeto que integre todas as fases do processo de análise de dados.",
                   "o_que_vai_aprender": "Os alunos aprenderão a conduzir um projeto de análise de dados do início ao fim, incluindo a coleta, limpeza, análise, visualização dos dados e a comunicação dos resultados de forma eficaz.",
@@ -2090,9 +2114,9 @@
               "stack": "Checkpoint",
               "cursos": [
                 {
-                  "id": 0,
+                  "id": 4901,
                   "status": "PRODUZINDO",
-                  "nome": "Desenvolvimento de Projeto Completo em Análise de Dados",
+                  "nome": "Projeto de Análise de Dados: Checkpoint Nível Intermediário",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso guia os alunos na criação de um projeto de análise de dados do início ao fim, usando técnicas intermediárias, consolidando seu aprendizado até este ponto da trilha.",
                   "o_que_vai_aprender": "Os alunos aprenderão a planejar, executar e documentar um projeto de análise de dados completo, incluindo a coleta de dados, aplicação de técnicas de análise estatística e apresentação de resultados.",
@@ -2100,7 +2124,7 @@
                   "entrega": "22/08/2025",
                   "prioridade": "Alta",
                   "instrutor": "Viviane Martins",
-                  "valor": 4000
+                  "valor": 4800
                 }
               ]
             }
@@ -2569,9 +2593,9 @@
               "stack": "Checkpoint",
               "cursos": [
                 {
-                  "id": 0,
+                  "id": 4903,
                   "status": "PRODUZINDO",
-                  "nome": "Desenvolvimento de Projeto Completo em Dados",
+                  "nome": "Projeto de Análise de Dados: Checkpoint Nível Avançado",
                   "link": "https://cursos.alura.com.br/",
                   "justificativa": "Este curso permitirá que os alunos integrem todo o conhecimento adquirido em um projeto prático e aplicável, refletindo um caso real de mercado.",
                   "o_que_vai_aprender": "Os alunos aprenderão a definir problemas de dados, coletar e processar dados, realizar análises exploratórias, construir modelos e apresentar resultados de maneira profissional.",
