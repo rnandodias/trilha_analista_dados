@@ -12,7 +12,7 @@
       "blocos_tematicos": [
         {
           "nome": "Introdução à Programação",
-          "descricao": "Este bloco introduz os fundamentos da programação utilizando Python, com foco em sua aplicação na ciência de dados. Os alunos aprenderão sobre lógica de programação, estruturas de controle, funções, manipulação de dados com listas, tuplas e dicionários, além do tratamento de exceções. O objetivo é capacitar o aluno a manipular dados e automatizar tarefas, preparando-o para análises mais complexas.",
+          "descricao": "Este bloco introduz os fundamentos da programação utilizando Python, com foco em sua aplicação na área de dados. Os alunos aprenderão sobre lógica de programação, estruturas de controle, funções, manipulação de dados com listas, tuplas e dicionários, além do tratamento de exceções. O objetivo é capacitar o aluno a manipular dados e automatizar tarefas, preparando-o para análises mais complexas.",
           "projetos": [
             "Análise Básica de Dados com Python",
             "Manipulação Avançada de Estruturas de Dados"
@@ -71,7 +71,7 @@
         },
         {
           "nome": "Fundamentos Matemáticos e Estatísticos Básicos",
-          "descricao": "Este bloco oferece uma introdução aos conceitos fundamentais de matemática e estatística aplicados à análise de dados. Os alunos explorarão tópicos como médias, medianas, distribuições, estatísticas descritivas e probabilidade básica. O objetivo é estabelecer uma base sólida para interpretar dados e compreender gráficos e resumos numéricos, utilizando ferramentas como Excel, Python ou R.",
+          "descricao": "Este bloco oferece uma introdução aos conceitos fundamentais de matemática e estatística aplicados à análise de dados. Os alunos explorarão tópicos como médias, medianas, distribuições e demais estatísticas descritivas. O objetivo é estabelecer uma base sólida para interpretar dados e compreender gráficos e resumos numéricos.",
           "projetos": [
             "Análise Descritiva Simples em Planilha"
           ],
@@ -87,10 +87,7 @@
             "Comunicação precisa de resultados quantitativos"
           ],
           "ferramentas_principais": [
-            "Excel",
-            "Google Sheets",
             "Python",
-            "R",
             "Google Colab"
           ],
           "cursos": [
@@ -220,7 +217,7 @@
       "blocos_tematicos": [
         {
           "nome": "Primeiros Passos na Carreira de Analista de Dados",
-          "descricao": "Este bloco é projetado para introduzir os alunos aos conceitos fundamentais da análise de dados. Com um foco em desenvolver habilidades para interpretar tabelas, gráficos e resumos estatísticos, os alunos aprenderão a explorar, organizar e extrair insights acionáveis de dados reais. O objetivo é fomentar a curiosidade e o pensamento analítico, utilizando ferramentas amplamente empregadas no mercado.",
+          "descricao": "Este bloco proporciona uma introdução integrada às principais técnicas de análise de dados e ao uso das ferramentas mais relevantes do mercado. O aluno aprende a organizar, interpretar e apresentar informações a partir de dados reais, desenvolvendo tanto competências práticas em Excel, SQL e Power BI quanto o raciocínio analítico necessário para aplicar conceitos de modelagem, exploração e visualização de dados. O objetivo é oferecer uma base sólida e aplicada, conectando teoria e prática para quem está iniciando na área.",
           "projetos": [
             "Exploração de Bases de Dados Públicas",
             "Análise Exploratória Básica com Excel",
@@ -243,8 +240,9 @@
           "ferramentas_principais": [
             "Excel",
             "GitHub",
-            "Google Drive",
-            "Notion",
+            "Modelagem",
+            "Power BI",
+            "SQLite",
             "Ferramentas de IA"
           ],
           "cursos": [
@@ -338,6 +336,12 @@
                   "instrutor": "Henrique Frizo",
                   "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
                   "valor": 8500
+                },
+                {
+                  "id": 2788,
+                  "nome": "Power BI: modelagem de dados",
+                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
+                  "status": "CARREIRA"
                 }
               ]
             },
@@ -878,7 +882,7 @@
         },
         {
           "nome": "Introdução à Programação para Análise de Dados",
-          "descricao": "Este bloco apresenta os fundamentos indispensáveis da programação orientada à análise de dados, permitindo aos alunos escolher entre Python ou R como linguagem principal. Com foco em operações essenciais de manipulação de dados, os cursos cobrem desde a leitura de arquivos CSV até transformações complexas e visualizações interativas de dados, utilizando bibliotecas populares como pandas para Python e dplyr/tidyverse para R.",
+          "descricao": "Este bloco apresenta os fundamentos indispensáveis da programação orientada à análise de dados, permitindo aos alunos aprofundar seus conhecimento em Python. Com foco em operações essenciais de manipulação de dados, os cursos cobrem desde a leitura de arquivos CSV até transformações complexas e visualizações interativas de dados, utilizando bibliotecas populares como pandas.",
           "projetos": [
             "Análise de dados de aluguéis de imóveis usando pandas.",
             "Manipulação de datasets de transações comerciais em R.",
@@ -897,11 +901,8 @@
           ],
           "ferramentas_principais": [
             "Python",
-            "R",
             "Pandas",
-            "Plotly",
-            "Google Colab",
-            "VS Code"
+            "Google Colab"
           ],
           "cursos": [
             {
@@ -983,7 +984,7 @@
         },
         {
           "nome": "Limpeza, Transformação e Descrição de Dados",
-          "descricao": "O bloco Limpeza e Transformação de Dados capacita os alunos a aplicar técnicas de data wrangling para garantir a qualidade e a consistência dos dados, preparando-os para análises avançadas. Os cursos abordam o uso de bibliotecas como Pandas e Tidyverse para identificar e tratar valores ausentes, normalizar e transformar variáveis, manipular dados textuais e temporais, e unir diferentes conjuntos de dados.",
+          "descricao": "Neste bloco, o aluno aprende as etapas fundamentais de preparação dos dados para análise, incluindo a limpeza, transformação e descrição das informações. São apresentadas técnicas práticas para identificar e corrigir inconsistências, tratar dados ausentes, organizar e transformar conjuntos de dados utilizando tanto Excel quanto Python com a biblioteca Pandas. Além disso, o estudante desenvolve a capacidade de resumir e analisar dados de forma descritiva, estabelecendo uma base sólida para análises mais avançadas e garantindo a qualidade dos dados em projetos do dia a dia.",
           "projetos": [
             "Limpando dados de pesquisa",
             "Limpeza e análise inicial de dados",
@@ -1007,11 +1008,9 @@
           ],
           "ferramentas_principais": [
             "Python",
-            "R",
             "Pandas",
-            "Tidyverse",
             "Google Colab",
-            "Jupyter Notebook"
+            "Excel"
           ],
           "cursos": [
             {
@@ -1237,7 +1236,7 @@
         },
         {
           "nome": "Visualização de Dados e Dashboards",
-          "descricao": "Este bloco temático capacita os alunos a dominar a criação de visualizações e dashboards interativos usando o Microsoft Power BI. Os cursos cobrem desde a manipulação de dados com a linguagem M e DAX até a criação de visuais customizados, integrando Python para análises financeiras avançadas. Os alunos aprenderão a aplicar boas práticas de design e a comunicar insights de dados de forma clara e eficaz.",
+          "descricao": "Este bloco apresenta os princípios básicos de visualização de dados e construção de dashboards, fundamentais para comunicar resultados de forma clara e impactante. O aluno aprende a criar gráficos e relatórios utilizando Power BI e bibliotecas Python, explorando boas práticas de storytelling com dados. O objetivo é desenvolver a capacidade de transformar análises em apresentações visuais que facilitam a tomada de decisões e tornam as informações acessíveis para diferentes públicos.",
           "projetos": [
             "Dashboard inicial de vendas no Power BI",
             "Relatório interativo de indicadores de RH",
@@ -1256,10 +1255,7 @@
           ],
           "ferramentas_principais": [
             "Power BI",
-            "Linguagem M",
-            "DAX",
-            "Python",
-            "Power Query"
+            "Python"
           ],
           "cursos": [
             {
@@ -1627,7 +1623,6 @@
             "Excel",
             "Power BI",
             "Python",
-            "R",
             "SQL",
             "Google Colab",
             "VS Code",
@@ -1672,7 +1667,7 @@
       "blocos_tematicos": [
         {
           "nome": "Coleta de Dados em Fontes Externas",
-          "descricao": "Explore técnicas essenciais para coletar dados de fontes externas, incluindo consumo de APIs REST e web scraping. Aprenda a acessar, transformar e armazenar dados em formatos como JSON e XML, preparando-os para análises futuras. O curso também cobre aspectos éticos e práticas recomendadas na coleta automatizada.",
+          "descricao": "Neste bloco, o aluno desenvolve habilidades para coletar dados a partir de fontes externas, explorando métodos práticos e ferramentas essenciais do mercado. São abordadas técnicas de conexão e importação de dados em Power BI, além da utilização do Python e da biblioteca Requests para acessar e consumir dados de APIs. O objetivo é capacitar o estudante a integrar diferentes fontes de informação em seus projetos de análise de dados, ampliando a capacidade de trabalhar com dados atualizados, dinâmicos e provenientes de múltiplos sistemas.",
           "projetos": [
             "Desenvolvimento de um pipeline ETL para APIs",
             "Criação de um dashboard interativo com dados coletados"
@@ -1691,8 +1686,7 @@
           "ferramentas_principais": [
             "Python",
             "Biblioteca Requests",
-            "Streamlit",
-            "Pandas"
+            "Power BI"
           ],
           "cursos": [
             {
@@ -1709,12 +1703,6 @@
                   "instrutor": "Henrique Frizo",
                   "o_que_vai_aprender": "Sendo alinhado com o instrutor.",
                   "valor": 8500
-                },
-                {
-                  "id": 2788,
-                  "nome": "Power BI: modelagem de dados",
-                  "link": "https://cursos.alura.com.br/course/power-bi-modelagem-dados",
-                  "status": "CARREIRA"
                 }
               ]
             },
@@ -1762,7 +1750,7 @@
         },
         {
           "nome": "Técnicas Estatísticas para Análise de Dados",
-          "descricao": "Este bloco temático aborda os conceitos e técnicas essenciais para testar hipóteses e construir modelos preditivos em análise de dados. Os alunos aprenderão a aplicar testes estatísticos para validar suposições e a construir modelos de regressão para prever resultados, utilizando tanto Python quanto R. O foco está na prática e na aplicação de técnicas estatísticas para obter insights significativos a partir dos dados.",
+          "descricao": "Este bloco temático aborda os conceitos e técnicas essenciais para testar hipóteses e construir modelos preditivos em análise de dados. Os alunos aprenderão a aplicar testes estatísticos para validar suposições e a construir modelos de regressão para prever resultados. O foco está na prática e na aplicação de técnicas estatísticas para obter insights significativos a partir dos dados.",
           "projetos": [
             "Análise de distribuições em um dataset",
             "Aplicação de testes de hipótese em diferentes cenários",
@@ -1781,10 +1769,7 @@
           ],
           "ferramentas_principais": [
             "Python",
-            "R",
-            "Google Colab",
-            "Jupyter Notebook",
-            "Bibliotecas: Pandas, Numpy, Scipy, Statsmodels, ggplot2"
+            "Google Colab"
           ],
           "cursos": [
             {
@@ -1861,7 +1846,7 @@
         },
         {
           "nome": "Computação em Nuvem para Análise de Dados",
-          "descricao": "Explora a aplicação de serviços de computação em nuvem na análise de dados, com foco no uso de plataformas como Google BigQuery para armazenamento, consulta e processamento de grandes volumes de dados. O curso abrange conceitos de escalabilidade, processamento distribuído e otimização de custos, capacitando o analista para operar em ambientes cloud modernos.",
+          "descricao": "Explora a aplicação de serviços de computação em nuvem na análise de dados, com foco no uso do Power BI Service e de plataformas como Google BigQuery para armazenamento, consulta e processamento de grandes volumes de dados. Os cursos abrangem conceitos de escalabilidade, processamento distribuído e otimização de custos, capacitando o analista para operar em ambientes cloud modernos.",
           "projetos": [
             "Análise de dados avançada com Google BigQuery",
             "Automação de processos de dados com Google Cloud"
@@ -1877,6 +1862,7 @@
             "Adaptação a tecnologias emergentes"
           ],
           "ferramentas_principais": [
+            "Power BI Service",
             "Google BigQuery",
             "Google Cloud Platform",
             "SQL",
@@ -1939,7 +1925,7 @@
         },
         {
           "nome": "Governança de Dados e Ética",
-          "descricao": "Este bloco aborda a governança de dados, destacando sua importância para garantir a qualidade, segurança, e conformidade dos dados nas organizações. Os cursos cobrem os princípios fundamentais da governança de dados, o ciclo de vida dos dados, a qualidade e a linhagem dos dados, além de aspectos éticos e legais, como a LGPD. Os alunos aprenderão a implementar práticas eficazes de governança de dados que promovem decisões informadas e seguras.",
+          "descricao": "Neste bloco, o aluno é introduzido aos princípios essenciais de governança de dados e ética, compreendendo como processos, decisões e práticas estruturadas garantem valor, qualidade, privacidade e segurança no uso dos dados nas organizações. São abordados conceitos-chave como arquitetura, modelagem, segurança e qualidade de dados, além do papel estratégico da governança para a conformidade e eficiência empresarial. O curso destaca a importância da cultura organizacional, dos diferentes papéis envolvidos e dos cinco P's da governança.",
           "projetos": [
             "Desenvolvimento de uma Política de Governança de Dados",
             "Análise de Caso Ético em Dados"
@@ -1957,11 +1943,7 @@
             "Colaboração entre equipes de dados e negócios"
           ],
           "ferramentas_principais": [
-            "Python",
-            "Biblioteca PyDeequ",
-            "OpenMetadata",
-            "SQL",
-            "Power BI"
+            "Conceitos"
           ],
           "cursos": [
             {
@@ -2031,15 +2013,8 @@
             "Aprendizado contínuo e adaptação a novas tecnologias"
           ],
           "ferramentas_principais": [
-            "OpenAI",
-            "Gemini",
-            "Grok",
-            "Copilot",
-            "Deepseek",
-            "Python",
-            "Power BI",
-            "Excel",
-            "Power Automate"
+            "LlamaIndex",
+            "Python"
           ],
           "cursos": [
             {
@@ -2082,7 +2057,7 @@
         },
         {
           "nome": "Projeto Integrador (Nível Intermediário)",
-          "descricao": "Projeto integrador que desafia os alunos a aplicarem competências intermediárias de análise de dados em um contexto realista. Os alunos irão extrair, transformar e analisar dados de múltiplas fontes, realizar análises estatísticas avançadas, desenvolver modelos preditivos e criar visualizações impactantes para comunicar seus insights.",
+          "descricao": "Projeto integrador que desafia os alunos a aplicarem competências intermediárias de análise de dados em um contexto realista. Os alunos irão extrair, transformar e analisar dados de múltiplas fontes, realizar análises estatísticas avançadas e criar visualizações impactantes para comunicar seus insights.",
           "projetos": [
             "Análise Preditiva de Churn de Clientes",
             "Apresentação Profissional do Projeto",
@@ -2106,7 +2081,6 @@
             "NoSQL",
             "Power BI",
             "Excel",
-            "AWS Glue",
             "Git"
           ],
           "cursos": [
@@ -2149,8 +2123,8 @@
       ],
       "blocos_tematicos": [
         {
-          "nome": "Big Data e NoSQL",
-          "descricao": "Explora os fundamentos de Big Data e processamento distribuído, capacitando analistas a gerenciar grandes volumes de dados. O bloco destaca o uso de frameworks como Apache Spark e plataformas como Databricks para paralelização e escalabilidade, incluindo integração com fontes como Amazon S3.",
+          "nome": "Trabalhando com Dados não Estruturados",
+          "descricao": "Este bloco apresenta o uso do MongoDB, um banco de dados NoSQL, como solução para armazenar, validar e consultar grandes volumes de dados não estruturados. O aluno aprende desde a criação e manipulação de bancos e coleções até a definição de regras de validação e a execução de consultas e operações de agregação, utilizando ferramentas como MongoDB Compass, Shell e Mongo Import para potencializar a análise de dados em cenários flexíveis e de alta complexidade.",
           "projetos": [
             "Análise de logs de acesso web utilizando Apache Spark.",
             "Manipulação e análise de grandes datasets públicos com Databricks e PySpark."
@@ -2168,24 +2142,9 @@
             "Comunicação eficaz de insights por meio de visualizações"
           ],
           "ferramentas_principais": [
-            "Databricks",
-            "Apache Spark",
-            "PySpark",
-            "Amazon S3",
-            "Plotly"
+            "MongoDB"
           ],
           "cursos": [
-            {
-              "stack": "Databricks",
-              "cursos": [
-                {
-                  "id": 2657,
-                  "nome": "Databricks: análise de dados",
-                  "link": "https://cursos.alura.com.br/course/databricks-analise-dados",
-                  "status": "CARREIRA"
-                }
-              ]
-            },
             {
               "stack": "MongoDB",
               "cursos": [
@@ -2225,6 +2184,12 @@
             {
               "stack": "Databricks",
               "cursos": [
+                {
+                  "id": 2657,
+                  "nome": "Databricks: análise de dados",
+                  "link": "https://cursos.alura.com.br/course/databricks-analise-dados",
+                  "status": "COMPLEMENTO"
+                },
                 {
                   "id": 2651,
                   "nome": "Databricks: conhecendo a ferramenta",
@@ -2330,7 +2295,7 @@
         },
         {
           "nome": "Conceitos Básicos de Machine Learning",
-          "descricao": "Neste bloco, os alunos exploram os conceitos fundamentais de Machine Learning aplicados ao papel do analista de dados. O foco está em algoritmos comuns de machine learning, como classificação, regressão e clusterização, com ênfase na aplicação prática e na interpretação de modelos. Os alunos aprendem a treinar e validar modelos usando bibliotecas populares, avaliar o desempenho com métricas adequadas e aplicar técnicas de explicação de modelos.",
+          "descricao": "Neste bloco, os alunos exploram os conceitos fundamentais de Machine Learning aplicados ao papel do analista de dados. O foco está em algoritmos comuns de machine learning, como classificação e regressão, com ênfase na aplicação prática e na interpretação de modelos. Os alunos aprendem a treinar e validar modelos usando bibliotecas populares, avaliar o desempenho com métricas adequadas e aplicar técnicas de explicação de modelos.",
           "projetos": [
             "Classificação de Risco de Crédito",
             "Clusterização de Perfis de Clientes",
@@ -2350,12 +2315,9 @@
           ],
           "ferramentas_principais": [
             "Python",
-            "R",
             "Scikit-learn",
             "Google Colab",
-            "Pandas",
-            "Matplotlib",
-            "Seaborn"
+            "Pandas"
           ],
           "cursos": [
             {
@@ -2392,14 +2354,11 @@
         },
         {
           "nome": "Tópicos Avançados e Tendências em Dados",
-          "descricao": "Este bloco temático mantém os profissionais atualizados com as rápidas evoluções no campo da análise de dados, abordando tópicos emergentes e relevantes como análise de dados em mídias sociais, processamento de linguagem natural (NLP) para extrair insights de dados textuais, análise geoespacial (GIS) aplicada a negócios locais e o uso de Inteligência Artificial generativa para auxiliar em tarefas de análise. Os alunos adquirem entendimento introdutório das possibilidades e ferramentas para aplicação prática, incentivando o aprendizado contínuo e adaptabilidade às novas ferramentas e métodos no mercado global de dados.",
+          "descricao": "Neste bloco, o aluno aprofunda seus conhecimentos em análises avançadas com Power BI, explora metodologias ágeis aplicadas à ciência de dados, estratégias data-driven para tomada de decisão, técnicas de storytelling para comunicação com a alta gestão, além de temas ligados ao empreendedorismo e consultoria em análise de dados. O objetivo é preparar o profissional para atuar em projetos estratégicos, acompanhar tendências do mercado e liderar iniciativas inovadoras em dados.",
           "projetos": [
-            "Análise de Sentimentos em Avaliações de Produto",
-            "Mapeamento Geoespacial de Imóveis"
+            ""
           ],
           "hard_skills": [
-            "Transformação e análise de dados textuais com NLP",
-            "Manipulação e visualização de dados geoespaciais",
             "Implementação de arquiteturas de dados distribuídas",
             "Criação de visualizações interativas de mapas"
           ],
@@ -2410,14 +2369,7 @@
             "Aprendizado contínuo e adaptabilidade"
           ],
           "ferramentas_principais": [
-            "Python",
-            "Geopandas",
-            "Folium",
-            "NLTK",
-            "Scikit-learn",
-            "AWS",
-            "Kafka",
-            "Airflow"
+            "Power BI"
           ],
           "cursos": [
             {
@@ -2459,7 +2411,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Estratégias Data-Driven: Do Planejamento à Execução",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "01/07/2025",
@@ -2476,7 +2428,7 @@
               "cursos": [
                 {
                   "id": 0,
-                  "status": "NOVIDADE",
+                  "status": "PRODUZINDO",
                   "nome": "Storytelling com Dados e Comunicação para Alta Gestão",
                   "link": "https://cursos.alura.com.br/",
                   "inicio": "01/08/2025",
